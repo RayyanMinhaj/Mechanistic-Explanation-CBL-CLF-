@@ -1,0 +1,200 @@
+Original Concept Count: 110
+Merged Concept Count: 65
+Similarity Threshold: 0.95
+==================================================
+
+Merged Concept: Conflict and War && Conflict and Warfare && Military Conflict
+Original Neurons: 2, 68, 117, 254
+----------------------------------------
+Merged Concept: Police arrest operations
+Original Neurons: 3
+----------------------------------------
+Merged Concept: Conflict and Casualties
+Original Neurons: 5
+----------------------------------------
+Merged Concept: Public Gatherings
+Original Neurons: 9
+----------------------------------------
+Merged Concept: International Relations
+Original Neurons: 10
+----------------------------------------
+Merged Concept: Protest gatherings
+Original Neurons: 11, 16, 33, 34, 40, 69, 74, 79, 88, 91, 94, 98, 108, 112, 115, 120, 141, 148, 153, 191, 196, 200, 215, 228, 241
+----------------------------------------
+Merged Concept: Civilian Impact of Conflict
+Original Neurons: 12
+----------------------------------------
+Merged Concept: Public unrest and mourning events
+Original Neurons: 14
+----------------------------------------
+Merged Concept: Conflict investigation
+Original Neurons: 19
+----------------------------------------
+Merged Concept: Civilian casualties in conflict && Civilian casualties in conflicts
+Original Neurons: 31, 198
+----------------------------------------
+Merged Concept: Crime scene investigation
+Original Neurons: 32
+----------------------------------------
+Merged Concept: Tragic events and their aftermath
+Original Neurons: 38
+----------------------------------------
+Merged Concept: Migrant crossings
+Original Neurons: 39
+----------------------------------------
+Merged Concept: Official meetings
+Original Neurons: 43, 49, 229, 234
+----------------------------------------
+Merged Concept: Military Conflicts && Military conflicts
+Original Neurons: 44, 193
+----------------------------------------
+Merged Concept: Armed conflicts
+Original Neurons: 45
+----------------------------------------
+Merged Concept: Arrests and extraditions
+Original Neurons: 46
+----------------------------------------
+Merged Concept: Tragic Events && Tragic events
+Original Neurons: 51, 172, 190
+----------------------------------------
+Merged Concept: Funeral Processions && Funeral processions
+Original Neurons: 55, 100, 242
+----------------------------------------
+Merged Concept: Humanitarian Crisis && Humanitarian Issues && Humanitarian assistance
+Original Neurons: 60, 139, 154
+----------------------------------------
+Merged Concept: Campaign Rallies
+Original Neurons: 61
+----------------------------------------
+Merged Concept: Protests
+Original Neurons: 63
+----------------------------------------
+Merged Concept: Diplomatic meetings && Historic diplomatic meetings && International diplomatic meetings
+Original Neurons: 65, 186, 201
+----------------------------------------
+Merged Concept: Conflict and Violence Events
+Original Neurons: 67
+----------------------------------------
+Merged Concept: Missile launches
+Original Neurons: 71
+----------------------------------------
+Merged Concept: Protest arrests
+Original Neurons: 76
+----------------------------------------
+Merged Concept: Political Unrest and Violence
+Original Neurons: 77
+----------------------------------------
+Merged Concept: Raids and investigations
+Original Neurons: 78
+----------------------------------------
+Merged Concept: Humanitarian crisis in conflict zones
+Original Neurons: 80
+----------------------------------------
+Merged Concept: Humanitarian aid operations
+Original Neurons: 81
+----------------------------------------
+Merged Concept: Political and Diplomatic Events
+Original Neurons: 101
+----------------------------------------
+Merged Concept: Responses to Terrorism
+Original Neurons: 106
+----------------------------------------
+Merged Concept: Protest arrests in Moscow
+Original Neurons: 107
+----------------------------------------
+Merged Concept: Conflict and Destruction in Aleppo && Conflict in Aleppo
+Original Neurons: 109, 135
+----------------------------------------
+Merged Concept: Military actions in Syria
+Original Neurons: 118
+----------------------------------------
+Merged Concept: War and Destruction
+Original Neurons: 122, 237
+----------------------------------------
+Merged Concept: Violence and Tragedy
+Original Neurons: 126
+----------------------------------------
+Merged Concept: Political Campaign Events && Political events && Political events and activities
+Original Neurons: 129, 131, 247
+----------------------------------------
+Merged Concept: Political Debates
+Original Neurons: 132
+----------------------------------------
+Merged Concept: Work and Security Activities
+Original Neurons: 143
+----------------------------------------
+Merged Concept: Funeral procession
+Original Neurons: 146
+----------------------------------------
+Merged Concept: Detentions
+Original Neurons: 147
+----------------------------------------
+Merged Concept: Public demonstrations and conflict aftermath
+Original Neurons: 151
+----------------------------------------
+Merged Concept: Venezuelan protests
+Original Neurons: 152
+----------------------------------------
+Merged Concept: Political campaigns
+Original Neurons: 155
+----------------------------------------
+Merged Concept: Mass gatherings
+Original Neurons: 158
+----------------------------------------
+Merged Concept: Conflict and Arrests
+Original Neurons: 159
+----------------------------------------
+Merged Concept: Conflict and Demonstrations
+Original Neurons: 166
+----------------------------------------
+Merged Concept: Urban warfare and destruction
+Original Neurons: 167
+----------------------------------------
+Merged Concept: Criminal arrests
+Original Neurons: 173
+----------------------------------------
+Merged Concept: Mourning tragedy
+Original Neurons: 175
+----------------------------------------
+Merged Concept: Support and Empowerment Gatherings
+Original Neurons: 192
+----------------------------------------
+Merged Concept: Conflict Zones
+Original Neurons: 194
+----------------------------------------
+Merged Concept: Mass Casualty Events
+Original Neurons: 205
+----------------------------------------
+Merged Concept: Weapons testing
+Original Neurons: 207
+----------------------------------------
+Merged Concept: Refugee migration
+Original Neurons: 216
+----------------------------------------
+Merged Concept: Military and Protest
+Original Neurons: 218
+----------------------------------------
+Merged Concept: Funerals and Memorials
+Original Neurons: 221
+----------------------------------------
+Merged Concept: Political and Social Gatherings
+Original Neurons: 222
+----------------------------------------
+Merged Concept: Political interactions
+Original Neurons: 223
+----------------------------------------
+Merged Concept: Arrests and Detention && Arrests and Detentions
+Original Neurons: 224, 253
+----------------------------------------
+Merged Concept: Military-related events
+Original Neurons: 240
+----------------------------------------
+Merged Concept: Personal Communications
+Original Neurons: 246
+----------------------------------------
+Merged Concept: Migration and Border Crossings
+Original Neurons: 249
+----------------------------------------
+Merged Concept: Police detentions during protests
+Original Neurons: 255
+----------------------------------------
