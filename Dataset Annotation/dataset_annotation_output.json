@@ -1,0 +1,1848 @@
+{
+    "embedding_132_Contact-Meet.pt": {
+        "text": "Pope Francis looks at Imam Khalid Latif, right, and Rabbi Elliot J. Cosgrove, left, shaking hands as he arrives for an interfaith service at the Sept. 11 memorial museum in New York, Sept. 25, 2015",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.09.25.2978237_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_212_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_21_Movement-Transport.pt": {
+        "text": "Iraqi government forces drive their armored vehicle, June 22, 2016, some 40 kilometers (25 miles) west of Qayyarah, during their operation to take the city and make it a launchpad for Mosul",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_f.ptNW_2016.06.26.3392569_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_35_Conflict-Attack.pt": {
+        "text": "This photo provided by Yemen's Defense Ministry shows damaged vehicles after an explosion at the Defense Ministry complex in Sana'a, Dec. 5, 2013",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.01.22.1835368_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_52_Life-Die.pt": {
+        "text": "Bodies of IS militants litter the streets and buildings in the areas of Old Mosul recently captured, while the bodies of families are buried in the rubble, June 25, 2017",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.26.3916532_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_103_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Police officers escort men arrested in a raid on a gay sauna at North Jakarta police headquarters in Jakarta, Indonesia, May 22, 2017",
+        "concept_name": "Police arrest operations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.31.3878829_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_269_Life-Die.pt": {
+        "text": "Activists: Syrian Government Shelling Leaves 90 Dead-Syrian opposition forces say more than 90 people, many of them children, have been killed in a coordinated assault on a village outside the city of Homs by government artillery and militiamen",
+        "concept_name": "Conflict and Casualties",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_111_Contact-Meet.pt": {
+        "text": "US Republican presidential candidate Donald Trump greets supporters at his campaign rally at Werner Enterprises Hangar in Omaha, Nebraska, US May 6, 2016",
+        "concept_name": "Public Gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.11.3325807_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_155_Justice-Arrest-Jail.pt": {
+        "text": "A detained woman looks out of a police bus in downtown Moscow, Russia, March 26, 2017",
+        "concept_name": "Public Gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_229_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Pakistani Taliban fighters, who were arrested by Afghan border police, stand during a presentation of seized weapons and equipment to the media in Kabul, Afghanistan on January 5, 2016",
+        "concept_name": "International Relations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.12.3327048_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_63_Movement-Transport.pt": {
+        "text": "FILE - Trucks drive past piles of shipping containers at the Qingdao port in Qingdao, Shandong province, June 8, 2014",
+        "concept_name": "International Relations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.15.3376757_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_88_Contact-Meet.pt": {
+        "text": "Participants attend the NATO Summit in Warsaw, Poland, July 8, 2016",
+        "concept_name": "International Relations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.23.3431608_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_89_Contact-Meet.pt": {
+        "text": "Participants attend the NATO Summit in Warsaw, Poland, July 8, 2016",
+        "concept_name": "International Relations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.23.3431608_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_90_Contact-Meet.pt": {
+        "text": "Afghan President Ashraf Ghani, center, speaks with U.S. President Barack Obama and NATO Secretary General Jens Stoltenberg at the NATO summit in Warsaw, Poland, July 9, 2016",
+        "concept_name": "International Relations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.23.3431608_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_127_Conflict-Demonstrate.pt": {
+        "text": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_129_Conflict-Demonstrate.pt": {
+        "text": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_130_Conflict-Demonstrate.pt": {
+        "text": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_131_Conflict-Demonstrate.pt": {
+        "text": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_4.jpg",
+        "follows_concept": 1
+    },
+
+    "embedding_247_Life-Die.pt": {
+        "text": "A father reacts after his son was killed in an airstrike during a battle between Iraqi forces and Islamic State militants, in Mosul, Iraq, March 17, 2017",
+        "concept_name": "Civilian Impact of Conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    
+    "embedding_248_Life-Die.pt": {
+        "text": "Families fleeing Mosul in recent weeks have talked of high numbers of civilians killed by air strikes, and said that in many cases Islamic State fighters have slipped away by the time the bombs hit",
+        "concept_name": "Civilian Impact of Conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    
+    
+    "embedding_249_Life-Die.pt": {
+        "text": "Families fleeing Mosul in recent weeks have talked of high numbers of civilians killed by air strikes, and said that in many cases Islamic State fighters have slipped away by the time the bombs hit",
+        "concept_name": "Civilian Impact of Conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_216_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+        "concept_name": "Public unrest and mourning events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_292_Life-Die.pt": {
+        "text": "Brazil Mourns Dead From Massive Fire-Brazilians are mourning the loss of 232 people killed early Sunday in a fire that swept through a nightclub in the far south of the country",
+        "concept_name": "Public unrest and mourning events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.01.28.1592104_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_160_Contact-Phone-Write.pt": {
+        "text": "FILE - Air Force Lt. Col. David Hanson, of Chicago, takes a phone call from a child in Florida at the Santa Tracking Operations Center at Peterson Air Force Base near Colorado Springs, Colo., Dec. 24, 2014",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.12.23.3115897_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_224_Conflict-Demonstrate.pt": {
+        "text": "Police officers take a man into custody who was protesting against Republican presidential candidate Donald Trump outside the Hyatt Regency hotel during the California Republican Party 2016 Convention in Burlingame, Calif., April 29, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.30.3309655_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_44_Conflict-Demonstrate.pt": {
+        "text": "Protesters march along 57th Street toward Trump Tower, Nov. 9, 2016, in New York, in opposition of Donald Trump's presidential election victory",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.10.3590360_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_45_Conflict-Demonstrate.pt": {
+        "text": "Protesters march along 57th Street toward Trump Tower, Nov. 9, 2016, in New York, in opposition of Donald Trump's presidential election victory",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.10.3590360_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_277_Life-Die.pt": {
+        "text": "Observers -A team of U.N. observers headed by General Robert Mood, arrived in Houla Saturday to investigate the killings.The general condemned the \"brutal tragedy\" and said the observers counted more than 32 children under the age of 10 and over 60 adults killed",
+        "concept_name": "Conflict investigation",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_242_Life-Die.pt": {
+        "text": "A father's loss-Ayed, a 40-year-old laborer, pulled back a blanket to show his only son, 3-year-old Ahmed, lying lifeless with his eyes closed and a big gash in his right cheek",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_252_Life-Die.pt": {
+        "text": "Separately, the United Nations says it has received many reports of civilian deaths in air strikes",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_158_Life-Die.pt": {
+        "text": "The Palestinian stabbed two officers before he was shot and killed, police said",
+        "concept_name": "Crime scene investigation",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.03.04.3219688_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_6_Justice-Arrest-Jail.pt": {
+        "text": "Turkish police arrest a protester chanting slogans in Istanbul after he and others tried to stage a march to denounce the deaths of a Monday explosion in the Turkish town of Suruc near the Syrian border, July 21, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.07.31.2889903_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_0_Justice-Arrest-Jail.pt": {
+        "text": "Two Chicago police officers take a man into custody during a protest march, Wednesday, Nov. 25, 2015, in Chicago, the day after murder charges were brought against police officer Jason Van Dyke in the killing of 17-year-old Laquan McDonald",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.11.26.3074855_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_139_Conflict-Demonstrate.pt": {
+        "text": "Iranian demonstrators hold anti-Saudi placards in a rally to protest the execution by Saudi Arabia last week of Sheikh Nimr al-Nimr, a prominent opposition Saudi Shiite cleric, in Tehran, Iran, Jan. 4, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.05.3132000_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_140_Conflict-Demonstrate.pt": {
+        "text": "Followers of Shi'ite cleric Muqtada al-Sadr burn an effigy of King Salman of Saudi Arabia as they hold posters of Sheik Nimr al-Nimr during a demonstration in Baghdad, Iraq, Jan. 4, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.05.3132000_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_233_Life-Die.pt": {
+        "text": "Ukrainian soldiers carry a coffin bearing the body of a fellow serviceman who was killed in fighting with pro-Russia rebels in eastern Ukraine, during his funeral in Kyiv Jan. 20, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.01.20.2605914_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_51_Life-Die.pt": {
+        "text": "Abdul-Hamid Alyousef, 29, holds his twin babies who were killed during a suspected chemical weapons attack, in Khan Sheikhoun in the northern province of Idlib, Syria, April 4, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.05.3797975_4.jpg",
+        "follows_concept": 0
+    },
+    "embedding_137_Life-Die.pt": {
+        "text": "Coffins containing bodies of Indian soldiers G. Doloi and Biaswajit Garai, killed in an attack at the Indian army base in Kashmir, arrive at the Netaji Subhas Chandra Bose International airport in Kolkata, India, Sept. 19, 2016",
+        "concept_name": "Tragic events and their aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.27.3527025_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_186_Life-Die.pt": {
+        "text": "Victims of suicide bombing targeting a hospital in Quetta, Pakistan lie on stretchers, August 8, 2016",
+        "concept_name": "Tragic events and their aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.12.3461808_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_294_Life-Die.pt": {
+        "text": "Aid Group: About 40 Migrants Reportedly Drown During Rescue-The Save the Children aid group reported that about 40 migrants may have drowned Sunday in the Mediterranean when the rubber dinghy they were on either deflated or exploded as they tried to reach the coast of Italy",
+        "concept_name": "Tragic events and their aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.05.05.2749920_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_37_Justice-Arrest-Jail.pt": {
+        "text": "At an Iraqi base in Mosul, suspected IS militants are held before being transported to authorities, July 9, 2017",
+        "concept_name": "Tragic events and their aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.07.10.3936006_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_14_Movement-Transport.pt": {
+        "text": "The International Organization for Migration estimated that more than a quarter-of-a-million migrants crossed the Libya-Niger border last year",
+        "concept_name": "Migrant crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_16_Movement-Transport.pt": {
+        "text": "The International Organization for Migration estimated that more than a quarter-of-a-million migrants crossed the Libya-Niger border last year",
+        "concept_name": "Migrant crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_17_Movement-Transport.pt": {
+        "text": "According to the United Nations, more than 43,000 migrants, mostly from sub-Saharan Africa, have reached European shores this year from Libya and a surge in migrant crossings is expected this spring and summer",
+        "concept_name": "Migrant crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_19_Movement-Transport.pt": {
+        "text": "According to the United Nations, more than 43,000 migrants, mostly from sub-Saharan Africa, have reached European shores this year from Libya and a surge in migrant crossings is expected this spring and summer",
+        "concept_name": "Migrant crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_31_Conflict-Demonstrate.pt": {
+        "text": "Women march against U.S. President-elect Donald Trump in Manhattan, New York, Nov. 13, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.17.3640413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_104_Contact-Meet.pt": {
+        "text": "FILE - President Donald Trump meets with Turkish President Recep Tayyip Erdogan in the Oval Office of the White House in Washington, May 16, 2017",
+        "concept_name": "Official meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.17.3854850_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_145_Conflict-Attack.pt": {
+        "text": "FILE - Turkish artillery fire from the border toward northern Syria, in Kilis, Turkey, Feb. 16, 2016",
+        "concept_name": "Military Conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.30.3351608_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_271_Life-Die.pt": {
+        "text": "Opposition activists say some of the victims, many of whom are children, were killed in the shelling, while others were shot by pro-government militiamen known as \u201cshabiha.",
+        "concept_name": "Military Conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_87_Movement-Transport.pt": {
+        "text": "FILE - Afghan National Army troops arrive in Nad Ali district of Helmand province, southern Afghanistan, Aug. 10, 2016",
+        "concept_name": "Military Conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.02.3491404_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_217_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+        "concept_name": "Armed conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_75_Conflict-Attack.pt": {
+        "text": "FILE - A Shi'ite fighter clashes with members of the Sunni-dominated Free Syrian Army rebel in the town of Hatita, in the countryside of Damascus, Syria, Nov. 22, 2013",
+        "concept_name": "Armed conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_192_Justice-Arrest-Jail.pt": {
+        "text": "Medhane Tesfamariam Berhe is pictured with Italian policemen as they land at Palermo airport, Italy, following his arrest in Khartoum, Sudan, on May 24, in this file photo released June 8, 2016 by Italian police",
+        "concept_name": "Arrests and extraditions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.28.3437456_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_92_Contact-Meet.pt": {
+        "text": "Philippine President Rodrigo Duterte, front, walks with Chinese President Xi Jinping during a welcome ceremony outside the Great Hall of the People in Beijing, China, Oct. 20, 2016",
+        "concept_name": "Official meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.31.3572766_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_110_Life-Die.pt": {
+        "text": "Police survey the crime scene where Kem Ley was shot dead while family members pray next to his dead body, July 10, 2016",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.10.3411182_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_106_Life-Die.pt": {
+        "text": "Rescue workers carry the coffin of one of the hostages killed during a hostage crisis in a gas plant at the hospital in In Amenas, January 21, 2013",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.01.21.1587732_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_114_Life-Die.pt": {
+        "text": "Without giving any specific time, Hezbollah said Badreddine was killed in a big explosion targeting one of its bases near Damascus' airport",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_115_Life-Die.pt": {
+        "text": "Without giving any specific time, Hezbollah said Badreddine was killed in a big explosion targeting one of its bases near Damascus' airport",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_118_Life-Die.pt": {
+        "text": "Hezbollah members carry the coffin of top Hezbollah commander Mustafa Badreddine, who was killed in an attack in Syria, during his funeral in Beirut's southern suburbs, Lebanon, May 13, 2016",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_119_Life-Die.pt": {
+        "text": "Hezbollah members carry the coffin of top Hezbollah commander Mustafa Badreddine, who was killed in an attack in Syria, during his funeral in Beirut's southern suburbs, Lebanon, May 13, 2016",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_225_Transaction-Transfer-Money.pt": {
+        "text": "With interest accumulated over the years, Cambodia today owes the U.S. about half a billion dollars",
+        "concept_name": "Humanitarian Crisis",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.14.3724228_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_293_Life-Die.pt": {
+        "text": "Aid Group: About 40 Migrants Reportedly Drown During Rescue-The Save the Children aid group reported that about 40 migrants may have drowned Sunday in the Mediterranean when the rubber dinghy they were on either deflated or exploded as they tried to reach the coast of Italy",
+        "concept_name": "Humanitarian Crisis",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.05.05.2749920_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_12_Contact-Meet.pt": {
+        "text": "Republican presidential candidate, businessman Donald Trump speaks to supporters during a primary night rally, Tuesday, Feb. 9, 2016, in Manchester, N.H",
+        "concept_name": "Campaign Rallies",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.02.10.3184933_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_287_Conflict-Demonstrate.pt": {
+        "text": "Protests and Rallies in Egypt-Supporters and opponents of ousted Egyptian President Mohamed Morsi staged massive protests Sunday",
+        "concept_name": "Protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.07.08.1696918_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_303_Conflict-Demonstrate.pt": {
+        "text": "Global May Day Protests-A look at protests around the world on May 1, International Workers Day - a day when workers and activists march in the streets and gather in city centers to honor laborers",
+        "concept_name": "Protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.01.3832748_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_305_Conflict-Demonstrate.pt": {
+        "text": "Global May Day Protests-A look at protests around the world on May 1, International Workers Day - a day when workers and activists march in the streets and gather in city centers to honor laborers",
+        "concept_name": "Protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.01.3832748_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_133_Contact-Meet.pt": {
+        "text": "FILE - President Donald Trump, right, and Japanese Prime Minister Shinzo Abe shake hands following their joint news conference in the East Room of the White House in Washington, Feb. 10, 2017",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.24.3823632_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_41_Contact-Meet.pt": {
+        "text": "FILE - Russian Prime Minister Vladimir Putin, right, shakes hands with Rex W. Tillerson, chairman and chief executive officer of Exxon Mobil Corporation at their meeting in the Novo-Ogaryovo residence outside Moscow, Monday, April 16, 2012",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.14.3635692_9.jpg",
+        "follows_concept": 0
+    },
+    "embedding_5_Contact-Meet.pt": {
+        "text": "President Barack Obama meets with South Korean President Park Geun-hye, left, and Japanese Prime Minister Shinzo Abe during the Nuclear Security Summit in Washington, March 31, 2016",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.01.3264272_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_91_Contact-Meet.pt": {
+        "text": "Philippine President Rodrigo Duterte, left, is shown the way by Japanese Prime Minister Shinzo Abe after a joint press conference following their meeting at Abe's official residence in Tokyo, Oct. 26, 2016",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.31.3572766_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_93_Contact-Meet.pt": {
+        "text": "U.S. President-elect Donald Trump and Vice President-elect Mike Pence greet retired Marine General James Mattis for a meeting at the main clubhouse at Trump National Golf Club in Bedminster, New Jersey, November 19, 2016",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.22.3607054_4.jpg",
+        "follows_concept": 0
+    },
+    "embedding_109_Life-Die.pt": {
+        "text": "Police survey the crime scene where Kem Ley was shot dead while family members pray next to his dead body, July 10, 2016",
+        "concept_name": "Conflict and Violence Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.10.3411182_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_164_Conflict-Demonstrate.pt": {
+        "text": "FILE - Women attend a \"Freedom of Speech Rally Round II\" across the street from the Islamic Community Center in Phoenix, Arizona, May 29, 2015",
+        "concept_name": "Conflict and Violence Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.17.3469525_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_167_Conflict-Attack.pt": {
+        "text": "FILE - This photo provided by the Shafak Charity Organization, which has been authenticated based on its contents and other AP reporting, shows shows the badly damaged exterior of a medical facility dedicated to women after it was hit by four airstrikes",
+        "concept_name": "Conflict and Violence Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_10_Conflict-Attack.pt": {
+        "text": "FILE - Smoke rises over the Syrian city of Kobani, following a US led coalition airstrike, seen from outside Suruc, on the Turkey-Syria border Monday, Nov. 10, 2014",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.21.3017239_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_210_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_27_Conflict-Demonstrate.pt": {
+        "text": "FILE - Immigration activists march in a rally against the U.S. Immigration and Customs Enforcement's (ICE) raids and deportation of immigrants near the downtown Los Angeles Federal Building, Jan. 26, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.15.3726266_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_61_Justice-Arrest-Jail.pt": {
+        "text": "FILE - A photo released by U.S. Immigration and Customs Enforcement (ICE) shows a foreign national being arrested during a targeted enforcement operation conducted by ICE agents, Feb. 7, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.21.3775715_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_70_Conflict-Attack.pt": {
+        "text": "A still image taken from footage shot on June 18, 2017 and broadcast on Iranian Television IRINN, purports to show missiles being fired from Iran into eastern Syria",
+        "concept_name": "Missile launches",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_71_Conflict-Attack.pt": {
+        "text": "A still image taken from footage shot on June 18, 2017 and broadcast on Iranian Television IRINN, purports to show missiles being fired from Iran into eastern Syria",
+        "concept_name": "Missile launches",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_165_Conflict-Demonstrate.pt": {
+        "text": "FILE - Women attend a \"Freedom of Speech Rally Round II\" across the street from the Islamic Community Center in Phoenix, Arizona, May 29, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.17.3469525_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_147_Justice-Arrest-Jail.pt": {
+        "text": "FILE - A demonstrator is arrested by riot police while rallying against Venezuela's President Nicolas Maduro's government in Caracas, Venezuela, April 10, 2017",
+        "concept_name": "Protest arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.13.3808915_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_47_Justice-Arrest-Jail.pt": {
+        "text": "FILE - An anti-government protester is detained by Bolivarian National Police blocking protesters from reaching the headquarters of the national electoral body, CNE, to demand a recall referendum against President Nicolas Maduro in Caracas, Venezuela, May 18, 2016",
+        "concept_name": "Protest arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.15.3767889_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_50_Justice-Arrest-Jail.pt": {
+        "text": "FILE - A demonstrator is detained by police during protests in Baton Rouge, Louisiana, July 10, 2016",
+        "concept_name": "Protest arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.12.3415627_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_195_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+        "concept_name": "Political Unrest and Violence",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_268_Life-Die.pt": {
+        "text": "Activists: Syrian Government Shelling Leaves 90 Dead-Syrian opposition forces say more than 90 people, many of them children, have been killed in a coordinated assault on a village outside the city of Homs by government artillery and militiamen",
+        "concept_name": "Political Unrest and Violence",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_62_Movement-Transport.pt": {
+        "text": "Malaysian plainclothes police carry a computer from the 1MDB (1 Malaysia Development Berhad) office after a raid in Kuala Lumpur, Malaysia, July 8, 2015",
+        "concept_name": "Raids and investigations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.22.3297950_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_288_Conflict-Demonstrate.pt": {
+        "text": "Protests and Rallies in Egypt-Supporters and opponents of ousted Egyptian President Mohamed Morsi staged massive protests Sunday",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.07.08.1696918_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_307_Life-Die.pt": {
+        "text": "Hundreds of Morsi supporters were killed when police forces stormed two protest camps on Aug. 14",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.10.30.1779904_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_100_Movement-Transport.pt": {
+        "text": "A displaced woman who is fleeing from clashes holds her baby in Qayyarah, during an operation to attack Islamic State militants in Mosul, Iraq, Oct. 19, 2016",
+        "concept_name": "Humanitarian crisis in conflict zones",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.19.3557471_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_20_Movement-Transport.pt": {
+        "text": "Displaced Iraqis who fled the government's operation against the Islamic State (IS) group in the city of Fallujah carry basic food items donated by a NGO called Preemptive Love Coalition on June 20, 2016 in a camp in Khaldiyeh",
+        "concept_name": "Humanitarian crisis in conflict zones",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.26.3392569_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_245_Life-Die.pt": {
+        "text": "A father reacts after his son was killed in an airstrike during a battle between Iraqi forces and Islamic State militants, in Mosul, Iraq, March 17, 2017",
+        "concept_name": "Humanitarian crisis in conflict zones",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_231_Movement-Transport.pt": {
+        "text": "A tractor is seen transporting supplies through the make-shift reception center for migrants and asylum-seekers in Traiskirchen, Austria",
+        "concept_name": "Humanitarian aid operations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.01.2987042_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_308_Movement-Transport.pt": {
+        "text": "Vehicles of the International Committee of the Red Cross (ICRC) and the United Nations wait on a street after an aid convoy entered the rebel-held Syrian town of Daraya, southwest of the capital Damascus, on June 1, 2016",
+        "concept_name": "Humanitarian aid operations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.02.3358563_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_202_Conflict-Demonstrate.pt": {
+        "text": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_196_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_197_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_211_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_94_Conflict-Demonstrate.pt": {
+        "text": "FILE - Police stand watch as anti-coup demonstrators rally to mark the second anniversary of the military takeover of government, in Bangkok, Thailand, May 22, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.22.3734870_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_122_Conflict-Demonstrate.pt": {
+        "text": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_124_Conflict-Demonstrate.pt": {
+        "text": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_125_Conflict-Demonstrate.pt": {
+        "text": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_126_Conflict-Demonstrate.pt": {
+        "text": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_25_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators take part in the Women's March on London, following the Inauguration of U.S. President Donald Trump, in London, Jan. 21, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.22.3686805_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_298_Life-Die.pt": {
+        "text": "Blast Targets Pakistani Security Personnel-The explosion in Quetta ripped through a vehicle used by security forces, killing at least 12 people -- 11 security personnel and a civilian",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.05.23.1666803_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_56_Contact-Meet.pt": {
+        "text": "Dallas Mayor Mike Rawlings visits a makeshift memorial of police cars, in honor of the slain Dallas police officers, in front of their headquarters in Dallas, July 9, 2016",
+        "concept_name": "Political and Diplomatic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.09.3410778_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_79_Contact-Meet.pt": {
+        "text": "FILE - Secretary of State John Kerry talks with Iranian Foreign Minister Mohammad Javad Zarif in Vienna, after the International Atomic Energy Agency (IAEA) verified that Iran has met all conditions under the nuclear deal",
+        "concept_name": "Political and Diplomatic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.09.3589149_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_86_Contact-Meet.pt": {
+        "text": "FILE - Iran's ambassador to the International Atomic Energy Agency (IAEA) Reza Najafi waits for the start of a board of governors meeting at the IAEA headquarters in Vienna, Austria, June 10, 2015",
+        "concept_name": "Political and Diplomatic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.07.31.2888384_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_97_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Montenegrin police officers escort a suspect in Podgorica, Oct. 16, 2016",
+        "concept_name": "Political and Diplomatic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.15.3902402_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_99_Contact-Meet.pt": {
+        "text": "FILE - Turkey's President Recep Tayyip Erdogan, right, greets Saudi Arabia's Foreign Minister Adel al-Jubeir before a meeting in Ankara, Oct. 15, 2015",
+        "concept_name": "Political and Diplomatic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.02.14.3190340_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_188_Conflict-Demonstrate.pt": {
+        "text": "FILE - Women chant slogans condemning Islamist terrorism during an anti-terror rally in Lahore, Pakistan, Jan. 16, 2015",
+        "concept_name": "Responses to Terrorism",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.21.3519438_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_263_Life-Die.pt": {
+        "text": "Funerals Begin for 141 After Taliban Attack on Pakistan School-The first funerals are being held for the victims of a Taliban school massacre in Pakistan on Tuesday that left at least 141 people dead, most of them young students",
+        "concept_name": "Responses to Terrorism",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.12.17.2562583_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_264_Life-Die.pt": {
+        "text": "Funerals Begin for 141 After Taliban Attack on Pakistan School-The first funerals are being held for the victims of a Taliban school massacre in Pakistan on Tuesday that left at least 141 people dead, most of them young students",
+        "concept_name": "Responses to Terrorism",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.12.17.2562583_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_265_Life-Die.pt": {
+        "text": "Funerals Begin for 141 After Taliban Attack on Pakistan School-The first funerals are being held for the victims of a Taliban school massacre in Pakistan on Tuesday that left at least 141 people dead, most of them young students",
+        "concept_name": "Responses to Terrorism",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.12.17.2562583_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_266_Life-Die.pt": {
+        "text": "Funerals Begin for 141 After Taliban Attack on Pakistan School-The first funerals are being held for the victims of a Taliban school massacre in Pakistan on Tuesday that left at least 141 people dead, most of them young students",
+        "concept_name": "Responses to Terrorism",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.12.17.2562583_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_148_Justice-Arrest-Jail.pt": {
+        "text": "US Condemns Russia's Arrest of Opposition Leader, Hundreds of Protesters-MOSCOW \u2014\u00a0-The United States has \"strongly condemned\" the detention of hundreds of protesters throughout Russia Sunday, including the country's opposition leader, Alexei Navalny",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_149_Justice-Arrest-Jail.pt": {
+        "text": "US Condemns Russia's Arrest of Opposition Leader, Hundreds of Protesters-MOSCOW \u2014\u00a0-The United States has \"strongly condemned\" the detention of hundreds of protesters throughout Russia Sunday, including the country's opposition leader, Alexei Navalny",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_150_Justice-Arrest-Jail.pt": {
+        "text": "That number has not been independently confirmed and state news agency TASS cited Moscow police as saying they made about 500 arrests, including Navalny",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_151_Justice-Arrest-Jail.pt": {
+        "text": "That number has not been independently confirmed and state news agency TASS cited Moscow police as saying they made about 500 arrests, including Navalny",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_152_Justice-Arrest-Jail.pt": {
+        "text": "He was detained while walking from a subway station to join the rally at Moscow's iconic Pushkin Square",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_153_Justice-Arrest-Jail.pt": {
+        "text": "He was detained while walking from a subway station to join the rally at Moscow's iconic Pushkin Square",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_154_Justice-Arrest-Jail.pt": {
+        "text": "A detained woman looks out of a police bus in downtown Moscow, Russia, March 26, 2017",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_156_Justice-Arrest-Jail.pt": {
+        "text": "Law enforcement officers detain an opposition supporter during a rally in Moscow, Russia, March 26, 2017",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_157_Justice-Arrest-Jail.pt": {
+        "text": "Law enforcement officers detain an opposition supporter during a rally in Moscow, Russia, March 26, 2017",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.27.3783190_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_43_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Police detain a protester in downtown Moscow, Russia, March 26, 2017",
+        "concept_name": "Protest arrests in Moscow",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.08.3842885_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_123_Conflict-Demonstrate.pt": {
+        "text": "Protesters Across Globe Take Stand Against Trump-LONDON \u2014\u00a0-A banner reading \u201cBuild bridges not walls\u201d was draped across London's Tower Bridge as part of several protests in Europe and Asia on Friday against the inauguration of Donald Trump as U.S. president",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_128_Conflict-Demonstrate.pt": {
+        "text": "There were also demonstrations in Japan, the Philippines and Belgium, where hundreds of people held a minute's silence, lighting candles in Friday evening's bitter cold and holding signs defending women's rights",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.20.3685521_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_173_Conflict-Attack.pt": {
+        "text": "Oliver says only one percent targeted the Islamic State terror group \u2014 the rest hit anti-Assad rebels and civilians mostly in the city\u2019s eastern and southern districts, or to the west or south of the city where insurgents have tried at various times to break a months-long siege of their districts",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_177_Conflict-Attack.pt": {
+        "text": "The assault on eastern Aleppo is taking its toll of government forces",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_181_Conflict-Attack.pt": {
+        "text": "the head of a foundation in Tehran that provides aid to the families of the dead admitted that more than a thousand fighters with Iranian militias, many of them Afghan Shi\u2019ite exiles, have been killed in combat in Syria \u2014 about 400 appear to have died fighting in Aleppo province in just the past three months",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_22_Movement-Transport.pt": {
+        "text": "In this photo released by the Syrian official news agency SANA, a Syrian soldier carries a wounded woman in eastern Aleppo, Syria, Dec. 12, 2016",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.14.3635600_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_300_Conflict-Demonstrate.pt": {
+        "text": "International Protests Against Israeli Military Offensive on Gaz",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.07.14.1957332_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_301_Conflict-Demonstrate.pt": {
+        "text": "International Protests Against Israeli Military Offensive on Gaz",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.07.14.1957332_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_302_Conflict-Demonstrate.pt": {
+        "text": "International Protests Against Israeli Military Offensive on Gaz",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.07.14.1957332_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_163_Conflict-Demonstrate.pt": {
+        "text": "FILE - Students chant while marching at a rally against Islamophobia at San Diego State University in San Diego, California, Nov. 23, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.17.3469525_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_236_Conflict-Demonstrate.pt": {
+        "text": "Thai anti-coup protesters hold up banners during a protest outside a shopping complex in Bangkok, Thailand Saturday, May 24, 2014",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.05.25.1921616_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_272_Life-Die.pt": {
+        "text": "Opposition activists say some of the victims, many of whom are children, were killed in the shelling, while others were shot by pro-government militiamen known as \u201cshabiha.",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_279_Conflict-Demonstrate.pt": {
+        "text": "Students Protest Facebook Cheating Scandal in Egypt -CAIRO \u2014\u00a0-Hundreds of high school students marched in Cairo, calling for the Minister of Education's resignation after officials were arrested for leaking cheat sheets for national exams on Facebook",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_280_Conflict-Demonstrate.pt": {
+        "text": "Students Protest Facebook Cheating Scandal in Egypt -CAIRO \u2014\u00a0-Hundreds of high school students marched in Cairo, calling for the Minister of Education's resignation after officials were arrested for leaking cheat sheets for national exams on Facebook",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_281_Conflict-Demonstrate.pt": {
+        "text": "Besides demanding the minister's resignation, students protested corruption in the school system and demanded the ministry not cancel their exam scores, which would force them to prepare for the exam again",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_282_Conflict-Demonstrate.pt": {
+        "text": "Besides demanding the minister's resignation, students protested corruption in the school system and demanded the ministry not cancel their exam scores, which would force them to prepare for the exam again",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_284_Conflict-Demonstrate.pt": {
+        "text": "\"It means we will have no dreams, no dream to join a university or a faculty,\" said Mariam, a high school senior at the demonstration",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_306_Conflict-Demonstrate.pt": {
+        "text": "Global May Day Protests-A look at protests around the world on May 1, International Workers Day - a day when workers and activists march in the streets and gather in city centers to honor laborers",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.01.3832748_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_101_Movement-Transport.pt": {
+        "text": "FILE - In this undated file photo released by a militant website, which has been verified and is consistent with other AP reporting, militants of the Islamic State group hold up their weapons and wave flags on their vehicles in a convoy on a road leading to Iraq, while riding in Raqqa, Syria",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.19.3557471_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_102_Movement-Transport.pt": {
+        "text": "FILE - In this undated file photo released by a militant website, which has been verified and is consistent with other AP reporting, militants of the Islamic State group hold up their weapons and wave flags on their vehicles in a convoy on a road leading to Iraq, while riding in Raqqa, Syria",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.19.3557471_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_178_Conflict-Attack.pt": {
+        "text": "A man covers his face from dust as he walks with a bicycle after a strike on the rebel held besieged al-Shaar neighborhood of Aleppo, Syria, Nov. 26, 2016",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_179_Conflict-Attack.pt": {
+        "text": "A man covers his face from dust as he walks with a bicycle after a strike on the rebel held besieged al-Shaar neighborhood of Aleppo, Syria, Nov. 26, 2016",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_187_Life-Die.pt": {
+        "text": "Women carry the body of a civilian killed in the center of Malakal, Upper Nile State in South Sudan, Jan. 21, 2014",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.01.31.1841956_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_54_Conflict-Demonstrate.pt": {
+        "text": "FILE - A protester holds a flyer reading \"We need Dozhd\" during a rally in support of the independent television station Dozhd (TV Rain), in Moscow, February 8, 2014",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.12.08.3093406_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_77_Conflict-Attack.pt": {
+        "text": "FILE - A Shi'ite fighter clashes with members of the Sunni-dominated Free Syrian Army rebel in the town of Hatita, in the countryside of Damascus, Syria, Nov. 22, 2013",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_180_Conflict-Attack.pt": {
+        "text": "the head of a foundation in Tehran that provides aid to the families of the dead admitted that more than a thousand fighters with Iranian militias, many of them Afghan Shi\u2019ite exiles, have been killed in combat in Syria \u2014 about 400 appear to have died fighting in Aleppo province in just the past three months",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_64_Conflict-Attack.pt": {
+        "text": "Iran Escalates Involvement in Syria With Anti-IS Missile Strike-Iran\u2019s missile strike this week against Islamic State targets in Syria is escalating its military involvement in Syria and likely will heighten tensions between the U.S.-led coalition and Russian and Iranian forces aligned with the Syrian regime, analysts say",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_65_Conflict-Attack.pt": {
+        "text": "Iran Escalates Involvement in Syria With Anti-IS Missile Strike-Iran\u2019s missile strike this week against Islamic State targets in Syria is escalating its military involvement in Syria and likely will heighten tensions between the U.S.-led coalition and Russian and Iranian forces aligned with the Syrian regime, analysts say",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_66_Conflict-Attack.pt": {
+        "text": "The strike \u2014 the first time Iran fired missiles outside its borders in 30 years \u2014 was meant as retaliation for the IS-claimed twin terror attacks in Tehran on June 7 that killed 17 people and wounded more than 50, Iranian officials said",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_67_Conflict-Attack.pt": {
+        "text": "The strike \u2014 the first time Iran fired missiles outside its borders in 30 years \u2014 was meant as retaliation for the IS-claimed twin terror attacks in Tehran on June 7 that killed 17 people and wounded more than 50, Iranian officials said",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_68_Conflict-Attack.pt": {
+        "text": "But Iranian state-run media said the missile strikes carried a greater message to Iran\u2019s perceived enemies \u2014 Israel, Saudi Arabia and the U.S.-Kayhan Daily, a conservative newspaper close to Tehran\u2019s leadership, published an editorial saying the strikes were more than \u201cjust a response\u201d to the IS attack in Tehran",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_69_Conflict-Attack.pt": {
+        "text": "But Iranian state-run media said the missile strikes carried a greater message to Iran\u2019s perceived enemies \u2014 Israel, Saudi Arabia and the U.S.-Kayhan Daily, a conservative newspaper close to Tehran\u2019s leadership, published an editorial saying the strikes were more than \u201cjust a response\u201d to the IS attack in Tehran",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_72_Conflict-Attack.pt": {
+        "text": "\u201cIran's missile attacks on IS was a great measure preventing the U.S. from opposition,\u201d said Syrian Information Minister Mohammad Ramez Tourjman",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_73_Conflict-Attack.pt": {
+        "text": "\u201cIran's missile attacks on IS was a great measure preventing the U.S. from opposition,\u201d said Syrian Information Minister Mohammad Ramez Tourjman",
+        "concept_name": "Military actions in Syria",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_304_Conflict-Demonstrate.pt": {
+        "text": "Global May Day Protests-A look at protests around the world on May 1, International Workers Day - a day when workers and activists march in the streets and gather in city centers to honor laborers",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.01.3832748_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_171_Conflict-Attack.pt": {
+        "text": "According to Nawar Oliver of the Omran Center for Strategic Studies, an Istanbul-based think tank, Russian warplanes have mounted 3,359 airstrikes on Aleppo province in the past three months",
+        "concept_name": "War and Destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_135_Life-Die.pt": {
+        "text": "Baloch was killed by her brother for what he called \u201cintolerable\u201d behavior",
+        "concept_name": "Violence and Tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.16.3769606_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_267_Life-Die.pt": {
+        "text": "Activists: Syrian Government Shelling Leaves 90 Dead-Syrian opposition forces say more than 90 people, many of them children, have been killed in a coordinated assault on a village outside the city of Homs by government artillery and militiamen",
+        "concept_name": "Violence and Tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_270_Life-Die.pt": {
+        "text": "Opposition activists say some of the victims, many of whom are children, were killed in the shelling, while others were shot by pro-government militiamen known as \u201cshabiha.",
+        "concept_name": "Violence and Tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_276_Life-Die.pt": {
+        "text": "Observers -A team of U.N. observers headed by General Robert Mood, arrived in Houla Saturday to investigate the killings.The general condemned the \"brutal tragedy\" and said the observers counted more than 32 children under the age of 10 and over 60 adults killed",
+        "concept_name": "Violence and Tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_98_Life-Die.pt": {
+        "text": "Coffins containing the bodies of Afghan national Army (ANA) soldiers killed in April 21's attack on an army headquarters are lined up in Mazar-i-Sharif, northern Afghanistan, April 22, 2017",
+        "concept_name": "Violence and Tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.25.3825261_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_215_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_38_Contact-Phone-Write.pt": {
+        "text": "FILE - Taiwan's President Tsai Ing-wen speaks with U.S. President-elect Donald Trump through a speaker phone in Taipei, Taiwan",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.14.3635692_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_81_Contact-Meet.pt": {
+        "text": "Iran's President Hassan Rouhani speaks to journalists during a news conference in New York September 27, 2013",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.09.27.1758726_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_13_Contact-Meet.pt": {
+        "text": "Democratic presidential candidate Sen. Bernie Sanders, I-Vt., right, accompanied by Rev. Al Sharpton, raises a fist as he arrives for a breakfast meeting at Sylvia's Restaurant, Feb. 10, 2016, in the Harlem neighborhood of New York",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.02.10.3184933_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_260_Contact-Meet.pt": {
+        "text": "Huckabee and Santorum showed up at the Trump event",
+        "concept_name": "Political Debates",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.28.3166988_5.jpg",
+        "follows_concept": 0
+    },
+    "embedding_261_Contact-Meet.pt": {
+        "text": "Huckabee and Santorum showed up at the Trump event",
+        "concept_name": "Political Debates",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.28.3166988_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_262_Contact-Meet.pt": {
+        "text": "Huckabee and Santorum showed up at the Trump event",
+        "concept_name": "Political Debates",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.28.3166988_4.jpg",
+        "follows_concept": 0
+    },
+    "embedding_170_Conflict-Attack.pt": {
+        "text": "According to Nawar Oliver of the Omran Center for Strategic Studies, an Istanbul-based think tank, Russian warplanes have mounted 3,359 airstrikes on Aleppo province in the past three months",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_182_Conflict-Attack.pt": {
+        "text": "But when asked how, they fall back on citing the fighting spirit of the rebels \u2014 hardly a strategy to counter overwhelming numbers, the advantage of airpower and more powerful weaponry-The rebels have mounted major counter-attacks in recent weeks as they have battled to hold on to districts that first fell to them four years ago",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_183_Conflict-Attack.pt": {
+        "text": "But when asked how, they fall back on citing the fighting spirit of the rebels \u2014 hardly a strategy to counter overwhelming numbers, the advantage of airpower and more powerful weaponry-The rebels have mounted major counter-attacks in recent weeks as they have battled to hold on to districts that first fell to them four years ago",
+        "concept_name": "Conflict and Destruction in Aleppo",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_108_Movement-Transport.pt": {
+        "text": "Trucks carry tents and construction material to be used for make-shift refugee housing, in Oncupinar, Turkey, Feb. 8, 2016",
+        "concept_name": "Humanitarian Crisis",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.02.08.3181623_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_244_Life-Die.pt": {
+        "text": "A father's loss-Ayed, a 40-year-old laborer, pulled back a blanket to show his only son, 3-year-old Ahmed, lying lifeless with his eyes closed and a big gash in his right cheek",
+        "concept_name": "Humanitarian Crisis",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_138_Conflict-Attack.pt": {
+        "text": "Smoke rises as Iranian protesters set fire to the Saudi embassy in Tehran, Sunday, Jan. 3, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.05.3132000_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_146_Movement-Transport.pt": {
+        "text": "An employee unloads steel products at a market in Yichang, Hubei Province, China, April 11, 2016",
+        "concept_name": "Work and Security Activities",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.13.3283669_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_29_Justice-Arrest-Jail.pt": {
+        "text": "Spanish police arrest a man, left, accused of collaborating with the Islamic State, after searching a cybercafe in Mataro near to Barcelona, Dec. 8, 2015",
+        "concept_name": "Work and Security Activities",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.01.07.3135549_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_116_Life-Die.pt": {
+        "text": "The U.S. does not have information on who was behind the attack that killed Badreddine, State Department spokesman John Kirby said",
+        "concept_name": "Funeral procession",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_107_Justice-Arrest-Jail.pt": {
+        "text": "FILE - An opposition activist is detained by Cuban security officers ahead of a march marking International Human Rights Day in Havana, Cuba, Dec. 10, 2014",
+        "concept_name": "Detentions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.12.17.3106664_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_232_Justice-Arrest-Jail.pt": {
+        "text": "Police detain a man in an attempt to clear the Oceti Sakowin camp, Feb. 23, 2017",
+        "concept_name": "Detentions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.23.3737435_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_57_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Turkish soldiers detain Staff Sergeant Erkan Cikat, suspected of being involved in the recent coup attempt, in Marmaris, Turkey, July 25, 2016",
+        "concept_name": "Detentions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.28.3437601_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_8_Justice-Arrest-Jail.pt": {
+        "text": "FILE - An opposition activist is detained by Cuban security officers ahead of a march marking International Human Rights Day in Havana, Cuba, Dec. 10, 2014",
+        "concept_name": "Detentions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.03.20.3242323_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_23_Conflict-Demonstrate.pt": {
+        "text": "Protesters listen to a speaker as they gather for the Women's March against President Donald Trump, Jan. 21, 2017, in Los Angeles",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.22.3686805_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_273_Life-Die.pt": {
+        "text": "But she says several other relatives were slaughtered by security forces dressed in black, who killed them with knives",
+        "concept_name": "Public demonstrations and conflict aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_274_Life-Die.pt": {
+        "text": "But she says several other relatives were slaughtered by security forces dressed in black, who killed them with knives",
+        "concept_name": "Public demonstrations and conflict aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_283_Conflict-Demonstrate.pt": {
+        "text": "\"It means we will have no dreams, no dream to join a university or a faculty,\" said Mariam, a high school senior at the demonstration",
+        "concept_name": "Public demonstrations and conflict aftermath",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.27.3393616_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_194_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_204_Conflict-Demonstrate.pt": {
+        "text": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_209_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_214_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_218_Conflict-Demonstrate.pt": {
+        "text": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_219_Conflict-Demonstrate.pt": {
+        "text": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_220_Conflict-Demonstrate.pt": {
+        "text": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_221_Conflict-Demonstrate.pt": {
+        "text": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_222_Conflict-Demonstrate.pt": {
+        "text": "The demonstrations erupted after the Venezuelan Supreme Court's March 30 announcement that it would strip the opposition controlled National Assembly of its legislative powers",
+        "concept_name": "Venezuelan protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_136_Conflict-Demonstrate.pt": {
+        "text": "A young boy waves a Turkish national flag as supporters of Turkish President Tayyip Erdogan gather during a pro-government demonstration on Taksim square in Istanbul, Turkey, July 18, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.19.3424061_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_60_Movement-Transport.pt": {
+        "text": "A Turkish man helps a Syrian woman carrying a wounded Syrian girl to a hospital in Kilis, Turkey, Feb. 15, 2016",
+        "concept_name": "Humanitarian Crisis",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.03.01.3214677_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_191_Contact-Meet.pt": {
+        "text": "Democratic presidential hopeful Hillary Clinton greets people at the Jackson Diner in the Queens borough of New York, April 11, 2016",
+        "concept_name": "Political campaigns",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.14.3285847_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_80_Contact-Meet.pt": {
+        "text": "U.S. Democratic presidential nominee Hillary Clinton talks to supporters at Reed's Coffee and Tea House in Philadelphia, Pennsylvania, Nov. 5, 2016",
+        "concept_name": "Political campaigns",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.06.3583381_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_120_Life-Die.pt": {
+        "text": "Unidentified members of the People/s Temple are pictured after they committed a mass suicide, led by cult leader Rev. Jim Jones in Jonestown, Guyana, 1978",
+        "concept_name": "Mass gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.18.3602889_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_121_Life-Die.pt": {
+        "text": "Unidentified members of the People/s Temple are pictured after they committed a mass suicide, led by cult leader Rev. Jim Jones in Jonestown, Guyana, 1978",
+        "concept_name": "Mass gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.18.3602889_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_203_Conflict-Demonstrate.pt": {
+        "text": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+        "concept_name": "Mass gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_205_Conflict-Demonstrate.pt": {
+        "text": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+        "concept_name": "Mass gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_161_Justice-Arrest-Jail.pt": {
+        "text": "Valentin Grossu is escorted by an armed police officer following his arrest during a cesium smuggling sting operation in Chisinau, Moldova, Feb. 19, 2015",
+        "concept_name": "Conflict and Arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.07.2995399_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_42_Contact-Meet.pt": {
+        "text": "Denis Pushilin, senior member of the pro-Russia separatist rebellion leadership, meets with journalists in Donetsk, May 12, 2014",
+        "concept_name": "Conflict and Arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.05.12.1912526_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_117_Life-Die.pt": {
+        "text": "The U.S. does not have information on who was behind the attack that killed Badreddine, State Department spokesman John Kirby said",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.13.3328601_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_198_Conflict-Demonstrate.pt": {
+        "text": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_199_Conflict-Demonstrate.pt": {
+        "text": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_200_Conflict-Demonstrate.pt": {
+        "text": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_201_Conflict-Demonstrate.pt": {
+        "text": "Security teams were out in force nationwide after at least three people were fatally shot Wednesday, as tens of thousands of pro- and anti-government factions took to the streets in the largest anti-government demonstrations in decades",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_285_Movement-Transport.pt": {
+        "text": "\u201cRather than provide safety, it invited ISIS fighters to enter civilian homes for protection or force civilians to move with them from location to location.",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.13.3549797_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_286_Movement-Transport.pt": {
+        "text": "\u201cRather than provide safety, it invited ISIS fighters to enter civilian homes for protection or force civilians to move with them from location to location.",
+        "concept_name": "Conflict and Demonstrations",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.10.13.3549797_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_166_Conflict-Attack.pt": {
+        "text": "FILE - This photo provided by the Shafak Charity Organization, which has been authenticated based on its contents and other AP reporting, shows shows the badly damaged exterior of a medical facility dedicated to women after it was hit by four airstrikes",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_168_Conflict-Attack.pt": {
+        "text": "Syrian regime units have also pushed deep inside the strategic Hanano District in the rebels\u2019 eastern pocket and they launched a fierce assault on another key district, \u2019Ard Al-Hamra",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_169_Conflict-Attack.pt": {
+        "text": "Syrian regime units have also pushed deep inside the strategic Hanano District in the rebels\u2019 eastern pocket and they launched a fierce assault on another key district, \u2019Ard Al-Hamra",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_174_Conflict-Attack.pt": {
+        "text": "Each collapsed house and rubble-strewn street is being fought over time and again",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_175_Conflict-Attack.pt": {
+        "text": "Each collapsed house and rubble-strewn street is being fought over time and again",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_184_Conflict-Attack.pt": {
+        "text": "\u201cAssad and the Russians mean to finish the rebels in Aleppo and with the indiscriminate, relentless bombardment I can see no way that isn\u2019t going to happen,\u201d says a Turkey-based Western diplomat, who asked not to be identified for this article",
+        "concept_name": "Urban warfare and destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_289_Life-Die.pt": {
+        "text": "According to HRW, similar summary executions took place in Baniyas, 10 kilometers from al-Bayda, where local residents named 30 men, 22 women, and 29 children who had been executed",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.09.13.1749095_0.jpg",
+        "follows_concept": -1
+    },
+    "embedding_290_Life-Die.pt": {
+        "text": "According to HRW, similar summary executions took place in Baniyas, 10 kilometers from al-Bayda, where local residents named 30 men, 22 women, and 29 children who had been executed",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.09.13.1749095_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_58_Contact-Meet.pt": {
+        "text": "Erdogan met Monday with leaders of the main opposition parties, Republican People's Party leader Kemal Kilicdaroglu, National Movement Party leader Devlet Bahceli and Turkish Prime Minister Binali Yildirim",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.28.3437601_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_59_Life-Die.pt": {
+        "text": "FILE - Afghan women's rights activists carry the coffin of Farkhunda, an Afghan woman who was beaten to death and set alight on fire March 19, during her funeral ceremony in Kabul, March 22, 2015",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.07.02.2845998_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_237_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Alleged drugdealer Alfredo Beltran Leyva is showed to the media by members of the Mexican Army in Mexico City, on January 21, 2008, after being captured in Culiacan, in the northwestern state of Sinaloa, along with three other members of his gang",
+        "concept_name": "Criminal arrests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.05.3798460_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_291_Life-Die.pt": {
+        "text": "Brazil Mourns Dead From Massive Fire-Brazilians are mourning the loss of 232 people killed early Sunday in a fire that swept through a nightclub in the far south of the country",
+        "concept_name": "Mourning tragedy",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.01.28.1592104_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_230_Contact-Meet.pt": {
+        "text": "FILE - Afghan Foreign Minister Salahuddin Rabbani, right, talks with Pakistan's National Security Adviser Sartaj Aziz, left, during their meeting in Islamabad, Pakistan, August 13, 2015",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.05.12.3327048_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_39_Contact-Meet.pt": {
+        "text": "FILE - U.S. President Barack Obama, left, and Chinese President Xi Jinping shake hands at the West Lake State Guest House in Hangzhou, China, Sept. 3, 2016, on the sidelines of the G-20 summit",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.14.3635692_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_172_Conflict-Attack.pt": {
+        "text": "Oliver says only one percent targeted the Islamic State terror group \u2014 the rest hit anti-Assad rebels and civilians mostly in the city\u2019s eastern and southern districts, or to the west or south of the city where insurgents have tried at various times to break a months-long siege of their districts",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_228_Life-Die.pt": {
+        "text": "As Italians observed a day of national mourning, President Sergio Mattarella and Premier Matteo Renzi joined grieving family members for a state funeral for 35 of the 290 people killed in Wednesday\u2019s quake",
+        "concept_name": "Tragic Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.27.3483319_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_193_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan Opposition Insists on \u2018Peaceful Protest\u2019-CARACAS, VENEZUELA \u2014\u00a0-Opponents of the Venezuelan government converged on downtown Caracas for a second day Thursday, pledging to sustain peaceful pressure on leftist President Nicol\u00e1s Maduro to restore democracy in the crisis-ridden country",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_208_Conflict-Demonstrate.pt": {
+        "text": "Venezuelan anti-government protesters including activist Lilian Tintori, center right in printed T-shirt, demonstrate in Caracas, April 20, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_213_Conflict-Demonstrate.pt": {
+        "text": "Demonstrators clash with the riot police during a protest against Venezuelan President Nicolas Maduro, in Caracas, April 20, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_190_Contact-Meet.pt": {
+        "text": "Acid attack survivors, friends and well wishers gather for the anniversary celebrations of the Sheroes Hangout cafe",
+        "concept_name": "Support and Empowerment Gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.20.3643261_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_227_Conflict-Attack.pt": {
+        "text": "FILE - An explosion is seen onboard what is believed to be a Saudi warship, off the western coast of Yemen in this still frame taken from video posted by Houthi-run al-Masirah television on their social media website, and obtained by Reuters, Jan. 31, 2017",
+        "concept_name": "Military Conflicts",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.03.3705362_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_185_Conflict-Attack.pt": {
+        "text": "\u201cAssad and the Russians mean to finish the rebels in Aleppo and with the indiscriminate, relentless bombardment I can see no way that isn\u2019t going to happen,\u201d says a Turkey-based Western diplomat, who asked not to be identified for this article",
+        "concept_name": "Conflict Zones",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_24_Conflict-Demonstrate.pt": {
+        "text": "Protesters take part in the Women's March in Paris, France, Jan. 21, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.22.3686805_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_239_Life-Die.pt": {
+        "text": "Four other carts followed, laden with days-old corpses from air strikes that the men said killed 21 relatives and neighbors in an area Islamic State militants controlled earlier in the week",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_240_Life-Die.pt": {
+        "text": "Four other carts followed, laden with days-old corpses from air strikes that the men said killed 21 relatives and neighbors in an area Islamic State militants controlled earlier in the week",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_241_Life-Die.pt": {
+        "text": "Four other carts followed, laden with days-old corpses from air strikes that the men said killed 21 relatives and neighbors in an area Islamic State militants controlled earlier in the week",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_243_Life-Die.pt": {
+        "text": "A father's loss-Ayed, a 40-year-old laborer, pulled back a blanket to show his only son, 3-year-old Ahmed, lying lifeless with his eyes closed and a big gash in his right cheek",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_246_Life-Die.pt": {
+        "text": "A father reacts after his son was killed in an airstrike during a battle between Iraqi forces and Islamic State militants, in Mosul, Iraq, March 17, 2017",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_250_Life-Die.pt": {
+        "text": "Families fleeing Mosul in recent weeks have talked of high numbers of civilians killed by air strikes, and said that in many cases Islamic State fighters have slipped away by the time the bombs hit",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_251_Life-Die.pt": {
+        "text": "Separately, the United Nations says it has received many reports of civilian deaths in air strikes",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_253_Life-Die.pt": {
+        "text": "Separately, the United Nations says it has received many reports of civilian deaths in air strikes",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_254_Life-Die.pt": {
+        "text": "Civilian death estimates vary widely-The U.S.-led coalition backing Iraqi forces with air power and military advisers admits causing unintentional civilian deaths",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_255_Life-Die.pt": {
+        "text": "Civilian death estimates vary widely-The U.S.-led coalition backing Iraqi forces with air power and military advisers admits causing unintentional civilian deaths",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_256_Life-Die.pt": {
+        "text": "Civilian death estimates vary widely-The U.S.-led coalition backing Iraqi forces with air power and military advisers admits causing unintentional civilian deaths",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_257_Life-Die.pt": {
+        "text": "This month the U.S. military said the total number of civilians killed by the coalition since the start of operations against the militant group in 2014 in both Iraq and Syria was 220",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_258_Life-Die.pt": {
+        "text": "This month the U.S. military said the total number of civilians killed by the coalition since the start of operations against the militant group in 2014 in both Iraq and Syria was 220",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_259_Life-Die.pt": {
+        "text": "This month the U.S. military said the total number of civilians killed by the coalition since the start of operations against the militant group in 2014 in both Iraq and Syria was 220",
+        "concept_name": "Civilian casualties in conflict",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.19.3772413_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_143_Conflict-Demonstrate.pt": {
+        "text": "People take part in a rally in support of Azerbaijan over the conflict in the breakaway Nagorno-Karabakh region, outside the Armenian embassy in Kyiv, Ukraine, April 8, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.11.3279945_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_40_Contact-Meet.pt": {
+        "text": "FILE - Chinese leader Mao Zedong shake hands with Richard Nixon after their meeting in Beijing 22 February 1972 during the U.S. President's official visit in China",
+        "concept_name": "Diplomatic meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.14.3635692_8.jpg",
+        "follows_concept": 1
+    },
+    "embedding_275_Life-Die.pt": {
+        "text": "But she says several other relatives were slaughtered by security forces dressed in black, who killed them with knives",
+        "concept_name": "Mass Casualty Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_226_Conflict-Attack.pt": {
+        "text": "FILE - In this photo obtained from the Iranian Fars News Agency, a Qadr H long-range ballistic surface-to-surface missile is fired by Iran's Revolutionary Guard, during a maneuver, in an undisclosed location in Iran, March 9, 2016",
+        "concept_name": "Weapons testing",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.03.3705362_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_95_Conflict-Demonstrate.pt": {
+        "text": "FILE - Pro-democracy group Bersih stage 1MDB protest, calling for Malaysian Prime Minister Najib Abdul Razak to resign, in Kuala Lumpur, Malaysia, Nov. 19, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.22.3734870_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_295_Movement-Transport.pt": {
+        "text": "Most refugees enter Europe either through Greece or Italy",
+        "concept_name": "Refugee migration",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.27.3526898_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_296_Movement-Transport.pt": {
+        "text": "Most refugees enter Europe either through Greece or Italy",
+        "concept_name": "Refugee migration",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.27.3526898_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_159_Contact-Phone-Write.pt": {
+        "text": "FILE - Air Force Lt. Col. David Hanson, of Chicago, takes a phone call from a child in Florida at the Santa Tracking Operations Center at Peterson Air Force Base near Colorado Springs, Colo., Dec. 24, 2014",
+        "concept_name": "Military and Protest",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.12.23.3115897_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_206_Conflict-Demonstrate.pt": {
+        "text": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+        "concept_name": "Military and Protest",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_207_Conflict-Demonstrate.pt": {
+        "text": "A National Guard soldier also reportedly was killed in protests in Miranda state, near Caracas",
+        "concept_name": "Military and Protest",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.04.20.3818034_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_235_Conflict-Demonstrate.pt": {
+        "text": "Thai soldiers guard during a protest against the coup in Bangkok, Thailand Saturday, May 24, 2014",
+        "concept_name": "Military and Protest",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.05.25.1921616_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_297_Life-Die.pt": {
+        "text": "Blast Targets Pakistani Security Personnel-The explosion in Quetta ripped through a vehicle used by security forces, killing at least 12 people -- 11 security personnel and a civilian",
+        "concept_name": "Funerals and Memorials",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2013.05.23.1666803_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_46_Conflict-Demonstrate.pt": {
+        "text": "FILE - Supporters of Venezuela's President Nicolas Maduro shout as they attend a rally against the application of Organization of American States (OAS) democratic charter, in Caracas, Venezuela, June 23, 2016",
+        "concept_name": "Political and Social Gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.03.15.3767889_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_96_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Filipino men place their hands over their heads as they are rounded up during a police operation as part of the continuing \"War on Drugs\" campaign of Philippine President Rodrigo Duterte in Manila, Philippines",
+        "concept_name": "Political and Social Gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.22.3734870_5.jpg",
+        "follows_concept": 0
+    },
+    "embedding_112_Contact-Meet.pt": {
+        "text": "Egyptian President Abdel-Fattah el-Sissi, right, meets with U.S. Secretary of State John Kerry, center, and Egyptian Foreign Minister Sameh Shoukry, at the Presidential palace in Cairo, Egypt, April 20, 2016",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.24.3300395_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_11_Contact-Meet.pt": {
+        "text": "FILE - Senators John McCain, left, and Lindsey Graham, following a closed-door meeting with President Barack Obama to discuss the situation with Syria, Sept. 2, 2013",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.21.3017239_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_234_Contact-Phone-Write.pt": {
+        "text": "FILE - President Donald Trump speaks on the phone with Russian President Vladimir Putin, Jan. 28, 2017, in the Oval Office at the White House in Washington",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.17.3729391_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_28_Contact-Meet.pt": {
+        "text": "From left, European Parliament President Martin Schulz, Germany's Chancellor Angela Merkel and Greece's Prime Minister Alexis Tsipras chat after a meeting about the Balkan refugee crisis with leaders from central and eastern Europe, Oct. 25, 2015",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.26.3022860_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_33_Contact-Phone-Write.pt": {
+        "text": "FILE - U.S. President Donald Trump speaks by phone with Russia's President Vladimir Putin in the Oval Office at the White House in Washington, Jan. 28, 2017",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.30.3699085_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_34_Contact-Phone-Write.pt": {
+        "text": "FILE - U.S. President Donald Trump speaks by phone with Russia's President Vladimir Putin in the Oval Office at the White House in Washington, Jan. 28, 2017",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.30.3699085_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_4_Contact-Meet.pt": {
+        "text": "FILE - U.N. mediator for Syria Staffan de Mistura (R) arrives for a news conference on the Syrian peace talks outside President Wilson hotel in Geneva, Switzerland Feb. 3, 2016",
+        "concept_name": "Political interactions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.02.10.3184811_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_162_Justice-Arrest-Jail.pt": {
+        "text": "Teodor Chetrus is detained by a police officer in Chisinau, Moldova during a uranium-235 sting operation, June 27, 2011",
+        "concept_name": "Arrests and Detention",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.07.2995399_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_7_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Masked Spanish police officers lead a detained woman in Melilla, Dec. 16, 2014",
+        "concept_name": "Arrests and Detention",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.28.3654650_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_9_Contact-Meet.pt": {
+        "text": "Russian President Vladimir Putin, right, and Syria President Bashar Assad arrive for their meeting in the Kremlin in Moscow, Russia, Oct. 20, 2015",
+        "concept_name": "Arrests and Detention",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.10.21.3017239_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_26_Conflict-Demonstrate.pt": {
+        "text": "People participate in a protest against President Donald Trump's immigration policy and the recent Immigration and Customs Enforcement (ICE) raids in New York City, Feb. 11, 2017",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.02.15.3726266_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_78_Contact-Meet.pt": {
+        "text": "FILE - Israel's Prime Minister Benjamin Netanyahu walks with U.S. Secretary of State Hillary Rodham Clinton upon her arrival to their meeting in Jerusalem, Nov. 20, 2012",
+        "concept_name": "Official meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.09.3589149_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_142_Contact-Meet.pt": {
+        "text": "FILE - NATO defense ministers are seated during a meeting of the North Atlantic Council Defense Ministers session at NATO headquarters in Brussels, Oct. 27, 2016",
+        "concept_name": "Official meetings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.01.17.3679550_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_176_Conflict-Attack.pt": {
+        "text": "The assault on eastern Aleppo is taking its toll of government forces",
+        "concept_name": "War and Destruction",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.11.28.3614228_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_299_Conflict-Demonstrate.pt": {
+        "text": "International Protests Against Israeli Military Offensive on Gaz",
+        "concept_name": "Military-related events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2014.07.14.1957332_0.jpg",
+        "follows_concept": 1
+    },
+    "embedding_30_Contact-Meet.pt": {
+        "text": "Reporters interview officials on the inaugural preparations being made by the Joint Task Force-National Capital Region for military and civilian planners at the D.C. Armory in Washington, Dec. 14, 2016",
+        "concept_name": "Military-related events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.12.17.3640413_1.jpg",
+        "follows_concept": 1
+    },
+    "embedding_144_Conflict-Demonstrate.pt": {
+        "text": "FILE - Pakistanis rally in support of Mumtaz Qadri who was convicted and executed for a blasphemy-motivated killing of a former governor, in Lahore, Pakistan, Feb. 29, 2016",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.10.3458597_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_84_Conflict-Demonstrate.pt": {
+        "text": "FILE - Supporters line seventh avenue during the \"Stop Iran\" protest near Times Square in New York, July 22, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.07.31.2888384_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_85_Conflict-Demonstrate.pt": {
+        "text": "FILE - Supporters line seventh avenue during the \"Stop Iran\" protest near Times Square in New York, July 22, 2015",
+        "concept_name": "Protest gatherings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.07.31.2888384_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_278_Life-Die.pt": {
+        "text": "Observers -A team of U.N. observers headed by General Robert Mood, arrived in Houla Saturday to investigate the killings.The general condemned the \"brutal tragedy\" and said the observers counted more than 32 children under the age of 10 and over 60 adults killed",
+        "concept_name": "Funeral Processions",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2012.05.26.1105689_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_238_Contact-Phone-Write.pt": {
+        "text": "Sen. Margaret Chase Smith makes calls to friends from her home in Skohegan, Maine in this June 21, 1954 file photo",
+        "concept_name": "Personal Communications",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.06.10.3370380_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_113_Conflict-Demonstrate.pt": {
+        "text": "Kashmiri protesters shout pro-freedom slogans during a protest march in Srinagar, Indian controlled Kashmir, Aug. 11, 2016",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.08.11.3460137_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_1_Contact-Meet.pt": {
+        "text": "President Barack Obama speaks to the media at the bottom of a meeting at the Eisenhower Executive Office Building on the White House complex in Washington, July 13, 2016",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.14.3417836_0.jpg",
+        "follows_concept": 0
+    },
+    "embedding_2_Contact-Meet.pt": {
+        "text": "President Barack Obama speaks to the media at the bottom of a meeting at the Eisenhower Executive Office Building on the White House complex in Washington, July 13, 2016",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.14.3417836_1.jpg",
+        "follows_concept": 0
+    },
+    "embedding_36_Conflict-Attack.pt": {
+        "text": "Airstrikes target Islamic State positions on the edge of the Old City a day after Iraq's prime minister declared \"total victory\" in Mosul, July 11, 2017",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.07.10.3936006_2.jpg",
+        "follows_concept": 0
+    },
+    "embedding_53_Contact-Phone-Write.pt": {
+        "text": "FILE - President Donald Trump conducts a phone call in the Oval Office at the White House in Washington, Jan. 28, 2017",
+        "concept_name": "Political Campaign Events",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.07.3891137_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_15_Movement-Transport.pt": {
+        "text": "The International Organization for Migration estimated that more than a quarter-of-a-million migrants crossed the Libya-Niger border last year",
+        "concept_name": "Migration and Border Crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_18_Movement-Transport.pt": {
+        "text": "According to the United Nations, more than 43,000 migrants, mostly from sub-Saharan Africa, have reached European shores this year from Libya and a surge in migrant crossings is expected this spring and summer",
+        "concept_name": "Migration and Border Crossings",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.15.3851683_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_105_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Police officers escort people, arrested because of suspected links to U.S.-based cleric Fethullah Gulen, in Kayseri, Turkey, April 26, 2017",
+        "concept_name": "Arrests and Detention",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.05.17.3854850_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_74_Conflict-Attack.pt": {
+        "text": "Led by the IRGC, about 10,000 Iranian combat troops are in Syria fighting alongside thousands of fighters from Hezbollah, Lebanon's Tehran-affiliated Shi'ite militia, and assorted Shi'ite militias",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_4.jpg",
+        "follows_concept": 1
+    },
+    "embedding_76_Conflict-Attack.pt": {
+        "text": "Led by the IRGC, about 10,000 Iranian combat troops are in Syria fighting alongside thousands of fighters from Hezbollah, Lebanon's Tehran-affiliated Shi'ite militia, and assorted Shi'ite militias",
+        "concept_name": "Conflict and War",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2017.06.21.3910361_5.jpg",
+        "follows_concept": 1
+    },
+    "embedding_134_Justice-Arrest-Jail.pt": {
+        "text": "Police arrest Black Lives Matter leader DeRay McKesson during a protest along Airline Highway, a major road that passes in front of the Baton Rouge Police Department headquarters on July 9, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.27.3436565_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_141_Justice-Arrest-Jail.pt": {
+        "text": "A man is detained after a standoff between protesters and police Monday, Aug. 18, 2014",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2015.08.08.2908562_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_189_Justice-Arrest-Jail.pt": {
+        "text": "Ahmad Khan Rahami is taken into custody after a shootout with police Monday, Sept. 19, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.21.3519438_3.jpg",
+        "follows_concept": 0
+    },
+    "embedding_223_Conflict-Demonstrate.pt": {
+        "text": "Police officers take a man into custody who was protesting against Republican presidential candidate Donald Trump outside the Hyatt Regency hotel during the California Republican Party 2016 Convention in Burlingame, Calif., April 29, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.04.30.3309655_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_32_Justice-Arrest-Jail.pt": {
+        "text": "Police detain two people during protests following the police shooting of Keith Lamont Scott, in Charlotte, North Carolina, Sept. 21, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.09.27.3527400_3.jpg",
+        "follows_concept": 1
+    },
+    "embedding_3_Justice-Arrest-Jail.pt": {
+        "text": "Protestor Ieshia Evans is detained by law enforcement near the headquarters of the Baton Rouge Police Department in Baton Rouge, Louisiana, July 9, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.14.3417836_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_48_Justice-Arrest-Jail.pt": {
+        "text": "FILE - Police arrest Black Lives Matter leader Deray McKesson during a protest along Airline Highway, a major road that passes in front of the Baton Rouge Police Department headquarters, July 9, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.12.3415627_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_49_Justice-Arrest-Jail.pt": {
+        "text": "FILE - A demonstrator is detained by police during protests in Baton Rouge, Louisiana, July 10, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.12.3415627_2.jpg",
+        "follows_concept": 1
+    },
+    "embedding_55_Justice-Arrest-Jail.pt": {
+        "text": "A woman protesting the shooting death of Alton Sterling is detained by law enforcement near the headquarters of the Baton Rouge Police Department in Baton Rouge, Louisiana, July 9, 2016",
+        "concept_name": "Police detentions during protests",
+        "image_path": "m2e2(2)/image/image/VOA_EN_NW_2016.07.11.3412014_1.jpg",
+        "follows_concept": 1
+    }
+}
