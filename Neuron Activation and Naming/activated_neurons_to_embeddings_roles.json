@@ -1,0 +1,1776 @@
+{
+    "0": [
+        "VOA_EN_NW_2014.10.09.2478154_0_Entity_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_9.pt",
+        "VOA_EN_NW_2016.10.25.3565688_2_Entity_1.pt"
+    ],
+    "1": [
+        "VOA_EN_NW_2015.10.26.3022860_1_Entity_3.pt",
+        "VOA_EN_NW_2016.02.10.3184933_2_Entity_2.pt",
+        "VOA_EN_NW_2016.05.08.3320391_0_Money_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_0_Entity_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_5.pt",
+        "VOA_EN_NW_2016.11.29.3615580_1_Target_1.pt",
+        "VOA_EN_NW_2017.02.14.3724228_0_Money_1.pt"
+    ],
+    "2": [
+        "VOA_EN_NW_2014.12.17.2562583_2_Victim_1.pt",
+        "VOA_EN_NW_2015.05.08.2747846_0_Agent_1.pt",
+        "VOA_EN_NW_2016.12.14.3635600_5_Agent_1.pt",
+        "VOA_EN_NW_2017.05.01.3832748_0_Agent_2.pt"
+    ],
+    "3": [
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_6.pt"
+    ],
+    "5": [
+        "VOA_EN_NW_2013.04.03.1634074_0_Instrument_1.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Instrument_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Place_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_8.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Instrument_2.pt",
+        "VOA_EN_NW_2017.05.04.3838167_1_Entity_1.pt"
+    ],
+    "7": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Artifact_3.pt",
+        "VOA_EN_NW_2015.06.26.2838241_5_Entity_1.pt"
+    ],
+    "8": [
+        "VOA_EN_NW_2015.01.16.2600974_1_Agent_1.pt",
+        "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_2.pt",
+        "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_3.pt",
+        "VOA_EN_NW_2016.07.28.3437456_0_Victim_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_4.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_8.pt",
+        "VOA_EN_NW_2016.11.29.3616534_0_Vehicle_1.pt"
+    ],
+    "9": [
+        "VOA_EN_NW_2016.06.26.3392569_3_Vehicle_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Instrument_4.pt"
+    ],
+    "10": [
+        "VOA_EN_NW_2016.04.19.3291980_3_Entity_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Entity_2.pt",
+        "VOA_EN_NW_2016.11.18.3602889_2_Victim_3.pt"
+    ],
+    "11": [
+        "VOA_EN_NW_2014.05.25.1921616_0_Person_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_4_Police_1.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Agent_2.pt"
+    ],
+    "12": [
+        "VOA_EN_NW_2015.03.05.2668808_3_Person_1.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_5.pt",
+        "VOA_EN_NW_2016.11.18.3602889_2_Victim_2.pt"
+    ],
+    "13": [
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_1.pt",
+        "VOA_EN_NW_2016.05.11.3325807_1_Entity_1.pt",
+        "VOA_EN_NW_2017.01.20.3685521_2_Instrument_1.pt",
+        "VOA_EN_NW_2017.02.24.3739026_2_Vehicle_2.pt"
+    ],
+    "14": [
+        "VOA_EN_NW_2014.12.25.2573211_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_3.pt"
+    ],
+    "15": [
+        "VOA_EN_NW_2016.12.09.3630378_1_Entity_2.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_7.pt",
+        "VOA_EN_NW_2017.01.22.3686805_3_Instrument_1.pt"
+    ],
+    "16": [
+        "VOA_EN_NW_2016.04.19.3291980_3_Police_1.pt",
+        "VOA_EN_NW_2016.10.01.3532811_0_Entity_1.pt"
+    ],
+    "17": [
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_4.pt",
+        "VOA_EN_NW_2014.07.14.1957332_3_Instrument_2.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_8.pt"
+    ],
+    "18": [
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_1_Entity_1.pt",
+        "VOA_EN_NW_2016.07.10.3411182_1_Victim_1.pt",
+        "VOA_EN_NW_2016.09.27.3527025_0_Instrument_2.pt"
+    ],
+    "19": [
+        "VOA_EN_NW_2015.05.28.2793713_3_Artifact_3.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_5.pt",
+        "VOA_EN_NW_2016.07.28.3437456_2_Agent_2.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_3.pt"
+    ],
+    "20": [
+        "VOA_EN_NW_2016.02.14.3190340_5_Entity_1.pt",
+        "VOA_EN_NW_2016.03.18.3243744_0_Money_1.pt",
+        "VOA_EN_NW_2016.03.18.3243744_0_Recipient_1.pt",
+        "VOA_EN_NW_2016.06.27.3393616_5_Place_1.pt",
+        "VOA_EN_NW_2016.10.31.3572766_2_Entity_1.pt"
+    ],
+    "21": [
+        "VOA_EN_NW_2013.01.28.1592104_1_Victim_3.pt",
+        "VOA_EN_NW_2013.04.03.1634074_0_Entity_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_11.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_9.pt",
+        "VOA_EN_NW_2017.05.04.3838167_0_Entity_1.pt",
+        "VOA_EN_NW_2017.05.04.3838167_0_Entity_2.pt"
+    ],
+    "22": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_3.pt",
+        "VOA_EN_NW_2014.09.10.2444962_0_Entity_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_7.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_5.pt",
+        "VOA_EN_NW_2015.11.05.3037829_1_Vehicle_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_10.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_2.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_3.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_6.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_7.pt",
+        "VOA_EN_NW_2016.01.07.3135549_2_Agent_1.pt",
+        "VOA_EN_NW_2016.02.10.3184933_2_Entity_1.pt",
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_3.pt",
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_6.pt",
+        "VOA_EN_NW_2016.04.11.3279945_5_Entity_2.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_2.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_5.pt",
+        "VOA_EN_NW_2016.05.17.3333843_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_4.pt",
+        "VOA_EN_NW_2016.11.22.3607054_4_Entity_1.pt",
+        "VOA_EN_NW_2017.01.16.3678663_2_Entity_1.pt",
+        "VOA_EN_NW_2017.05.01.3832748_0_Agent_1.pt",
+        "VOA_EN_NW_2017.05.14.3850909_2_Entity_1.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Agent_1.pt"
+    ],
+    "24": [
+        "VOA_EN_NW_2015.05.08.2760181_0_Agent_2.pt",
+        "VOA_EN_NW_2016.03.20.3242323_1_Agent_1.pt",
+        "VOA_EN_NW_2016.04.13.3283669_5_Agent_1.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_3.pt",
+        "VOA_EN_NW_2016.06.26.3392569_1_Artifact_1.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_2.pt"
+    ],
+    "25": [
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_7.pt",
+        "VOA_EN_NW_2016.07.09.3410778_2_Entity_6.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_6.pt",
+        "VOA_EN_NW_2017.05.15.3851683_2_Vehicle_1.pt"
+    ],
+    "26": [
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_6.pt",
+        "VOA_EN_NW_2015.11.05.3038535_3_Entity_2.pt",
+        "VOA_EN_NW_2016.07.11.3412014_1_Agent_1.pt",
+        "VOA_EN_NW_2016.07.11.3412014_1_Agent_4.pt",
+        "VOA_EN_NW_2017.04.07.3800274_1_Agent_1.pt"
+    ],
+    "27": [
+        "VOA_EN_NW_2017.02.03.3705362_1_Instrument_1.pt"
+    ],
+    "28": [
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_5.pt",
+        "VOA_EN_NW_2017.02.24.3739026_2_Agent_1.pt"
+    ],
+    "29": [
+        "VOA_EN_NW_2015.07.31.2888384_0_Entity_4.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_4.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_7.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_7.pt",
+        "VOA_EN_NW_2017.05.17.3854850_1_Entity_1.pt"
+    ],
+    "30": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Entity_4.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_17.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_12.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_4.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_5.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_4.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Instrument_2.pt"
+    ],
+    "31": [
+        "VOA_EN_NW_2013.09.27.1758726_0_Entity_1.pt",
+        "VOA_EN_NW_2013.09.27.1758726_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.06.27.3393580_1_Place_1.pt"
+    ],
+    "32": [
+        "VOA_EN_NW_2012.05.26.1105689_2_Victim_1.pt",
+        "VOA_EN_NW_2013.03.18.1623546_2_Victim_1.pt",
+        "VOA_EN_NW_2015.03.27.2696792_0_Agent_2.pt",
+        "VOA_EN_NW_2015.11.05.3038535_3_Entity_1.pt",
+        "VOA_EN_NW_2016.08.10.3458597_2_Instrument_2.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_4.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_5.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_1.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_2.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_7.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_8.pt",
+        "VOA_EN_NW_2017.02.14.3724228_1_Giver_1.pt",
+        "VOA_EN_NW_2017.04.24.3823632_4_Vehicle_1.pt"
+    ],
+    "33": [
+        "VOA_EN_NW_2015.08.11.2913225_0_Person_2.pt",
+        "VOA_EN_NW_2017.05.31.3878829_0_Attacker_1.pt"
+    ],
+    "34": [
+        "VOA_EN_NW_2015.07.31.2888384_2_Instrument_1.pt",
+        "VOA_EN_NW_2015.12.08.3093406_2_Place_1.pt"
+    ],
+    "35": [
+        "VOA_EN_NW_2015.09.25.2978237_3_Entity_3.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_6.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_7.pt",
+        "VOA_EN_NW_2016.03.04.3219688_0_Entity_5.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_5.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_8.pt",
+        "VOA_EN_NW_2017.01.16.3678663_2_Entity_2.pt"
+    ],
+    "36": [
+        "VOA_EN_NW_2012.12.10.1562068_2_Agent_1.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Person_1.pt",
+        "VOA_EN_NW_2015.11.26.3074855_1_Person_1.pt",
+        "VOA_EN_NW_2016.03.04.3219688_1_Victim_1.pt",
+        "VOA_EN_NW_2016.03.18.3243744_0_Giver_1.pt",
+        "VOA_EN_NW_2016.05.08.3320391_0_Recipient_1.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Entity_1.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_2.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_3.pt",
+        "VOA_EN_NW_2017.04.28.3829747_0_Recipient_1.pt"
+    ],
+    "37": [
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_4.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Place_1.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_5.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_1.pt"
+    ],
+    "38": [
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_3.pt"
+    ],
+    "39": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_2.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_7.pt",
+        "VOA_EN_NW_2016.02.14.3190340_4_Entity_2.pt",
+        "VOA_EN_NW_2016.09.27.3527025_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.01.16.3678663_0_Agent_1.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Instrument_1.pt"
+    ],
+    "40": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_6.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_2.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Artifact_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_4.pt",
+        "VOA_EN_NW_2016.11.10.3590360_2_Entity_4.pt",
+        "VOA_EN_NW_2017.01.20.3685521_0_Instrument_3.pt"
+    ],
+    "41": [
+        "VOA_EN_NW_2012.05.26.1105689_1_Victim_4.pt",
+        "VOA_EN_NW_2012.05.26.1105689_1_Victim_5.pt",
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_2.pt",
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_7.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_4.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_12.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_10.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_11.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_4.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_5.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_7.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_8.pt",
+        "VOA_EN_NW_2015.10.07.2995399_1_Agent_1.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_4.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_5.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_7.pt",
+        "VOA_EN_NW_2016.04.30.3309655_0_Police_4.pt",
+        "VOA_EN_NW_2016.07.28.3437601_1_Agent_1.pt",
+        "VOA_EN_NW_2016.07.28.3437601_1_Person_1.pt",
+        "VOA_EN_NW_2016.08.12.3461808_1_Victim_3.pt",
+        "VOA_EN_NW_2016.09.02.3491404_3_Artifact_4.pt",
+        "VOA_EN_NW_2016.09.02.3491404_3_Artifact_5.pt",
+        "VOA_EN_NW_2016.10.09.3542777_1_Entity_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Artifact_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_10.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_11.pt",
+        "VOA_EN_NW_2017.01.20.3685521_2_Instrument_3.pt",
+        "VOA_EN_NW_2017.02.23.3737435_1_Person_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_5_Attacker_1.pt",
+        "VOA_EN_NW_2017.07.10.3936006_5_Person_1.pt"
+    ],
+    "42": [
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.04.27.3305148_0_Target_1.pt",
+        "VOA_EN_NW_2016.05.16.3331907_0_Person_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_4_Attacker_1.pt"
+    ],
+    "44": [
+        "VOA_EN_NW_2014.06.03.1928789_0_Instrument_1.pt",
+        "VOA_EN_NW_2014.12.02.2542349_0_Entity_1.pt",
+        "VOA_EN_NW_2015.03.04.2667016_0_Artifact_1.pt",
+        "VOA_EN_NW_2015.08.08.2908562_3_Agent_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_4.pt",
+        "VOA_EN_NW_2016.05.11.3325807_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_6.pt"
+    ],
+    "45": [
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_3.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Instrument_4.pt",
+        "VOA_EN_NW_2015.03.21.2689721_1_Victim_1.pt",
+        "VOA_EN_NW_2015.03.27.2696792_0_Agent_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_7.pt",
+        "VOA_EN_NW_2016.05.13.3328601_0_Victim_1.pt",
+        "VOA_EN_NW_2016.09.27.3527025_1_Victim_1.pt",
+        "VOA_EN_NW_2017.03.27.3783190_2_Agent_1.pt"
+    ],
+    "46": [
+        "VOA_EN_NW_2013.01.21.1587732_1_Entity_1.pt",
+        "VOA_EN_NW_2014.04.16.1894548_0_Entity_1.pt",
+        "VOA_EN_NW_2015.06.26.2838241_5_Entity_2.pt",
+        "VOA_EN_NW_2015.07.31.2888384_0_Entity_3.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_6.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_8.pt",
+        "VOA_EN_NW_2015.07.31.2888384_5_Entity_1.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_6.pt",
+        "VOA_EN_NW_2015.10.21.3017239_0_Entity_5.pt",
+        "VOA_EN_NW_2015.10.21.3017239_1_Entity_1.pt",
+        "VOA_EN_NW_2015.10.21.3017239_1_Entity_2.pt",
+        "VOA_EN_NW_2015.10.21.3017239_1_Entity_3.pt",
+        "VOA_EN_NW_2015.10.26.3022860_1_Entity_1.pt",
+        "VOA_EN_NW_2016.01.28.3166988_1_Entity_1.pt",
+        "VOA_EN_NW_2016.01.28.3166988_1_Entity_2.pt",
+        "VOA_EN_NW_2016.01.28.3166988_5_Entity_1.pt",
+        "VOA_EN_NW_2016.01.28.3166988_5_Entity_2.pt",
+        "VOA_EN_NW_2016.02.10.3184933_3_Entity_2.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_12.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_14.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_15.pt",
+        "VOA_EN_NW_2016.03.04.3219688_0_Entity_2.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_6.pt",
+        "VOA_EN_NW_2016.04.30.3309655_3_Entity_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_4_Entity_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_4_Entity_2.pt",
+        "VOA_EN_NW_2016.05.11.3325807_1_Entity_2.pt",
+        "VOA_EN_NW_2016.05.11.3325807_1_Entity_3.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_7.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_8.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_9.pt",
+        "VOA_EN_NW_2016.07.14.3417836_0_Entity_2.pt",
+        "VOA_EN_NW_2016.07.14.3417836_0_Entity_3.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_10.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_11.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_13.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_2.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_3.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_4.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_7.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_8.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_4.pt",
+        "VOA_EN_NW_2016.11.09.3589149_3_Entity_2.pt",
+        "VOA_EN_NW_2016.11.09.3589149_4_Entity_1.pt",
+        "VOA_EN_NW_2016.11.09.3589149_4_Entity_2.pt",
+        "VOA_EN_NW_2016.11.22.3607054_4_Entity_3.pt",
+        "VOA_EN_NW_2016.12.17.3640413_1_Entity_3.pt",
+        "VOA_EN_NW_2017.02.02.3702962_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.02.17.3729391_1_Instrument_1.pt",
+        "VOA_EN_NW_2017.06.07.3891137_3_Instrument_1.pt"
+    ],
+    "47": [
+        "VOA_EN_NW_2017.02.01.3702375_0_Person_2.pt"
+    ],
+    "48": [
+        "VOA_EN_NW_2015.07.31.2888384_2_Instrument_4.pt"
+    ],
+    "49": [
+        "VOA_EN_NW_2013.01.28.1592104_1_Victim_1.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_3.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_10.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_8.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Instrument_1.pt",
+        "VOA_EN_NW_2015.08.03.2896400_4_Attacker_2.pt",
+        "VOA_EN_NW_2015.08.08.2908562_3_Person_1.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Vehicle_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Instrument_1.pt"
+    ],
+    "50": [
+        "VOA_EN_NW_2016.01.28.3166988_4_Entity_3.pt",
+        "VOA_EN_NW_2016.08.17.3469525_2_Entity_5.pt",
+        "VOA_EN_NW_2016.09.27.3527400_3_Agent_2.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_1.pt"
+    ],
+    "51": [
+        "VOA_EN_NW_2015.01.16.2600974_2_Agent_5.pt",
+        "VOA_EN_NW_2015.07.31.2889903_2_Agent_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_8.pt",
+        "VOA_EN_NW_2016.12.28.3654650_1_Agent_2.pt"
+    ],
+    "52": [
+        "VOA_EN_NW_2014.06.03.1928789_0_Entity_1.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_4.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Entity_4.pt",
+        "VOA_EN_NW_2017.04.13.3808915_2_Agent_2.pt"
+    ],
+    "53": [
+        "VOA_EN_NW_2016.08.10.3458597_2_Instrument_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_4_Entity_1.pt"
+    ],
+    "54": [
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_5.pt"
+    ],
+    "55": [
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_3.pt",
+        "VOA_EN_NW_2015.08.08.2908562_3_Agent_4.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.04.30.3309655_3_Entity_2.pt",
+        "VOA_EN_NW_2016.07.12.3415627_2_Agent_1.pt",
+        "VOA_EN_NW_2016.07.28.3437456_2_Agent_1.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_3.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_5.pt"
+    ],
+    "56": [
+        "VOA_EN_NW_2013.01.21.1587732_2_Victim_1.pt",
+        "VOA_EN_NW_2015.03.27.2696792_0_Agent_5.pt",
+        "VOA_EN_NW_2015.07.31.2888384_4_Police_1.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_6.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_3.pt",
+        "VOA_EN_NW_2016.08.27.3483319_3_Victim_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_4.pt"
+    ],
+    "57": [
+        "VOA_EN_NW_2014.03.02.1862314_3_Agent_4.pt",
+        "VOA_EN_NW_2015.12.08.3093406_0_Agent_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_0_Police_2.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Entity_3.pt",
+        "VOA_EN_NW_2016.06.10.3370380_3_Entity_1.pt",
+        "VOA_EN_NW_2016.07.19.3424061_3_Entity_2.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_3.pt"
+    ],
+    "58": [
+        "VOA_EN_NW_2016.04.30.3309655_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_3.pt"
+    ],
+    "59": [
+        "VOA_EN_NW_2015.01.16.2600974_1_Person_1.pt",
+        "VOA_EN_NW_2015.01.20.2605914_2_Entity_2.pt",
+        "VOA_EN_NW_2015.03.05.2668808_3_Agent_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_3.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_5.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_2.pt",
+        "VOA_EN_NW_2016.06.27.3393616_0_Place_1.pt",
+        "VOA_EN_NW_2016.07.28.3437456_1_Vehicle_1.pt",
+        "VOA_EN_NW_2016.10.09.3542777_1_Entity_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_5.pt",
+        "VOA_EN_NW_2016.11.18.3602889_2_Victim_4.pt",
+        "VOA_EN_NW_2017.03.19.3772413_1_Victim_1.pt",
+        "VOA_EN_NW_2017.04.28.3829747_0_Money_1.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Artifact_4.pt",
+        "VOA_EN_NW_2017.05.14.3850909_2_Entity_2.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_2.pt"
+    ],
+    "60": [
+        "VOA_EN_NW_2015.03.27.2696792_0_Agent_4.pt",
+        "VOA_EN_NW_2015.04.30.2743015_2_Place_1.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_8.pt",
+        "VOA_EN_NW_2015.12.08.3093406_1_Entity_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_9.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_1.pt"
+    ],
+    "61": [
+        "VOA_EN_NW_2013.09.13.1749095_0_Victim_3.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Instrument_3.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_6.pt",
+        "VOA_EN_NW_2015.01.16.2600974_1_Agent_3.pt",
+        "VOA_EN_NW_2015.01.16.2600974_2_Person_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_4.pt",
+        "VOA_EN_NW_2015.10.07.2995399_3_Agent_1.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_4.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_4.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_5.pt"
+    ],
+    "62": [
+        "VOA_EN_NW_2017.06.21.3910361_5_Instrument_3.pt"
+    ],
+    "63": [
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_6.pt",
+        "VOA_EN_NW_2015.12.08.3093406_0_Agent_2.pt",
+        "VOA_EN_NW_2015.12.08.3093406_0_Person_1.pt",
+        "VOA_EN_NW_2016.07.12.3415627_2_Person_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_3_Person_1.pt",
+        "VOA_EN_NW_2017.03.21.3775715_1_Person_1.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Person_4.pt"
+    ],
+    "64": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_9.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Instrument_2.pt",
+        "VOA_EN_NW_2015.04.30.2743015_2_Instrument_2.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_6.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_8.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_9.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_1.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_10.pt",
+        "VOA_EN_NW_2016.08.17.3469525_2_Entity_6.pt"
+    ],
+    "65": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_5.pt",
+        "VOA_EN_NW_2013.11.05.1784209_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_7.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_9.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_2.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_8.pt",
+        "VOA_EN_NW_2016.06.15.3376531_1_Entity_3.pt",
+        "VOA_EN_NW_2016.07.11.3412014_1_Agent_2.pt"
+    ],
+    "66": [
+        "VOA_EN_NW_2015.05.08.2760181_0_Agent_1.pt",
+        "VOA_EN_NW_2016.07.09.3410778_2_Entity_4.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_9.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Instrument_1.pt"
+    ],
+    "68": [
+        "VOA_EN_NW_2015.01.16.2600974_1_Agent_2.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Instrument_2.pt",
+        "VOA_EN_NW_2017.01.22.3686805_3_Place_1.pt",
+        "VOA_EN_NW_2017.03.27.3783190_2_Agent_2.pt"
+    ],
+    "69": [
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_6.pt"
+    ],
+    "70": [
+        "VOA_EN_NW_2015.10.01.2987042_0_Vehicle_1.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_3.pt",
+        "VOA_EN_NW_2017.01.20.3685521_0_Entity_2.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_5.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_6.pt"
+    ],
+    "71": [
+        "VOA_EN_NW_2017.02.15.3726266_0_Person_1.pt"
+    ],
+    "72": [
+        "VOA_EN_NW_2015.08.03.2896400_4_Attacker_1.pt",
+        "VOA_EN_NW_2015.08.03.2896400_4_Target_1.pt",
+        "VOA_EN_NW_2017.04.24.3823632_2_Entity_2.pt"
+    ],
+    "73": [
+        "VOA_EN_NW_2016.04.01.3264272_1_Instrument_1.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_5.pt",
+        "VOA_EN_NW_2016.12.14.3635692_6_Entity_1.pt"
+    ],
+    "74": [
+        "VOA_EN_NW_2014.12.13.2556485_0_Person_3.pt",
+        "VOA_EN_NW_2016.02.08.3181623_2_Artifact_1.pt",
+        "VOA_EN_NW_2016.05.12.3327048_4_Person_4.pt"
+    ],
+    "75": [
+        "VOA_EN_NW_2014.12.15.2551521_0_Entity_1.pt",
+        "VOA_EN_NW_2014.12.15.2551521_0_Entity_2.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_7.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_8.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_8.pt"
+    ],
+    "77": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.06.26.3392569_1_Artifact_2.pt",
+        "VOA_EN_NW_2017.02.23.3737435_1_Agent_2.pt"
+    ],
+    "78": [
+        "VOA_EN_NW_2015.08.04.2902011_2_Entity_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_4_Instrument_1.pt"
+    ],
+    "79": [
+        "VOA_EN_NW_2014.05.22.1920650_1_Victim_2.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_3.pt",
+        "VOA_EN_NW_2015.05.08.2760181_0_Person_1.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_1.pt",
+        "VOA_EN_NW_2017.01.30.3699018_2_Entity_1.pt"
+    ],
+    "82": [
+        "VOA_EN_NW_2015.03.19.2685042_0_Agent_3.pt"
+    ],
+    "83": [
+        "VOA_EN_NW_2016.02.08.3181623_2_Vehicle_2.pt",
+        "VOA_EN_NW_2016.08.12.3461808_1_Victim_1.pt",
+        "VOA_EN_NW_2016.09.27.3526898_1_Vehicle_1.pt"
+    ],
+    "84": [
+        "VOA_EN_NW_2014.12.16.2560677_0_Victim_1.pt"
+    ],
+    "85": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_16.pt",
+        "VOA_EN_NW_2014.12.15.2551521_1_Agent_1.pt",
+        "VOA_EN_NW_2014.12.15.2551521_1_Person_1.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_2.pt",
+        "VOA_EN_NW_2016.04.22.3297950_1_Agent_2.pt",
+        "VOA_EN_NW_2016.07.09.3410778_2_Entity_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_2_Person_1.pt",
+        "VOA_EN_NW_2016.10.31.3572766_1_Entity_1.pt",
+        "VOA_EN_NW_2016.10.31.3572766_2_Entity_2.pt",
+        "VOA_EN_NW_2016.12.14.3635692_8_Entity_2.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_13.pt"
+    ],
+    "86": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_1.pt",
+        "VOA_EN_NW_2013.10.30.1779954_0_Artifact_4.pt",
+        "VOA_EN_NW_2015.09.25.2978237_3_Entity_2.pt",
+        "VOA_EN_NW_2016.04.13.3283669_2_Agent_1.pt",
+        "VOA_EN_NW_2016.12.14.3635600_5_Artifact_1.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Instrument_3.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Instrument_5.pt",
+        "VOA_EN_NW_2017.02.23.3736556_2_Agent_1.pt",
+        "VOA_EN_NW_2017.02.23.3736556_2_Person_1.pt"
+    ],
+    "87": [
+        "VOA_EN_NW_2017.02.15.3726266_0_Instrument_1.pt"
+    ],
+    "89": [
+        "VOA_EN_NW_2013.10.30.1779954_0_Artifact_1.pt",
+        "VOA_EN_NW_2013.11.20.1794343_0_Entity_1.pt",
+        "VOA_EN_NW_2014.04.16.1894548_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.12.05.3090416_0_Target_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_4.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_8.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_9.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_1.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_3.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_8.pt"
+    ],
+    "90": [
+        "VOA_EN_NW_2016.08.19.3472017_2_Artifact_2.pt",
+        "VOA_EN_NW_2017.01.28.3696450_0_Entity_1.pt",
+        "VOA_EN_NW_2017.02.02.3702962_0_Entity_1.pt",
+        "VOA_EN_NW_2017.02.17.3729391_1_Entity_1.pt",
+        "VOA_EN_NW_2017.06.07.3891137_3_Entity_1.pt"
+    ],
+    "92": [
+        "VOA_EN_NW_2014.08.20.2422182_1_Person_1.pt",
+        "VOA_EN_NW_2017.01.20.3685521_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.03.19.3772413_2_Victim_2.pt"
+    ],
+    "93": [
+        "VOA_EN_NW_2016.09.08.3498453_0_Artifact_2.pt",
+        "VOA_EN_NW_2017.02.23.3737435_1_Agent_1.pt"
+    ],
+    "94": [
+        "VOA_EN_NW_2015.04.30.2743015_0_Entity_1.pt",
+        "VOA_EN_NW_2015.05.28.2793713_3_Agent_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_5.pt",
+        "VOA_EN_NW_2016.04.11.3279945_5_Instrument_1.pt",
+        "VOA_EN_NW_2017.02.01.3702375_0_Agent_4.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Entity_1.pt",
+        "VOA_EN_NW_2017.03.27.3783190_3_Agent_1.pt",
+        "VOA_EN_NW_2017.03.27.3783190_3_Agent_2.pt",
+        "VOA_EN_NW_2017.06.26.3916532_2_Instrument_1.pt"
+    ],
+    "95": [
+        "VOA_EN_NW_2014.10.09.2478154_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_6.pt",
+        "VOA_EN_NW_2016.02.10.3184933_1_Entity_2.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_1.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_10.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_3.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_6.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_12.pt",
+        "VOA_EN_NW_2016.07.14.3417836_1_Entity_9.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_5.pt"
+    ],
+    "96": [
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_1.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_3.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_7.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_8.pt",
+        "VOA_EN_NW_2016.06.09.3369222_1_Instrument_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_3_Instrument_1.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Entity_2.pt",
+        "VOA_EN_NW_2017.02.15.3726266_0_Agent_2.pt"
+    ],
+    "97": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_5.pt",
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_4.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_11.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_7.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_1.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_11.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_12.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_14.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_15.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_5.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_6.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_9.pt",
+        "VOA_EN_NW_2014.05.25.1921616_0_Agent_1.pt",
+        "VOA_EN_NW_2015.07.31.2889903_2_Agent_1.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_2.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_5.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Instrument_2.pt",
+        "VOA_EN_NW_2016.04.24.3300395_5_Entity_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_3.pt",
+        "VOA_EN_NW_2017.02.22.3734870_1_Instrument_1.pt"
+    ],
+    "98": [
+        "VOA_EN_NW_2017.01.22.3686805_4_Instrument_1.pt"
+    ],
+    "99": [
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_2.pt",
+        "VOA_EN_NW_2017.03.19.3772413_0_Victim_1.pt",
+        "VOA_EN_NW_2017.03.19.3772413_0_Victim_2.pt"
+    ],
+    "100": [
+        "VOA_EN_NW_2016.05.17.3333843_0_Attacker_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_1.pt"
+    ],
+    "101": [
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_9.pt",
+        "VOA_EN_NW_2015.07.31.2888384_0_Entity_2.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_6.pt",
+        "VOA_EN_NW_2016.07.28.3437601_1_Agent_3.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_8.pt",
+        "VOA_EN_NW_2016.11.22.3607054_4_Entity_2.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Instrument_5.pt",
+        "VOA_EN_NW_2017.02.23.3736556_2_Agent_4.pt"
+    ],
+    "102": [
+        "VOA_EN_NW_2012.05.26.1105689_1_Victim_3.pt",
+        "VOA_EN_NW_2013.11.21.1794874_1_Vehicle_1.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_6.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_1.pt"
+    ],
+    "103": [
+        "VOA_EN_NW_2013.01.10.1581113_3_Place_2.pt",
+        "VOA_EN_NW_2017.04.20.3818034_4_Police_3.pt"
+    ],
+    "104": [
+        "VOA_EN_NW_2014.12.02.2542349_0_Entity_2.pt",
+        "VOA_EN_NW_2015.03.21.2689721_3_Entity_1.pt",
+        "VOA_EN_NW_2015.04.30.2743015_2_Instrument_1.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_3.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_1.pt"
+    ],
+    "105": [
+        "VOA_EN_NW_2009.12.09.416313_1_Victim_3.pt",
+        "VOA_EN_NW_2009.12.13.416444_1_Victim_1.pt",
+        "VOA_EN_NW_2009.12.13.416444_1_Victim_3.pt",
+        "VOA_EN_NW_2012.05.26.1105689_1_Victim_1.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_5.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_6.pt",
+        "VOA_EN_NW_2013.08.14.1729937_2_Instrument_1.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_10.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_11.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_18.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_2.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_3.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_4.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_6.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_7.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_8.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_9.pt",
+        "VOA_EN_NW_2014.01.31.1841956_1_Victim_1.pt",
+        "VOA_EN_NW_2015.05.14.2767071_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.06.26.2838241_5_Instrument_1.pt",
+        "VOA_EN_NW_2015.08.03.2896400_4_Instrument_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_5.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_4.pt",
+        "VOA_EN_NW_2016.04.13.3283669_5_Artifact_1.pt",
+        "VOA_EN_NW_2016.05.20.3338580_0_Entity_1.pt",
+        "VOA_EN_NW_2016.07.10.3411182_0_Victim_1.pt",
+        "VOA_EN_NW_2017.02.14.3724228_0_Money_2.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_11.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_12.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_13.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_2.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_3.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_7.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_8.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_9.pt"
+    ],
+    "106": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_13.pt",
+        "VOA_EN_NW_2014.05.25.1921616_0_Agent_2.pt",
+        "VOA_EN_NW_2014.05.25.1921616_0_Person_2.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_3.pt",
+        "VOA_EN_NW_2014.08.07.2405842_2_Entity_2.pt",
+        "VOA_EN_NW_2014.12.25.2573211_0_Entity_1.pt",
+        "VOA_EN_NW_2015.01.20.2605914_2_Entity_3.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_5.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_3.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_8.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_2.pt",
+        "VOA_EN_NW_2015.12.17.3106664_2_Agent_1.pt",
+        "VOA_EN_NW_2016.02.10.3184811_3_Entity_2.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_13.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_6.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_9.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_5.pt",
+        "VOA_EN_NW_2016.12.14.3635692_3_Entity_1.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Artifact_3.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Vehicle_1.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_6.pt"
+    ],
+    "107": [
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_1.pt",
+        "VOA_EN_NW_2016.01.06.3133182_0_Agent_3.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_3.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_4.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_1.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_2.pt",
+        "VOA_EN_NW_2017.03.21.3775715_1_Agent_1.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Agent_1.pt"
+    ],
+    "108": [
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_4.pt",
+        "VOA_EN_NW_2016.03.25.3254676_1_Artifact_1.pt",
+        "VOA_EN_NW_2016.09.08.3498453_0_Vehicle_1.pt"
+    ],
+    "109": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_4.pt"
+    ],
+    "110": [
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_1.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_2.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_4.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_5.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_7.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_5.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_9.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_3.pt",
+        "VOA_EN_NW_2016.11.28.3614228_3_Target_1.pt",
+        "VOA_EN_NW_2016.12.14.3635600_0_Target_2.pt",
+        "VOA_EN_NW_2017.06.21.3910361_0_Instrument_1.pt"
+    ],
+    "111": [
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_3.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_7.pt",
+        "VOA_EN_NW_2016.06.26.3392569_1_Agent_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_3.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_12.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_6.pt",
+        "VOA_EN_NW_2017.05.08.3842885_1_Agent_1.pt"
+    ],
+    "112": [
+        "VOA_EN_NW_2015.07.31.2888384_0_Entity_1.pt",
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_5.pt",
+        "VOA_EN_NW_2016.04.24.3300395_4_Entity_3.pt"
+    ],
+    "113": [
+        "VOA_EN_NW_2015.08.08.2908562_3_Agent_3.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_2.pt"
+    ],
+    "114": [
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_2.pt",
+        "VOA_EN_NW_2016.10.13.3549797_0_Artifact_2.pt",
+        "VOA_EN_NW_2016.11.09.3589149_4_Entity_3.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_6.pt"
+    ],
+    "115": [
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.07.3135549_2_Person_1.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_8.pt",
+        "VOA_EN_NW_2016.07.12.3415627_3_Person_1.pt",
+        "VOA_EN_NW_2017.05.08.3842885_1_Person_1.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Agent_2.pt"
+    ],
+    "116": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Entity_3.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_7.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_9.pt",
+        "VOA_EN_NW_2014.01.06.1823838_0_Victim_1.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_6.pt",
+        "VOA_EN_NW_2014.05.22.1920650_1_Instrument_1.pt",
+        "VOA_EN_NW_2015.10.07.2995399_1_Person_1.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_6.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Place_1.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Place_2.pt",
+        "VOA_EN_NW_2016.05.17.3333843_0_Attacker_2.pt",
+        "VOA_EN_NW_2016.07.04.3403532_3_Victim_1.pt",
+        "VOA_EN_NW_2016.08.10.3458597_2_Entity_3.pt",
+        "VOA_EN_NW_2016.08.10.3458597_2_Entity_4.pt",
+        "VOA_EN_NW_2016.09.02.3491404_3_Artifact_1.pt",
+        "VOA_EN_NW_2016.09.02.3491404_3_Artifact_2.pt",
+        "VOA_EN_NW_2016.10.13.3549797_0_Artifact_1.pt",
+        "VOA_EN_NW_2016.10.13.3549797_3_Vehicle_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Artifact_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_3.pt",
+        "VOA_EN_NW_2017.03.16.3769606_2_Victim_1.pt"
+    ],
+    "117": [
+        "VOA_EN_NW_2009.12.13.416444_1_Victim_2.pt",
+        "VOA_EN_NW_2009.12.13.416444_1_Victim_4.pt",
+        "VOA_EN_NW_2009.12.13.416444_1_Victim_5.pt",
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_2.pt",
+        "VOA_EN_NW_2017.02.03.3705362_3_Target_1.pt"
+    ],
+    "119": [
+        "VOA_EN_NW_2013.09.13.1749095_2_Victim_2.pt",
+        "VOA_EN_NW_2014.12.17.2562583_0_Victim_1.pt",
+        "VOA_EN_NW_2016.09.27.3526898_0_Vehicle_1.pt",
+        "VOA_EN_NW_2017.05.15.3851683_4_Vehicle_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_2_Instrument_1.pt"
+    ],
+    "120": [
+        "VOA_EN_NW_2016.01.13.3142975_0_Person_3.pt",
+        "VOA_EN_NW_2016.05.12.3327048_4_Person_3.pt",
+        "VOA_EN_NW_2016.05.12.3327048_4_Person_5.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_10.pt"
+    ],
+    "121": [
+        "VOA_EN_NW_2016.07.28.3437456_2_Person_1.pt"
+    ],
+    "122": [
+        "VOA_EN_NW_2013.11.10.1787498_0_Instrument_1.pt",
+        "VOA_EN_NW_2013.11.20.1794343_0_Instrument_1.pt",
+        "VOA_EN_NW_2014.03.24.1877778_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_5.pt",
+        "VOA_EN_NW_2015.12.23.3115897_1_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_8.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_7.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Entity_4.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_7.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_5.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_9.pt",
+        "VOA_EN_NW_2017.04.05.3797975_4_Victim_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_4.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Person_1.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Agent_4.pt",
+        "VOA_EN_NW_2017.06.15.3902402_3_Agent_2.pt",
+        "VOA_EN_NW_2017.06.15.3902402_3_Person_1.pt"
+    ],
+    "123": [
+        "VOA_EN_NW_2016.04.30.3309655_0_Police_3.pt",
+        "VOA_EN_NW_2016.11.18.3602889_2_Victim_1.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_5.pt"
+    ],
+    "124": [
+        "VOA_EN_NW_2013.01.10.1581113_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.06.3133182_0_Agent_1.pt",
+        "VOA_EN_NW_2016.01.06.3133182_0_Person_1.pt",
+        "VOA_EN_NW_2016.12.09.3630378_1_Entity_1.pt",
+        "VOA_EN_NW_2017.01.20.3685521_0_Entity_3.pt",
+        "VOA_EN_NW_2017.01.20.3685521_0_Instrument_2.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Entity_3.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Instrument_2.pt",
+        "VOA_EN_NW_2017.05.31.3878829_0_Instrument_1.pt"
+    ],
+    "125": [
+        "VOA_EN_NW_2016.04.01.3264272_2_Entity_1.pt",
+        "VOA_EN_NW_2016.04.01.3264272_2_Entity_3.pt",
+        "VOA_EN_NW_2016.04.24.3300395_4_Entity_2.pt",
+        "VOA_EN_NW_2016.10.31.3572766_1_Entity_2.pt",
+        "VOA_EN_NW_2016.11.29.3616534_0_Agent_1.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_4.pt"
+    ],
+    "126": [
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_1.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_4.pt",
+        "VOA_EN_NW_2017.07.10.3936006_2_Target_1.pt"
+    ],
+    "127": [
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_2.pt"
+    ],
+    "128": [
+        "VOA_EN_NW_2012.05.26.1105689_1_Victim_2.pt",
+        "VOA_EN_NW_2012.12.10.1562068_1_Artifact_1.pt",
+        "VOA_EN_NW_2015.11.05.3038535_3_Entity_3.pt",
+        "VOA_EN_NW_2016.04.24.3300395_0_Entity_2.pt",
+        "VOA_EN_NW_2016.05.12.3327048_4_Person_2.pt",
+        "VOA_EN_NW_2016.12.14.3635600_0_Target_1.pt"
+    ],
+    "129": [
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_2.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_3.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_4.pt"
+    ],
+    "130": [
+        "VOA_EN_NW_2015.07.31.2888384_5_Entity_2.pt",
+        "VOA_EN_NW_2016.04.22.3297950_1_Agent_1.pt"
+    ],
+    "131": [
+        "VOA_EN_NW_2015.03.27.2696792_0_Artifact_1.pt",
+        "VOA_EN_NW_2015.03.27.2696792_0_Artifact_2.pt",
+        "VOA_EN_NW_2015.05.28.2793713_3_Artifact_1.pt",
+        "VOA_EN_NW_2015.05.28.2793713_3_Artifact_2.pt",
+        "VOA_EN_NW_2016.06.15.3376757_2_Vehicle_1.pt"
+    ],
+    "132": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_4.pt",
+        "VOA_EN_NW_2015.10.21.3017239_0_Entity_2.pt",
+        "VOA_EN_NW_2015.10.21.3017239_1_Entity_4.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Artifact_2.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_12.pt"
+    ],
+    "134": [
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_4.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Instrument_5.pt"
+    ],
+    "135": [
+        "VOA_EN_NW_2014.03.02.1862314_3_Agent_1.pt",
+        "VOA_EN_NW_2014.11.09.2508360_0_Instrument_1.pt",
+        "VOA_EN_NW_2015.11.26.3074855_1_Agent_2.pt",
+        "VOA_EN_NW_2016.07.12.3415627_3_Agent_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_6.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_6.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_7.pt"
+    ],
+    "137": [
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_5.pt",
+        "VOA_EN_NW_2013.07.08.1696918_0_Victim_1.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_11.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_2.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_8.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_8.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_2.pt",
+        "VOA_EN_NW_2014.03.02.1862314_3_Agent_2.pt",
+        "VOA_EN_NW_2014.07.14.1957332_0_Person_2.pt",
+        "VOA_EN_NW_2014.09.10.2444962_0_Entity_2.pt",
+        "VOA_EN_NW_2015.01.16.2600974_2_Agent_2.pt",
+        "VOA_EN_NW_2015.01.20.2605914_1_Victim_1.pt",
+        "VOA_EN_NW_2015.03.21.2689721_2_Victim_1.pt",
+        "VOA_EN_NW_2015.03.21.2689721_3_Entity_2.pt",
+        "VOA_EN_NW_2015.07.02.2845998_1_Victim_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_8.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_9.pt",
+        "VOA_EN_NW_2015.07.31.2889903_2_Person_1.pt",
+        "VOA_EN_NW_2015.12.08.3093406_2_Entity_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Instrument_3.pt",
+        "VOA_EN_NW_2016.02.10.3184811_0_Target_1.pt",
+        "VOA_EN_NW_2016.02.14.3190340_5_Entity_2.pt",
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_5.pt",
+        "VOA_EN_NW_2016.04.24.3300395_4_Entity_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Entity_1.pt",
+        "VOA_EN_NW_2016.06.21.3385836_0_Victim_1.pt",
+        "VOA_EN_NW_2016.07.19.3424061_1_Victim_1.pt",
+        "VOA_EN_NW_2016.07.28.3437601_2_Entity_1.pt",
+        "VOA_EN_NW_2016.07.28.3437601_2_Entity_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_9_Entity_2.pt",
+        "VOA_EN_NW_2017.01.16.3678417_0_Victim_1.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Entity_3.pt",
+        "VOA_EN_NW_2017.02.15.3726266_1_Instrument_1.pt",
+        "VOA_EN_NW_2017.02.17.3729391_0_Entity_1.pt",
+        "VOA_EN_NW_2017.02.17.3729391_0_Entity_2.pt",
+        "VOA_EN_NW_2017.03.19.3772413_2_Victim_1.pt",
+        "VOA_EN_NW_2017.04.05.3797975_4_Victim_2.pt",
+        "VOA_EN_NW_2017.04.13.3808915_2_Person_1.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_5.pt"
+    ],
+    "138": [
+        "VOA_EN_NW_2013.11.15.1791049_0_Artifact_1.pt",
+        "VOA_EN_NW_2015.09.02.2942501_2_Person_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_4.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Artifact_3.pt",
+        "VOA_EN_NW_2016.09.27.3527400_3_Person_1.pt"
+    ],
+    "139": [
+        "VOA_EN_NW_2014.07.14.1957332_2_Instrument_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_5_Attacker_3.pt"
+    ],
+    "140": [
+        "VOA_EN_NW_2014.07.14.1957332_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_5.pt",
+        "VOA_EN_NW_2016.07.11.3412014_1_Person_1.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_8.pt"
+    ],
+    "141": [
+        "VOA_EN_NW_2016.03.04.3219688_0_Entity_3.pt",
+        "VOA_EN_NW_2016.03.04.3219688_0_Entity_4.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_6.pt"
+    ],
+    "142": [
+        "VOA_EN_NW_2014.12.13.2556485_0_Person_4.pt",
+        "VOA_EN_NW_2016.05.11.3325807_0_Entity_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_1_Entity_2.pt",
+        "VOA_EN_NW_2017.01.30.3699085_3_Entity_1.pt",
+        "VOA_EN_NW_2017.05.04.3838167_1_Instrument_1.pt"
+    ],
+    "143": [
+        "VOA_EN_NW_2017.06.21.3910361_5_Instrument_2.pt"
+    ],
+    "145": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_2.pt",
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_4.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_7.pt",
+        "VOA_EN_NW_2016.04.13.3283669_5_Artifact_2.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Instrument_4.pt"
+    ],
+    "146": [
+        "VOA_EN_NW_2013.01.10.1581113_0_Victim_1.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Instrument_2.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Instrument_3.pt",
+        "VOA_EN_NW_2015.08.03.2896400_4_Target_2.pt",
+        "VOA_EN_NW_2016.09.04.3493324_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.01.30.3699085_0_Instrument_1.pt"
+    ],
+    "147": [
+        "VOA_EN_NW_2015.07.16.2865144_0_Entity_1.pt",
+        "VOA_EN_NW_2015.09.11.2959960_1_Vehicle_1.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_10.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_11.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_8.pt",
+        "VOA_EN_NW_2016.02.08.3181623_2_Vehicle_1.pt",
+        "VOA_EN_NW_2016.04.11.3279945_5_Instrument_2.pt",
+        "VOA_EN_NW_2016.04.13.3283669_2_Artifact_1.pt",
+        "VOA_EN_NW_2016.04.13.3283669_5_Agent_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_2_Entity_3.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Vehicle_2.pt",
+        "VOA_EN_NW_2017.02.24.3739026_2_Vehicle_1.pt",
+        "VOA_EN_NW_2017.05.15.3851683_3_Vehicle_1.pt"
+    ],
+    "148": [
+        "VOA_EN_NW_2015.09.05.2949130_0_Agent_1.pt",
+        "VOA_EN_NW_2015.09.05.2949130_0_Artifact_1.pt"
+    ],
+    "149": [
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_6.pt",
+        "VOA_EN_NW_2016.05.30.3351608_2_Instrument_2.pt",
+        "VOA_EN_NW_2016.10.25.3565688_2_Instrument_1.pt"
+    ],
+    "150": [
+        "VOA_EN_NW_2016.08.17.3469525_3_Police_1.pt",
+        "VOA_EN_NW_2016.12.27.3653223_0_Instrument_1.pt"
+    ],
+    "152": [
+        "VOA_EN_NW_2015.03.19.2685042_0_Agent_4.pt",
+        "VOA_EN_NW_2015.03.19.2685042_0_Artifact_1.pt",
+        "VOA_EN_NW_2015.05.28.2793713_3_Agent_3.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_10.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_6.pt"
+    ],
+    "154": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_4.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_6.pt",
+        "VOA_EN_NW_2016.01.05.3132000_5_Instrument_1.pt",
+        "VOA_EN_NW_2016.04.24.3300395_5_Instrument_1.pt",
+        "VOA_EN_NW_2016.04.24.3300395_5_Place_1.pt"
+    ],
+    "155": [
+        "VOA_EN_NW_2013.07.08.1696918_3_Place_1.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_3.pt",
+        "VOA_EN_NW_2013.11.15.1791049_0_Artifact_4.pt",
+        "VOA_EN_NW_2016.02.10.3184933_2_Entity_3.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_3.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_4.pt",
+        "VOA_EN_NW_2016.09.27.3527025_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_4.pt",
+        "VOA_EN_NW_2016.10.19.3557471_2_Agent_1.pt"
+    ],
+    "156": [
+        "VOA_EN_NW_2009.12.09.416313_1_Victim_4.pt",
+        "VOA_EN_NW_2015.09.02.2942501_2_Instrument_2.pt",
+        "VOA_EN_NW_2017.02.01.3702375_0_Agent_2.pt"
+    ],
+    "157": [
+        "VOA_EN_NW_2009.12.09.416313_1_Victim_1.pt",
+        "VOA_EN_NW_2009.12.09.416313_1_Victim_2.pt",
+        "VOA_EN_NW_2013.05.23.1666803_3_Victim_1.pt",
+        "VOA_EN_NW_2013.11.15.1791049_0_Agent_1.pt",
+        "VOA_EN_NW_2015.11.05.3037829_0_Victim_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_3.pt",
+        "VOA_EN_NW_2016.08.10.3458597_2_Entity_2.pt"
+    ],
+    "158": [
+        "VOA_EN_NW_2016.08.17.3469525_2_Entity_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_2_Entity_4.pt"
+    ],
+    "159": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Instrument_7.pt",
+        "VOA_EN_NW_2014.03.24.1877778_0_Entity_1.pt"
+    ],
+    "160": [
+        "VOA_EN_NW_2015.06.26.2838241_5_Entity_3.pt",
+        "VOA_EN_NW_2015.07.31.2888384_3_Entity_2.pt",
+        "VOA_EN_NW_2016.12.17.3640413_1_Entity_4.pt"
+    ],
+    "161": [
+        "VOA_EN_NW_2013.01.28.1592104_0_Victim_1.pt",
+        "VOA_EN_NW_2013.05.02.1653029_0_Entity_2.pt",
+        "VOA_EN_NW_2013.09.09.1746134_0_Instrument_1.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Agent_4.pt",
+        "VOA_EN_NW_2015.03.19.2685042_0_Agent_2.pt",
+        "VOA_EN_NW_2016.04.14.3285847_4_Entity_1.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_3.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_4.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_2.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_5.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_7.pt",
+        "VOA_EN_NW_2016.09.04.3493324_0_Entity_1.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Artifact_2.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Instrument_3.pt",
+        "VOA_EN_NW_2017.01.22.3686805_4_Instrument_2.pt"
+    ],
+    "162": [
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_5.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Entity_3.pt",
+        "VOA_EN_NW_2017.01.22.3686805_3_Instrument_2.pt",
+        "VOA_EN_NW_2017.04.13.3808915_2_Agent_1.pt"
+    ],
+    "163": [
+        "VOA_EN_NW_2016.07.19.3424061_3_Instrument_1.pt"
+    ],
+    "164": [
+        "VOA_EN_NW_2015.03.04.2667016_0_Agent_1.pt",
+        "VOA_EN_NW_2016.05.16.3331907_0_Agent_1.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_4.pt",
+        "VOA_EN_NW_2017.01.19.3676842_0_Instrument_3.pt"
+    ],
+    "165": [
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_4.pt",
+        "VOA_EN_NW_2016.07.14.3417836_2_Agent_1.pt",
+        "VOA_EN_NW_2016.07.14.3417836_2_Agent_2.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Artifact_4.pt",
+        "VOA_EN_NW_2017.02.01.3702375_0_Agent_3.pt",
+        "VOA_EN_NW_2017.02.23.3736556_2_Agent_2.pt",
+        "VOA_EN_NW_2017.05.31.3878829_0_Target_1.pt"
+    ],
+    "167": [
+        "VOA_EN_NW_2013.11.15.1791049_0_Artifact_2.pt",
+        "VOA_EN_NW_2013.11.15.1791049_0_Artifact_3.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Instrument_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Police_2.pt",
+        "VOA_EN_NW_2016.12.17.3640413_1_Entity_5.pt"
+    ],
+    "168": [
+        "VOA_EN_NW_2012.12.10.1562068_2_Artifact_1.pt",
+        "VOA_EN_NW_2013.08.09.1726740_0_Money_1.pt",
+        "VOA_EN_NW_2013.08.09.1726740_0_Money_2.pt",
+        "VOA_EN_NW_2013.08.09.1726740_0_Recipient_1.pt",
+        "VOA_EN_NW_2015.12.17.3106664_2_Person_1.pt",
+        "VOA_EN_NW_2016.03.20.3242323_1_Person_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_3_Entity_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Instrument_4.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_10.pt"
+    ],
+    "169": [
+        "VOA_EN_NW_2015.04.30.2743015_1_Person_1.pt"
+    ],
+    "172": [
+        "VOA_EN_NW_2013.09.13.1749095_2_Victim_1.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_14.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_15.pt",
+        "VOA_EN_NW_2014.12.02.2542349_1_Victim_1.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_2.pt",
+        "VOA_EN_NW_2014.12.17.2562583_1_Victim_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_3.pt",
+        "VOA_EN_NW_2015.05.05.2749920_0_Victim_1.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_1.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_2.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_6.pt",
+        "VOA_EN_NW_2016.12.28.3654650_0_Victim_1.pt",
+        "VOA_EN_NW_2016.12.28.3654650_0_Victim_2.pt",
+        "VOA_EN_NW_2017.02.01.3702375_0_Agent_1.pt",
+        "VOA_EN_NW_2017.06.26.3916532_2_Victim_1.pt"
+    ],
+    "173": [
+        "VOA_EN_NW_2015.01.20.2605914_2_Entity_4.pt",
+        "VOA_EN_NW_2017.01.20.3685521_4_Instrument_1.pt"
+    ],
+    "174": [
+        "VOA_EN_NW_2013.01.21.1587732_1_Entity_3.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_3.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_7.pt",
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_0_Police_1.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_5.pt"
+    ],
+    "175": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_10.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_7.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_9.pt"
+    ],
+    "176": [
+        "VOA_EN_NW_2016.01.05.3132000_5_Entity_3.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Entity_2.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_6.pt",
+        "VOA_EN_NW_2017.03.27.3783190_2_Person_1.pt"
+    ],
+    "177": [
+        "VOA_EN_NW_2016.04.19.3291980_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_1.pt",
+        "VOA_EN_NW_2017.01.30.3699085_3_Instrument_1.pt"
+    ],
+    "179": [
+        "VOA_EN_NW_2015.08.04.2902011_2_Entity_2.pt"
+    ],
+    "180": [
+        "VOA_EN_NW_2016.07.28.3437601_2_Entity_3.pt",
+        "VOA_EN_NW_2017.02.15.3726266_3_Entity_2.pt"
+    ],
+    "181": [
+        "VOA_EN_NW_2014.03.02.1862314_3_Agent_3.pt",
+        "VOA_EN_NW_2015.01.16.2600974_2_Agent_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_2.pt",
+        "VOA_EN_NW_2016.02.10.3184811_3_Entity_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_7.pt",
+        "VOA_EN_NW_2017.03.27.3783190_2_Agent_3.pt",
+        "VOA_EN_NW_2017.05.01.3832748_0_Person_1.pt"
+    ],
+    "182": [
+        "VOA_EN_NW_2013.07.27.1711271_1_Victim_1.pt",
+        "VOA_EN_NW_2015.12.08.3093406_2_Instrument_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Entity_4.pt",
+        "VOA_EN_NW_2016.11.10.3590360_5_Instrument_1.pt",
+        "VOA_EN_NW_2017.06.15.3902402_3_Agent_1.pt"
+    ],
+    "183": [
+        "VOA_EN_NW_2016.02.15.3191284_0_Agent_1.pt",
+        "VOA_EN_NW_2016.07.12.3415627_3_Agent_1.pt"
+    ],
+    "184": [
+        "VOA_EN_NW_2012.12.10.1562068_2_Artifact_2.pt",
+        "VOA_EN_NW_2015.03.27.2697067_3_Victim_1.pt",
+        "VOA_EN_NW_2016.09.27.3527400_3_Instrument_1.pt",
+        "VOA_EN_NW_2017.06.21.3910361_5_Attacker_2.pt"
+    ],
+    "185": [
+        "VOA_EN_NW_2014.01.22.1835368_1_Target_1.pt",
+        "VOA_EN_NW_2015.08.08.2908562_3_Agent_2.pt",
+        "VOA_EN_NW_2016.04.24.3300395_3_Entity_2.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Instrument_1.pt",
+        "VOA_EN_NW_2016.05.17.3333843_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.08.12.3461808_1_Victim_2.pt",
+        "VOA_EN_NW_2016.09.02.3491404_3_Artifact_6.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_6.pt",
+        "VOA_EN_NW_2017.04.25.3825261_1_Victim_6.pt"
+    ],
+    "186": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_1.pt",
+        "VOA_EN_NW_2016.02.17.3194684_4_Entity_1.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Agent_1.pt"
+    ],
+    "187": [
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_16.pt",
+        "VOA_EN_NW_2014.07.14.1957332_1_Instrument_1.pt",
+        "VOA_EN_NW_2016.10.01.3532811_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_2_Artifact_1.pt"
+    ],
+    "189": [
+        "VOA_EN_NW_2014.07.14.1957332_0_Agent_2.pt",
+        "VOA_EN_NW_2016.02.14.3190340_4_Entity_1.pt",
+        "VOA_EN_NW_2016.04.24.3300395_3_Entity_1.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_4.pt"
+    ],
+    "191": [
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_12.pt",
+        "VOA_EN_NW_2015.10.21.3017239_0_Entity_3.pt",
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_9.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Entity_2.pt"
+    ],
+    "193": [
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_6.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_6.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_1.pt",
+        "VOA_EN_NW_2016.09.02.3491404_5_Entity_6.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_2.pt",
+        "VOA_EN_NW_2017.04.05.3798460_2_Person_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_2.pt"
+    ],
+    "194": [
+        "VOA_EN_NW_2013.05.23.1666803_2_Victim_2.pt",
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_10.pt",
+        "VOA_EN_NW_2015.05.28.2793713_3_Agent_2.pt",
+        "VOA_EN_NW_2015.09.25.2978237_3_Entity_1.pt",
+        "VOA_EN_NW_2016.01.06.3133182_0_Agent_2.pt",
+        "VOA_EN_NW_2016.03.20.3242323_0_Agent_1.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_2.pt",
+        "VOA_EN_NW_2016.03.21.3247676_0_Entity_4.pt",
+        "VOA_EN_NW_2017.02.01.3702375_0_Person_1.pt",
+        "VOA_EN_NW_2017.02.15.3726266_0_Agent_1.pt",
+        "VOA_EN_NW_2017.04.07.3800274_1_Artifact_1.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_3.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_4.pt"
+    ],
+    "195": [
+        "VOA_EN_NW_2014.05.12.1912526_2_Entity_1.pt",
+        "VOA_EN_NW_2016.03.20.3242323_0_Person_1.pt",
+        "VOA_EN_NW_2017.01.20.3685521_2_Instrument_2.pt"
+    ],
+    "196": [
+        "VOA_EN_NW_2013.10.30.1779954_0_Artifact_3.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_8.pt",
+        "VOA_EN_NW_2014.07.14.1957332_0_Agent_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_5.pt",
+        "VOA_EN_NW_2015.12.17.3106664_2_Agent_2.pt",
+        "VOA_EN_NW_2016.02.15.3191284_0_Person_1.pt",
+        "VOA_EN_NW_2016.03.20.3242323_0_Agent_2.pt",
+        "VOA_EN_NW_2017.04.05.3798460_2_Agent_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_4_Police_4.pt"
+    ],
+    "197": [
+        "VOA_EN_NW_2015.11.26.3074855_1_Agent_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.10.09.3542777_1_Entity_3.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Person_3.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_3.pt"
+    ],
+    "198": [
+        "VOA_EN_NW_2013.09.13.1749095_2_Victim_4.pt",
+        "VOA_EN_NW_2014.01.22.1835368_0_Entity_5.pt",
+        "VOA_EN_NW_2015.10.07.2995399_3_Person_1.pt",
+        "VOA_EN_NW_2016.09.21.3519438_3_Person_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_5.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_10.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Vehicle_7.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_4.pt"
+    ],
+    "199": [
+        "VOA_EN_NW_2017.03.19.3772413_0_Victim_3.pt"
+    ],
+    "200": [
+        "VOA_EN_NW_2013.09.27.1758726_1_Entity_1.pt",
+        "VOA_EN_NW_2016.01.28.3166988_4_Entity_2.pt"
+    ],
+    "201": [
+        "VOA_EN_NW_2015.03.27.2696792_0_Agent_3.pt",
+        "VOA_EN_NW_2015.10.18.3012400_3_Entity_4.pt",
+        "VOA_EN_NW_2016.09.21.3519438_3_Agent_1.pt",
+        "VOA_EN_NW_2017.02.14.3724228_1_Recipient_1.pt",
+        "VOA_EN_NW_2017.03.27.3783190_3_Person_1.pt"
+    ],
+    "203": [
+        "VOA_EN_NW_2015.04.30.2743015_0_Entity_2.pt",
+        "VOA_EN_NW_2015.04.30.2743015_2_Entity_2.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_10.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Instrument_2.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Instrument_3.pt",
+        "VOA_EN_NW_2016.01.07.3135549_0_Instrument_4.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_6.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_7.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_4.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_10.pt",
+        "VOA_EN_NW_2017.04.07.3800274_2_Entity_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_1_Entity_8.pt",
+        "VOA_EN_NW_2017.04.24.3823632_2_Entity_1.pt",
+        "VOA_EN_NW_2017.05.17.3854850_1_Entity_2.pt",
+        "VOA_EN_NW_2017.07.10.3936006_5_Instrument_1.pt"
+    ],
+    "204": [
+        "VOA_EN_NW_2015.08.08.2908562_3_Instrument_2.pt"
+    ],
+    "205": [
+        "VOA_EN_NW_2014.08.07.2405842_2_Entity_1.pt",
+        "VOA_EN_NW_2015.01.20.2605914_2_Entity_1.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Instrument_3.pt",
+        "VOA_EN_NW_2015.10.21.3017239_5_Entity_1.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_7.pt",
+        "VOA_EN_NW_2016.02.10.3184933_3_Entity_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_1.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_2.pt",
+        "VOA_EN_NW_2016.06.09.3369222_1_Entity_1.pt",
+        "VOA_EN_NW_2016.07.09.3410778_2_Entity_5.pt",
+        "VOA_EN_NW_2016.07.23.3431608_1_Entity_2.pt",
+        "VOA_EN_NW_2016.11.29.3615580_0_Victim_7.pt",
+        "VOA_EN_NW_2017.04.07.3800274_2_Entity_2.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Artifact_1.pt",
+        "VOA_EN_NW_2017.05.14.3850909_0_Artifact_2.pt"
+    ],
+    "206": [
+        "VOA_EN_NW_2016.12.14.3635600_5_Artifact_2.pt",
+        "VOA_EN_NW_2016.12.28.3654650_1_Agent_1.pt",
+        "VOA_EN_NW_2017.04.20.3818034_4_Instrument_1.pt"
+    ],
+    "207": [
+        "VOA_EN_NW_2012.12.10.1562068_1_Agent_3.pt",
+        "VOA_EN_NW_2012.12.10.1562068_1_Artifact_2.pt",
+        "VOA_EN_NW_2014.12.02.2542349_3_Victim_9.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_7.pt",
+        "VOA_EN_NW_2015.12.08.3093406_1_Place_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_3_Target_1.pt",
+        "VOA_EN_NW_2016.04.01.3264272_1_Entity_1.pt",
+        "VOA_EN_NW_2016.06.26.3392569_1_Agent_1.pt",
+        "VOA_EN_NW_2016.12.20.3643261_2_Entity_6.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Person_2.pt"
+    ],
+    "208": [
+        "VOA_EN_NW_2013.10.30.1779954_0_Artifact_2.pt",
+        "VOA_EN_NW_2014.03.02.1862314_3_Person_1.pt",
+        "VOA_EN_NW_2015.05.05.2749920_1_Victim_1.pt",
+        "VOA_EN_NW_2016.11.10.3590360_2_Entity_3.pt"
+    ],
+    "209": [
+        "VOA_EN_NW_2017.01.20.3685521_2_Entity_1.pt",
+        "VOA_EN_NW_2017.01.30.3699018_2_Instrument_1.pt"
+    ],
+    "211": [
+        "VOA_EN_NW_2013.05.02.1653029_0_Instrument_6.pt",
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_5.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Instrument_4.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_3.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.07.09.3410778_2_Entity_3.pt"
+    ],
+    "212": [
+        "VOA_EN_NW_2014.12.29.2577251_3_Vehicle_1.pt",
+        "VOA_EN_NW_2015.01.16.2600974_1_Agent_4.pt",
+        "VOA_EN_NW_2015.10.01.2987042_0_Artifact_1.pt",
+        "VOA_EN_NW_2016.01.07.3135549_2_Agent_2.pt",
+        "VOA_EN_NW_2016.06.15.3376757_2_Artifact_2.pt",
+        "VOA_EN_NW_2016.09.08.3498453_2_Vehicle_1.pt"
+    ],
+    "213": [
+        "VOA_EN_NW_2013.08.14.1729937_2_Entity_1.pt"
+    ],
+    "214": [
+        "VOA_EN_NW_2015.03.19.2685042_0_Agent_1.pt",
+        "VOA_EN_NW_2016.05.12.3327048_5_Entity_1.pt",
+        "VOA_EN_NW_2016.05.16.3331907_0_Agent_3.pt"
+    ],
+    "215": [
+        "VOA_EN_NW_2014.05.22.1920650_3_Target_1.pt",
+        "VOA_EN_NW_2014.12.17.2562583_3_Victim_1.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Police_1.pt",
+        "VOA_EN_NW_2016.08.11.3460137_1_Artifact_1.pt",
+        "VOA_EN_NW_2017.02.14.3724228_1_Money_1.pt"
+    ],
+    "217": [
+        "VOA_EN_NW_2013.09.13.1749095_0_Victim_2.pt",
+        "VOA_EN_NW_2013.09.13.1749095_2_Victim_3.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Instrument_2.pt",
+        "VOA_EN_NW_2015.08.08.2908562_3_Instrument_1.pt"
+    ],
+    "218": [
+        "VOA_EN_NW_2016.06.26.3392569_3_Agent_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Entity_3.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Agent_3.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_5.pt",
+        "VOA_EN_NW_2016.12.28.3654650_1_Person_1.pt"
+    ],
+    "219": [
+        "VOA_EN_NW_2013.01.21.1587732_1_Entity_2.pt",
+        "VOA_EN_NW_2013.07.08.1696918_2_Place_1.pt",
+        "VOA_EN_NW_2013.12.31.1820694_0_Entity_1.pt",
+        "VOA_EN_NW_2013.12.31.1820694_0_Entity_2.pt",
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_5.pt",
+        "VOA_EN_NW_2014.07.14.1957332_0_Person_1.pt",
+        "VOA_EN_NW_2014.12.02.2542349_2_Victim_1.pt",
+        "VOA_EN_NW_2015.03.19.2685042_2_Artifact_1.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_4.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_10.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_11.pt",
+        "VOA_EN_NW_2016.02.19.3197746_4_Entity_4.pt",
+        "VOA_EN_NW_2016.04.01.3264272_2_Entity_2.pt",
+        "VOA_EN_NW_2016.04.30.3309655_2_Instrument_2.pt",
+        "VOA_EN_NW_2017.01.16.3678663_0_Person_1.pt",
+        "VOA_EN_NW_2017.03.15.3767889_3_Person_1.pt"
+    ],
+    "220": [
+        "VOA_EN_NW_2016.06.10.3370380_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Instrument_2.pt",
+        "VOA_EN_NW_2016.11.29.3616534_0_Artifact_1.pt"
+    ],
+    "221": [
+        "VOA_EN_NW_2016.08.27.3483319_3_Victim_2.pt"
+    ],
+    "222": [
+        "VOA_EN_NW_2013.10.30.1779954_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.04.01.3264272_0_Entity_3.pt",
+        "VOA_EN_NW_2016.05.16.3331907_0_Agent_2.pt",
+        "VOA_EN_NW_2016.08.17.3469525_0_Entity_4.pt",
+        "VOA_EN_NW_2016.08.19.3472017_2_Artifact_1.pt"
+    ],
+    "223": [
+        "VOA_EN_NW_2013.01.10.1581113_3_Place_1.pt",
+        "VOA_EN_NW_2013.10.30.1779954_0_Vehicle_1.pt",
+        "VOA_EN_NW_2016.03.01.3214677_3_Agent_1.pt",
+        "VOA_EN_NW_2016.06.15.3376531_1_Entity_2.pt",
+        "VOA_EN_NW_2016.11.06.3583381_4_Entity_6.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_11.pt",
+        "VOA_EN_NW_2017.02.22.3734870_5_Person_7.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_5.pt"
+    ],
+    "224": [
+        "VOA_EN_NW_2015.09.02.2942501_2_Person_2.pt",
+        "VOA_EN_NW_2016.03.23.3251117_4_Entity_6.pt"
+    ],
+    "225": [
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_2.pt",
+        "VOA_EN_NW_2014.05.22.1920650_1_Victim_1.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_2.pt",
+        "VOA_EN_NW_2017.01.20.3685521_1_Place_1.pt"
+    ],
+    "226": [
+        "VOA_EN_NW_2017.01.20.3685521_4_Entity_1.pt"
+    ],
+    "227": [
+        "VOA_EN_NW_2015.04.30.2743015_1_Agent_1.pt",
+        "VOA_EN_NW_2015.07.31.2888384_0_Entity_5.pt",
+        "VOA_EN_NW_2016.02.10.3184933_2_Entity_4.pt",
+        "VOA_EN_NW_2016.07.28.3437601_1_Agent_2.pt",
+        "VOA_EN_NW_2017.01.28.3696450_0_Instrument_1.pt"
+    ],
+    "228": [
+        "VOA_EN_NW_2013.07.27.1711271_0_Victim_1.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_13.pt",
+        "VOA_EN_NW_2015.12.23.3115897_0_Entity_9.pt",
+        "VOA_EN_NW_2016.04.22.3297950_1_Agent_3.pt",
+        "VOA_EN_NW_2016.04.22.3297950_1_Artifact_1.pt",
+        "VOA_EN_NW_2016.05.20.3338580_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_1.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_2.pt",
+        "VOA_EN_NW_2016.06.02.3358563_1_Agent_9.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_7.pt"
+    ],
+    "229": [
+        "VOA_EN_NW_2015.05.14.2767071_0_Entity_1.pt",
+        "VOA_EN_NW_2016.02.17.3194684_4_Instrument_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Artifact_3.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Person_6.pt"
+    ],
+    "230": [
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_3.pt",
+        "VOA_EN_NW_2015.04.10.2713895_0_Entity_8.pt",
+        "VOA_EN_NW_2016.05.12.3327048_4_Person_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Entity_1.pt",
+        "VOA_EN_NW_2016.11.10.3590360_2_Entity_1.pt",
+        "VOA_EN_NW_2016.12.17.3640413_2_Entity_2.pt"
+    ],
+    "231": [
+        "VOA_EN_NW_2013.01.28.1592104_1_Victim_2.pt",
+        "VOA_EN_NW_2013.10.30.1779904_3_Victim_5.pt",
+        "VOA_EN_NW_2014.12.29.2577251_3_Artifact_1.pt",
+        "VOA_EN_NW_2015.10.26.3022860_1_Entity_2.pt",
+        "VOA_EN_NW_2016.10.19.3557471_3_Artifact_7.pt",
+        "VOA_EN_NW_2016.11.09.3589149_3_Entity_1.pt"
+    ],
+    "232": [
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_1.pt",
+        "VOA_EN_NW_2017.01.30.3699085_0_Entity_1.pt"
+    ],
+    "233": [
+        "VOA_EN_NW_2012.12.10.1562068_2_Agent_2.pt",
+        "VOA_EN_NW_2015.10.21.3017239_0_Entity_1.pt",
+        "VOA_EN_NW_2015.10.21.3017239_0_Entity_4.pt",
+        "VOA_EN_NW_2016.02.10.3184933_1_Entity_1.pt",
+        "VOA_EN_NW_2016.05.11.3325807_2_Entity_5.pt",
+        "VOA_EN_NW_2016.07.23.3431608_5_Entity_3.pt"
+    ],
+    "234": [
+        "VOA_EN_NW_2013.09.09.1746134_0_Entity_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_4_Entity_2.pt"
+    ],
+    "235": [
+        "VOA_EN_NW_2015.11.26.3074696_3_Entity_1.pt",
+        "VOA_EN_NW_2016.01.28.3166988_5_Entity_3.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Artifact_1.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_3.pt"
+    ],
+    "236": [
+        "VOA_EN_NW_2016.09.08.3498453_0_Artifact_1.pt"
+    ],
+    "238": [
+        "VOA_EN_NW_2014.11.09.2508360_0_Entity_1.pt"
+    ],
+    "239": [
+        "VOA_EN_NW_2015.04.30.2743015_0_Entity_3.pt",
+        "VOA_EN_NW_2015.04.30.2743015_2_Entity_1.pt",
+        "VOA_EN_NW_2016.05.13.3328601_2_Victim_1.pt"
+    ],
+    "240": [
+        "VOA_EN_NW_2014.12.13.2556485_0_Person_2.pt",
+        "VOA_EN_NW_2015.07.31.2888384_2_Entity_5.pt",
+        "VOA_EN_NW_2017.06.21.3910361_5_Instrument_1.pt"
+    ],
+    "241": [
+        "VOA_EN_NW_2013.11.05.1784209_0_Entity_1.pt",
+        "VOA_EN_NW_2015.03.21.2689721_3_Instrument_1.pt",
+        "VOA_EN_NW_2015.07.16.2865144_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.06.15.3376531_1_Entity_1.pt",
+        "VOA_EN_NW_2016.07.12.3415627_2_Agent_2.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Instrument_1.pt",
+        "VOA_EN_NW_2016.07.27.3436565_0_Instrument_3.pt",
+        "VOA_EN_NW_2016.07.27.3436565_3_Agent_2.pt",
+        "VOA_EN_NW_2017.04.20.3818034_4_Police_2.pt"
+    ],
+    "242": [
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_1.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_2.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_4.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_5.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_6.pt",
+        "VOA_EN_NW_2014.05.25.1921616_1_Police_9.pt",
+        "VOA_EN_NW_2014.08.07.2405842_1_Vehicle_1.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Agent_1.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Agent_2.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Agent_3.pt",
+        "VOA_EN_NW_2014.08.20.2422182_1_Agent_5.pt",
+        "VOA_EN_NW_2015.01.16.2600974_2_Agent_3.pt",
+        "VOA_EN_NW_2015.01.16.2600974_2_Agent_4.pt",
+        "VOA_EN_NW_2015.08.11.2913225_0_Agent_6.pt",
+        "VOA_EN_NW_2016.04.11.3279945_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.05.30.3351608_2_Instrument_1.pt",
+        "VOA_EN_NW_2016.07.11.3412014_1_Agent_3.pt",
+        "VOA_EN_NW_2016.07.27.3436565_3_Agent_1.pt",
+        "VOA_EN_NW_2016.10.18.3556203_4_Vehicle_1.pt",
+        "VOA_EN_NW_2017.02.23.3736556_2_Agent_3.pt",
+        "VOA_EN_NW_2017.03.21.3775715_1_Agent_2.pt",
+        "VOA_EN_NW_2017.04.05.3798460_2_Agent_2.pt"
+    ],
+    "243": [
+        "VOA_EN_NW_2016.09.08.3498453_2_Artifact_1.pt"
+    ],
+    "244": [
+        "VOA_EN_NW_2016.09.27.3527400_3_Agent_1.pt",
+        "VOA_EN_NW_2016.09.27.3527400_3_Person_2.pt"
+    ],
+    "245": [
+        "VOA_EN_NW_2014.05.12.1912526_3_Entity_1.pt",
+        "VOA_EN_NW_2014.09.10.2444962_0_Entity_3.pt",
+        "VOA_EN_NW_2015.09.02.2942501_2_Instrument_1.pt",
+        "VOA_EN_NW_2015.10.07.2995399_3_Instrument_1.pt",
+        "VOA_EN_NW_2015.10.21.3017239_3_Entity_1.pt",
+        "VOA_EN_NW_2015.10.21.3017239_3_Entity_2.pt",
+        "VOA_EN_NW_2015.10.21.3017239_5_Entity_2.pt",
+        "VOA_EN_NW_2016.04.11.3279945_3_Attacker_1.pt",
+        "VOA_EN_NW_2016.09.27.3527595_1_Artifact_3.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_1.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_2.pt",
+        "VOA_EN_NW_2016.11.09.3589252_0_Entity_3.pt",
+        "VOA_EN_NW_2016.11.10.3590360_2_Entity_2.pt",
+        "VOA_EN_NW_2016.12.14.3635692_8_Entity_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_9_Entity_1.pt",
+        "VOA_EN_NW_2016.12.14.3635692_9_Entity_3.pt"
+    ],
+    "246": [
+        "VOA_EN_NW_2016.03.25.3254676_1_Agent_2.pt"
+    ],
+    "247": [
+        "VOA_EN_NW_2013.07.08.1696918_3_Instrument_1.pt",
+        "VOA_EN_NW_2016.01.05.3132000_4_Entity_11.pt",
+        "VOA_EN_NW_2016.03.04.3219688_0_Entity_1.pt",
+        "VOA_EN_NW_2016.10.01.3532811_1_Victim_1.pt"
+    ],
+    "248": [
+        "VOA_EN_NW_2016.01.28.3166988_4_Entity_1.pt",
+        "VOA_EN_NW_2016.11.29.3616534_1_Attacker_1.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Entity_6.pt",
+        "VOA_EN_NW_2016.12.28.3654540_0_Instrument_4.pt"
+    ],
+    "249": [
+        "VOA_EN_NW_2014.12.13.2556485_0_Person_1.pt",
+        "VOA_EN_NW_2015.08.18.2922213_3_Artifact_1.pt",
+        "VOA_EN_NW_2017.05.17.3854850_2_Agent_3.pt",
+        "VOA_EN_NW_2017.05.31.3878829_1_Agent_3.pt",
+        "VOA_EN_NW_2017.06.07.3891137_1_Entity_2.pt"
+    ],
+    "250": [
+        "VOA_EN_NW_2015.08.03.2896400_0_Entity_6.pt",
+        "VOA_EN_NW_2016.12.27.3653223_0_Entity_1.pt",
+        "VOA_EN_NW_2017.06.15.3901731_2_Instrument_1.pt"
+    ],
+    "251": [
+        "VOA_EN_NW_2015.08.11.2913549_2_Victim_1.pt"
+    ],
+    "252": [
+        "VOA_EN_NW_2016.03.01.3214677_3_Artifact_1.pt",
+        "VOA_EN_NW_2017.04.28.3829747_0_Giver_1.pt"
+    ],
+    "253": [
+        "VOA_EN_NW_2013.11.10.1787498_0_Entity_1.pt",
+        "VOA_EN_NW_2016.10.19.3557471_0_Vehicle_2.pt"
+    ],
+    "254": [
+        "VOA_EN_NW_2014.05.25.1921616_2_Entity_2.pt",
+        "VOA_EN_NW_2016.04.11.3279945_5_Entity_3.pt"
+    ]
+}
