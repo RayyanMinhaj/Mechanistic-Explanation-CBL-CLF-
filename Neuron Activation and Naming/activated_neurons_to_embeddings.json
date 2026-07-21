@@ -1,0 +1,532 @@
+{
+    "2": [
+        "embedding_132_Contact-Meet.pt",
+        "embedding_212_Conflict-Demonstrate.pt",
+        "embedding_21_Movement-Transport.pt",
+        "embedding_35_Conflict-Attack.pt",
+        "embedding_52_Life-Die.pt"
+    ],
+
+    "3": [
+        "embedding_103_Justice-Arrest-Jail.pt"
+    ],
+
+    
+    "5": [
+        "embedding_269_Life-Die.pt"
+    ],
+    "9": [
+        "embedding_111_Contact-Meet.pt",
+        "embedding_155_Justice-Arrest-Jail.pt"
+    ],
+    "10": [
+        "embedding_229_Justice-Arrest-Jail.pt",
+        "embedding_63_Movement-Transport.pt",
+        "embedding_88_Contact-Meet.pt",
+        "embedding_89_Contact-Meet.pt",
+        "embedding_90_Contact-Meet.pt"
+    ],
+    "11": [
+        "embedding_127_Conflict-Demonstrate.pt",
+        "embedding_129_Conflict-Demonstrate.pt",
+        "embedding_130_Conflict-Demonstrate.pt",
+        "embedding_131_Conflict-Demonstrate.pt"
+    ],
+    "12": [
+        "embedding_247_Life-Die.pt",
+        "embedding_248_Life-Die.pt",
+        "embedding_249_Life-Die.pt"
+    ],
+    "14": [
+        "embedding_216_Conflict-Demonstrate.pt",
+        "embedding_292_Life-Die.pt"
+    ],
+    "16": [
+        "embedding_160_Contact-Phone-Write.pt",
+        "embedding_224_Conflict-Demonstrate.pt",
+        "embedding_44_Conflict-Demonstrate.pt",
+        "embedding_45_Conflict-Demonstrate.pt"
+    ],
+    "19": [
+        "embedding_277_Life-Die.pt"
+    ],
+    "31": [
+        "embedding_242_Life-Die.pt",
+        "embedding_252_Life-Die.pt"
+    ],
+    "32": [
+        "embedding_158_Life-Die.pt"
+    ],
+    "33": [
+        "embedding_6_Justice-Arrest-Jail.pt"
+    ],
+    "34": [
+        "embedding_0_Justice-Arrest-Jail.pt",
+        "embedding_139_Conflict-Demonstrate.pt",
+        "embedding_140_Conflict-Demonstrate.pt",
+        "embedding_233_Life-Die.pt",
+        "embedding_51_Life-Die.pt"
+    ],
+    "38": [
+        "embedding_137_Life-Die.pt",
+        "embedding_186_Life-Die.pt",
+        "embedding_294_Life-Die.pt",
+        "embedding_37_Justice-Arrest-Jail.pt"
+    ],
+    "39": [
+        "embedding_14_Movement-Transport.pt",
+        "embedding_16_Movement-Transport.pt",
+        "embedding_17_Movement-Transport.pt",
+        "embedding_19_Movement-Transport.pt"
+    ],
+    "40": [
+        "embedding_31_Conflict-Demonstrate.pt"
+    ],
+    "43": [
+        "embedding_104_Contact-Meet.pt"
+    ],
+    "44": [
+        "embedding_145_Conflict-Attack.pt",
+        "embedding_271_Life-Die.pt",
+        "embedding_87_Movement-Transport.pt"
+    ],
+    "45": [
+        "embedding_217_Conflict-Demonstrate.pt",
+        "embedding_75_Conflict-Attack.pt"
+    ],
+    "46": [
+        "embedding_192_Justice-Arrest-Jail.pt"
+    ],
+    "49": [
+        "embedding_92_Contact-Meet.pt"
+    ],
+    "51": [
+        "embedding_110_Life-Die.pt"
+    ],
+    "55": [
+        "embedding_106_Life-Die.pt",
+        "embedding_114_Life-Die.pt",
+        "embedding_115_Life-Die.pt",
+        "embedding_118_Life-Die.pt",
+        "embedding_119_Life-Die.pt"
+    ],
+    "60": [
+        "embedding_225_Transaction-Transfer-Money.pt",
+        "embedding_293_Life-Die.pt"
+    ],
+    "61": [
+        "embedding_12_Contact-Meet.pt"
+    ],
+    "63": [
+        "embedding_287_Conflict-Demonstrate.pt",
+        "embedding_303_Conflict-Demonstrate.pt",
+        "embedding_305_Conflict-Demonstrate.pt"
+    ],
+    "65": [
+        "embedding_133_Contact-Meet.pt",
+        "embedding_41_Contact-Meet.pt",
+        "embedding_5_Contact-Meet.pt",
+        "embedding_91_Contact-Meet.pt",
+        "embedding_93_Contact-Meet.pt"
+    ],
+    "67": [
+        "embedding_109_Life-Die.pt",
+        "embedding_164_Conflict-Demonstrate.pt",
+        "embedding_167_Conflict-Attack.pt"
+    ],
+    "68": [
+        "embedding_10_Conflict-Attack.pt"
+    ],
+    "69": [
+        "embedding_210_Conflict-Demonstrate.pt",
+        "embedding_27_Conflict-Demonstrate.pt",
+        "embedding_61_Justice-Arrest-Jail.pt"
+    ],
+    "71": [
+        "embedding_70_Conflict-Attack.pt",
+        "embedding_71_Conflict-Attack.pt"
+    ],
+    "74": [
+        "embedding_165_Conflict-Demonstrate.pt"
+    ],
+    "76": [
+        "embedding_147_Justice-Arrest-Jail.pt",
+        "embedding_47_Justice-Arrest-Jail.pt",
+        "embedding_50_Justice-Arrest-Jail.pt"
+    ],
+    "77": [
+        "embedding_195_Conflict-Demonstrate.pt",
+        "embedding_268_Life-Die.pt"
+    ],
+    "78": [
+        "embedding_62_Movement-Transport.pt"
+    ],
+    "79": [
+        "embedding_288_Conflict-Demonstrate.pt",
+        "embedding_307_Life-Die.pt"
+    ],
+    "80": [
+        "embedding_100_Movement-Transport.pt",
+        "embedding_20_Movement-Transport.pt",
+        "embedding_245_Life-Die.pt"
+    ],
+    "81": [
+        "embedding_231_Movement-Transport.pt",
+        "embedding_308_Movement-Transport.pt"
+    ],
+    "88": [
+        "embedding_202_Conflict-Demonstrate.pt"
+    ],
+    "91": [
+        "embedding_196_Conflict-Demonstrate.pt",
+        "embedding_197_Conflict-Demonstrate.pt",
+        "embedding_211_Conflict-Demonstrate.pt"
+    ],
+    "94": [
+        "embedding_94_Conflict-Demonstrate.pt"
+    ],
+    "98": [
+        "embedding_122_Conflict-Demonstrate.pt",
+        "embedding_124_Conflict-Demonstrate.pt",
+        "embedding_125_Conflict-Demonstrate.pt",
+        "embedding_126_Conflict-Demonstrate.pt",
+        "embedding_25_Conflict-Demonstrate.pt"
+    ],
+    "100": [
+        "embedding_298_Life-Die.pt"
+    ],
+    "101": [
+        "embedding_56_Contact-Meet.pt",
+        "embedding_79_Contact-Meet.pt",
+        "embedding_86_Contact-Meet.pt",
+        "embedding_97_Justice-Arrest-Jail.pt",
+        "embedding_99_Contact-Meet.pt"
+    ],
+    "106": [
+        "embedding_188_Conflict-Demonstrate.pt",
+        "embedding_263_Life-Die.pt",
+        "embedding_264_Life-Die.pt",
+        "embedding_265_Life-Die.pt",
+        "embedding_266_Life-Die.pt"
+    ],
+    "107": [
+        "embedding_148_Justice-Arrest-Jail.pt",
+        "embedding_149_Justice-Arrest-Jail.pt",
+        "embedding_150_Justice-Arrest-Jail.pt",
+        "embedding_151_Justice-Arrest-Jail.pt",
+        "embedding_152_Justice-Arrest-Jail.pt",
+        "embedding_153_Justice-Arrest-Jail.pt",
+        "embedding_154_Justice-Arrest-Jail.pt",
+        "embedding_156_Justice-Arrest-Jail.pt",
+        "embedding_157_Justice-Arrest-Jail.pt",
+        "embedding_43_Justice-Arrest-Jail.pt"
+    ],
+    "108": [
+        "embedding_123_Conflict-Demonstrate.pt",
+        "embedding_128_Conflict-Demonstrate.pt"
+    ],
+    "109": [
+        "embedding_173_Conflict-Attack.pt",
+        "embedding_177_Conflict-Attack.pt",
+        "embedding_181_Conflict-Attack.pt",
+        "embedding_22_Movement-Transport.pt"
+    ],
+    "112": [
+        "embedding_300_Conflict-Demonstrate.pt",
+        "embedding_301_Conflict-Demonstrate.pt",
+        "embedding_302_Conflict-Demonstrate.pt"
+    ],
+    "115": [
+        "embedding_163_Conflict-Demonstrate.pt",
+        "embedding_236_Conflict-Demonstrate.pt",
+        "embedding_272_Life-Die.pt",
+        "embedding_279_Conflict-Demonstrate.pt",
+        "embedding_280_Conflict-Demonstrate.pt",
+        "embedding_281_Conflict-Demonstrate.pt",
+        "embedding_282_Conflict-Demonstrate.pt",
+        "embedding_284_Conflict-Demonstrate.pt",
+        "embedding_306_Conflict-Demonstrate.pt"
+    ],
+    "117": [
+        "embedding_101_Movement-Transport.pt",
+        "embedding_102_Movement-Transport.pt",
+        "embedding_178_Conflict-Attack.pt",
+        "embedding_179_Conflict-Attack.pt",
+        "embedding_187_Life-Die.pt",
+        "embedding_54_Conflict-Demonstrate.pt",
+        "embedding_77_Conflict-Attack.pt"
+    ],
+    "118": [
+        "embedding_180_Conflict-Attack.pt",
+        "embedding_64_Conflict-Attack.pt",
+        "embedding_65_Conflict-Attack.pt",
+        "embedding_66_Conflict-Attack.pt",
+        "embedding_67_Conflict-Attack.pt",
+        "embedding_68_Conflict-Attack.pt",
+        "embedding_69_Conflict-Attack.pt",
+        "embedding_72_Conflict-Attack.pt",
+        "embedding_73_Conflict-Attack.pt"
+    ],
+    "120": [
+        "embedding_304_Conflict-Demonstrate.pt"
+    ],
+    "122": [
+        "embedding_171_Conflict-Attack.pt"
+    ],
+    "126": [
+        "embedding_135_Life-Die.pt",
+        "embedding_267_Life-Die.pt",
+        "embedding_270_Life-Die.pt",
+        "embedding_276_Life-Die.pt",
+        "embedding_98_Life-Die.pt"
+    ],
+    "129": [
+        "embedding_215_Conflict-Demonstrate.pt",
+        "embedding_38_Contact-Phone-Write.pt",
+        "embedding_81_Contact-Meet.pt"
+    ],
+    "131": [
+        "embedding_13_Contact-Meet.pt"
+    ],
+    "132": [
+        "embedding_260_Contact-Meet.pt",
+        "embedding_261_Contact-Meet.pt",
+        "embedding_262_Contact-Meet.pt"
+    ],
+    "135": [
+        "embedding_170_Conflict-Attack.pt",
+        "embedding_182_Conflict-Attack.pt",
+        "embedding_183_Conflict-Attack.pt"
+    ],
+    "139": [
+        "embedding_108_Movement-Transport.pt",
+        "embedding_244_Life-Die.pt"
+    ],
+    "141": [
+        "embedding_138_Conflict-Attack.pt"
+    ],
+    "143": [
+        "embedding_146_Movement-Transport.pt",
+        "embedding_29_Justice-Arrest-Jail.pt"
+    ],
+    "146": [
+        "embedding_116_Life-Die.pt"
+    ],
+    "147": [
+        "embedding_107_Justice-Arrest-Jail.pt",
+        "embedding_232_Justice-Arrest-Jail.pt",
+        "embedding_57_Justice-Arrest-Jail.pt",
+        "embedding_8_Justice-Arrest-Jail.pt"
+    ],
+    "148": [
+        "embedding_23_Conflict-Demonstrate.pt"
+    ],
+    "151": [
+        "embedding_273_Life-Die.pt",
+        "embedding_274_Life-Die.pt",
+        "embedding_283_Conflict-Demonstrate.pt"
+    ],
+    "152": [
+        "embedding_194_Conflict-Demonstrate.pt",
+        "embedding_204_Conflict-Demonstrate.pt",
+        "embedding_209_Conflict-Demonstrate.pt",
+        "embedding_214_Conflict-Demonstrate.pt",
+        "embedding_218_Conflict-Demonstrate.pt",
+        "embedding_219_Conflict-Demonstrate.pt",
+        "embedding_220_Conflict-Demonstrate.pt",
+        "embedding_221_Conflict-Demonstrate.pt",
+        "embedding_222_Conflict-Demonstrate.pt"
+    ],
+    "153": [
+        "embedding_136_Conflict-Demonstrate.pt"
+    ],
+    "154": [
+        "embedding_60_Movement-Transport.pt"
+    ],
+    "155": [
+        "embedding_191_Contact-Meet.pt",
+        "embedding_80_Contact-Meet.pt"
+    ],
+    "158": [
+        "embedding_120_Life-Die.pt",
+        "embedding_121_Life-Die.pt",
+        "embedding_203_Conflict-Demonstrate.pt",
+        "embedding_205_Conflict-Demonstrate.pt"
+    ],
+    "159": [
+        "embedding_161_Justice-Arrest-Jail.pt",
+        "embedding_42_Contact-Meet.pt"
+    ],
+    "166": [
+        "embedding_117_Life-Die.pt",
+        "embedding_198_Conflict-Demonstrate.pt",
+        "embedding_199_Conflict-Demonstrate.pt",
+        "embedding_200_Conflict-Demonstrate.pt",
+        "embedding_201_Conflict-Demonstrate.pt",
+        "embedding_285_Movement-Transport.pt",
+        "embedding_286_Movement-Transport.pt"
+    ],
+    "167": [
+        "embedding_166_Conflict-Attack.pt",
+        "embedding_168_Conflict-Attack.pt",
+        "embedding_169_Conflict-Attack.pt",
+        "embedding_174_Conflict-Attack.pt",
+        "embedding_175_Conflict-Attack.pt",
+        "embedding_184_Conflict-Attack.pt"
+    ],
+    "172": [
+        "embedding_289_Life-Die.pt",
+        "embedding_290_Life-Die.pt",
+        "embedding_58_Contact-Meet.pt",
+        "embedding_59_Life-Die.pt"
+    ],
+    "173": [
+        "embedding_237_Justice-Arrest-Jail.pt"
+    ],
+    "175": [
+        "embedding_291_Life-Die.pt"
+    ],
+    "186": [
+        "embedding_230_Contact-Meet.pt",
+        "embedding_39_Contact-Meet.pt"
+    ],
+    "190": [
+        "embedding_172_Conflict-Attack.pt",
+        "embedding_228_Life-Die.pt"
+    ],
+    "191": [
+        "embedding_193_Conflict-Demonstrate.pt",
+        "embedding_208_Conflict-Demonstrate.pt",
+        "embedding_213_Conflict-Demonstrate.pt"
+    ],
+    "192": [
+        "embedding_190_Contact-Meet.pt"
+    ],
+    "193": [
+        "embedding_227_Conflict-Attack.pt"
+    ],
+    "194": [
+        "embedding_185_Conflict-Attack.pt"
+    ],
+    "196": [
+        "embedding_24_Conflict-Demonstrate.pt"
+    ],
+    "198": [
+        "embedding_239_Life-Die.pt",
+        "embedding_240_Life-Die.pt",
+        "embedding_241_Life-Die.pt",
+        "embedding_243_Life-Die.pt",
+        "embedding_246_Life-Die.pt",
+        "embedding_250_Life-Die.pt",
+        "embedding_251_Life-Die.pt",
+        "embedding_253_Life-Die.pt",
+        "embedding_254_Life-Die.pt",
+        "embedding_255_Life-Die.pt",
+        "embedding_256_Life-Die.pt",
+        "embedding_257_Life-Die.pt",
+        "embedding_258_Life-Die.pt",
+        "embedding_259_Life-Die.pt"
+    ],
+    "200": [
+        "embedding_143_Conflict-Demonstrate.pt"
+    ],
+    "201": [
+        "embedding_40_Contact-Meet.pt"
+    ],
+    "205": [
+        "embedding_275_Life-Die.pt"
+    ],
+    "207": [
+        "embedding_226_Conflict-Attack.pt"
+    ],
+    "215": [
+        "embedding_95_Conflict-Demonstrate.pt"
+    ],
+    "216": [
+        "embedding_295_Movement-Transport.pt",
+        "embedding_296_Movement-Transport.pt"
+    ],
+    "218": [
+        "embedding_159_Contact-Phone-Write.pt",
+        "embedding_206_Conflict-Demonstrate.pt",
+        "embedding_207_Conflict-Demonstrate.pt",
+        "embedding_235_Conflict-Demonstrate.pt"
+    ],
+    "221": [
+        "embedding_297_Life-Die.pt"
+    ],
+    "222": [
+        "embedding_46_Conflict-Demonstrate.pt",
+        "embedding_96_Justice-Arrest-Jail.pt"
+    ],
+    "223": [
+        "embedding_112_Contact-Meet.pt",
+        "embedding_11_Contact-Meet.pt",
+        "embedding_234_Contact-Phone-Write.pt",
+        "embedding_28_Contact-Meet.pt",
+        "embedding_33_Contact-Phone-Write.pt",
+        "embedding_34_Contact-Phone-Write.pt",
+        "embedding_4_Contact-Meet.pt"
+    ],
+    "224": [
+        "embedding_162_Justice-Arrest-Jail.pt",
+        "embedding_7_Justice-Arrest-Jail.pt",
+        "embedding_9_Contact-Meet.pt"
+    ],
+    "228": [
+        "embedding_26_Conflict-Demonstrate.pt"
+    ],
+    "229": [
+        "embedding_78_Contact-Meet.pt"
+    ],
+    "234": [
+        "embedding_142_Contact-Meet.pt"
+    ],
+    "237": [
+        "embedding_176_Conflict-Attack.pt"
+    ],
+    "240": [
+        "embedding_299_Conflict-Demonstrate.pt",
+        "embedding_30_Contact-Meet.pt"
+    ],
+    "241": [
+        "embedding_144_Conflict-Demonstrate.pt",
+        "embedding_84_Conflict-Demonstrate.pt",
+        "embedding_85_Conflict-Demonstrate.pt"
+    ],
+    "242": [
+        "embedding_278_Life-Die.pt"
+    ],
+    "246": [
+        "embedding_238_Contact-Phone-Write.pt"
+    ],
+    "247": [
+        "embedding_113_Conflict-Demonstrate.pt",
+        "embedding_1_Contact-Meet.pt",
+        "embedding_2_Contact-Meet.pt",
+        "embedding_36_Conflict-Attack.pt",
+        "embedding_53_Contact-Phone-Write.pt"
+    ],
+    "249": [
+        "embedding_15_Movement-Transport.pt",
+        "embedding_18_Movement-Transport.pt"
+    ],
+    "253": [
+        "embedding_105_Justice-Arrest-Jail.pt"
+    ],
+    "254": [
+        "embedding_74_Conflict-Attack.pt",
+        "embedding_76_Conflict-Attack.pt"
+    ],
+    "255": [
+        "embedding_134_Justice-Arrest-Jail.pt",
+        "embedding_141_Justice-Arrest-Jail.pt",
+        "embedding_189_Justice-Arrest-Jail.pt",
+        "embedding_223_Conflict-Demonstrate.pt",
+        "embedding_32_Justice-Arrest-Jail.pt",
+        "embedding_3_Justice-Arrest-Jail.pt",
+        "embedding_48_Justice-Arrest-Jail.pt",
+        "embedding_49_Justice-Arrest-Jail.pt",
+        "embedding_55_Justice-Arrest-Jail.pt"
+    ]
+}
