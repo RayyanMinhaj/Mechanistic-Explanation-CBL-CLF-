@@ -1,0 +1,398 @@
+Original Concept Count: 228
+Merged Concept Count: 131
+Similarity Threshold: 0.95
+==================================================
+
+Merged Concept: People using communication devices && People using electronics.
+Original Neurons: 0, 122
+----------------------------------------
+Merged Concept: People in formal settings && People in professional settings.
+Original Neurons: 1, 106
+----------------------------------------
+Merged Concept: Carrying or assisting others.
+Original Neurons: 2
+----------------------------------------
+Merged Concept: People holding flags
+Original Neurons: 3
+----------------------------------------
+Merged Concept: Political activities && Political and social activism && Social and political events
+Original Neurons: 5, 161, 177
+----------------------------------------
+Merged Concept: I cannot identify people in images.
+Original Neurons: 7
+----------------------------------------
+Merged Concept: Tactical law enforcement.
+Original Neurons: 8
+----------------------------------------
+Merged Concept: Military and protest.
+Original Neurons: 9
+----------------------------------------
+Merged Concept: Crowded protest gathering. && People in protest. && Political protest gathering. && Protest and activism. && Protest or demonstration && Protest or demonstration. && Protest or gathering. && Protest or political event. && Protesting and gatherings. && Protests and Gatherings
+Original Neurons: 10, 17, 30, 64, 66, 95, 97, 145, 158, 162, 226, 230, 239, 241
+----------------------------------------
+Merged Concept: Law enforcement actions && Law enforcement activities && Law enforcement activity && Law enforcement operations
+Original Neurons: 11, 51, 194, 196, 206
+----------------------------------------
+Merged Concept: People on the ground.
+Original Neurons: 12
+----------------------------------------
+Merged Concept: Political tension images
+Original Neurons: 13
+----------------------------------------
+Merged Concept: People wearing glasses
+Original Neurons: 14
+----------------------------------------
+Merged Concept: Political protests signs && Protest sign. && Protest signs and demonstrations && Protest signs. && Public protest signs
+Original Neurons: 15, 39, 48, 98, 124, 232
+----------------------------------------
+Merged Concept: People in authority
+Original Neurons: 16
+----------------------------------------
+Merged Concept: I don && Sorry, I can
+Original Neurons: 18, 73, 117, 175, 231, 249
+----------------------------------------
+Merged Concept: Human interactions occurring. && Public figure interactions.
+Original Neurons: 19, 227
+----------------------------------------
+Merged Concept: Political events and activities.
+Original Neurons: 20
+----------------------------------------
+Merged Concept: Presidential interactions.
+Original Neurons: 21
+----------------------------------------
+Merged Concept: Various public demonstrations.
+Original Neurons: 22
+----------------------------------------
+Merged Concept: People carrying items.
+Original Neurons: 24
+----------------------------------------
+Merged Concept: Group of people. && Groups of people
+Original Neurons: 25, 59
+----------------------------------------
+Merged Concept: Individuals in distress. && People in distress && People in distress. && Person in distress.
+Original Neurons: 26, 28, 99, 184, 223
+----------------------------------------
+Merged Concept: Missile launching upward
+Original Neurons: 27
+----------------------------------------
+Merged Concept: People at public event && People in events
+Original Neurons: 29, 211
+----------------------------------------
+Merged Concept: People using phones.
+Original Neurons: 31
+----------------------------------------
+Merged Concept: Funeral or memorial ceremony. && Funeral or mourning
+Original Neurons: 32, 129
+----------------------------------------
+Merged Concept: Holding an object.
+Original Neurons: 33
+----------------------------------------
+Merged Concept: Holding protest signs
+Original Neurons: 34, 154
+----------------------------------------
+Merged Concept: People in public settings && People in public settings. && People in public. && People in various situations.
+Original Neurons: 35, 52, 193, 218
+----------------------------------------
+Merged Concept: Human interactions && Human interactions and transactions
+Original Neurons: 36, 180
+----------------------------------------
+Merged Concept: I
+Original Neurons: 37, 38, 42, 47, 53, 62, 72, 102, 104, 116, 121, 155, 172, 204, 205, 209, 215, 219
+----------------------------------------
+Merged Concept: Protest demonstration. && Protests and demonstrations && Protests and demonstrations. && Public protest actions
+Original Neurons: 40, 58, 176, 182, 203, 224
+----------------------------------------
+Merged Concept: Bodies in body bags
+Original Neurons: 41
+----------------------------------------
+Merged Concept: Protest and authority figures. && Protest and authority interactions. && Protest and communication && Protest or arrest situations. && Protests and communication.
+Original Neurons: 44, 89, 150, 167, 198
+----------------------------------------
+Merged Concept: Political unrest aftermath.
+Original Neurons: 45
+----------------------------------------
+Merged Concept: People in suits && People wearing suits.
+Original Neurons: 46, 54, 107, 112, 114, 159, 233
+----------------------------------------
+Merged Concept: Conflict and protest && Conflict and violence. && Protest and conflict && Protest and conflict. && Protest and unrest. && Protest or conflict.
+Original Neurons: 49, 55, 92, 111, 139, 140, 225, 240, 247
+----------------------------------------
+Merged Concept: People in various roles && People in various settings
+Original Neurons: 50, 113
+----------------------------------------
+Merged Concept: People in Uniforms && People in uniforms
+Original Neurons: 56, 214
+----------------------------------------
+Merged Concept: Protest and law enforcement. && Protest and police presence.
+Original Neurons: 57, 135
+----------------------------------------
+Merged Concept: Crowded public events.
+Original Neurons: 60
+----------------------------------------
+Merged Concept: Police and security.
+Original Neurons: 61
+----------------------------------------
+Merged Concept: People being detained && People being detained.
+Original Neurons: 63, 115
+----------------------------------------
+Merged Concept: Holding mobile devices.
+Original Neurons: 65
+----------------------------------------
+Merged Concept: Protest and police interaction.
+Original Neurons: 68
+----------------------------------------
+Merged Concept: People attending event
+Original Neurons: 69
+----------------------------------------
+Merged Concept: Public protest gatherings
+Original Neurons: 70
+----------------------------------------
+Merged Concept: Person being arrested.
+Original Neurons: 71
+----------------------------------------
+Merged Concept: Prisoners and confinement.
+Original Neurons: 74
+----------------------------------------
+Merged Concept: People with umbrellas
+Original Neurons: 75
+----------------------------------------
+Merged Concept: Humanitarian aid assistance. && Humanitarian aid efforts && Images of humanitarian aid
+Original Neurons: 77, 147, 252
+----------------------------------------
+Merged Concept: Accessories and objects
+Original Neurons: 78
+----------------------------------------
+Merged Concept: Conflict and Aftermath && Conflict and aftermath. && Conflict and destruction.
+Original Neurons: 79, 110, 128
+----------------------------------------
+Merged Concept: Military personnel lifting.
+Original Neurons: 82
+----------------------------------------
+Merged Concept: Humanitarian aid transport
+Original Neurons: 83
+----------------------------------------
+Merged Concept: Carrying a coffin.
+Original Neurons: 84, 246
+----------------------------------------
+Merged Concept: People interacting socially && People interacting together
+Original Neurons: 85, 234
+----------------------------------------
+Merged Concept: People and conflict
+Original Neurons: 86
+----------------------------------------
+Merged Concept: Hands in handcuffs.
+Original Neurons: 87
+----------------------------------------
+Merged Concept: Person on phone
+Original Neurons: 90, 238
+----------------------------------------
+Merged Concept: Animals in captivity.
+Original Neurons: 93
+----------------------------------------
+Merged Concept: Human rights protests
+Original Neurons: 94
+----------------------------------------
+Merged Concept: Human social interactions
+Original Neurons: 96
+----------------------------------------
+Merged Concept: People standing outdoors.
+Original Neurons: 100
+----------------------------------------
+Merged Concept: People in diverse roles
+Original Neurons: 101
+----------------------------------------
+Merged Concept: Public demonstration scene
+Original Neurons: 103
+----------------------------------------
+Merged Concept: Bodies in shrouds.
+Original Neurons: 105
+----------------------------------------
+Merged Concept: Carrying large objects
+Original Neurons: 108
+----------------------------------------
+Merged Concept: Carrying heavy objects
+Original Neurons: 109
+----------------------------------------
+Merged Concept: Handling deceased bodies.
+Original Neurons: 119
+----------------------------------------
+Merged Concept: Standing people restrained.
+Original Neurons: 120
+----------------------------------------
+Merged Concept: Protest and advocacy.
+Original Neurons: 123
+----------------------------------------
+Merged Concept: Meeting world leaders
+Original Neurons: 125
+----------------------------------------
+Merged Concept: War and destruction.
+Original Neurons: 126
+----------------------------------------
+Merged Concept: Meeting or conference.
+Original Neurons: 127
+----------------------------------------
+Merged Concept: People with equipment
+Original Neurons: 130
+----------------------------------------
+Merged Concept: Carrying cardboard boxes.
+Original Neurons: 131
+----------------------------------------
+Merged Concept: People in discussion
+Original Neurons: 132
+----------------------------------------
+Merged Concept: Person at protest.
+Original Neurons: 134
+----------------------------------------
+Merged Concept: Funeral processions
+Original Neurons: 137
+----------------------------------------
+Merged Concept: Being seized or arrested
+Original Neurons: 138
+----------------------------------------
+Merged Concept: People in meeting.
+Original Neurons: 141
+----------------------------------------
+Merged Concept: Talking on phone.
+Original Neurons: 142
+----------------------------------------
+Merged Concept: Person holding gun.
+Original Neurons: 143
+----------------------------------------
+Merged Concept: Political unrest images
+Original Neurons: 146
+----------------------------------------
+Merged Concept: Child being carried.
+Original Neurons: 148
+----------------------------------------
+Merged Concept: Military funeral ceremony.
+Original Neurons: 149
+----------------------------------------
+Merged Concept: Handling cardboard boxes.
+Original Neurons: 152
+----------------------------------------
+Merged Concept: Arrest and Detention
+Original Neurons: 156
+----------------------------------------
+Merged Concept: Funeral procession images
+Original Neurons: 157
+----------------------------------------
+Merged Concept: Press interview setting.
+Original Neurons: 160
+----------------------------------------
+Merged Concept: Turkish national flag.
+Original Neurons: 163
+----------------------------------------
+Merged Concept: Diverse human experiences
+Original Neurons: 164
+----------------------------------------
+Merged Concept: Law enforcement personnel
+Original Neurons: 165
+----------------------------------------
+Merged Concept: People holding signs
+Original Neurons: 168
+----------------------------------------
+Merged Concept: Pinned person face-down.
+Original Neurons: 169
+----------------------------------------
+Merged Concept: Public political expression
+Original Neurons: 173
+----------------------------------------
+Merged Concept: People in different activities. && People in different roles.
+Original Neurons: 174, 228
+----------------------------------------
+Merged Concept: Person seated outdoors.
+Original Neurons: 179
+----------------------------------------
+Merged Concept: Police interactions
+Original Neurons: 181
+----------------------------------------
+Merged Concept: Police in action
+Original Neurons: 183
+----------------------------------------
+Merged Concept: Civil unrest and conflict
+Original Neurons: 185
+----------------------------------------
+Merged Concept: Military and Uniformed Presence && Military and security personnel
+Original Neurons: 186, 222
+----------------------------------------
+Merged Concept: Pro-Palestine solidarity.
+Original Neurons: 187
+----------------------------------------
+Merged Concept: Conflicted human interactions.
+Original Neurons: 189
+----------------------------------------
+Merged Concept: People in gatherings
+Original Neurons: 191
+----------------------------------------
+Merged Concept: Protest and political symbolism.
+Original Neurons: 195
+----------------------------------------
+Merged Concept: Protests and arrests.
+Original Neurons: 197
+----------------------------------------
+Merged Concept: Body covered with blankets.
+Original Neurons: 199
+----------------------------------------
+Merged Concept: People giving speeches.
+Original Neurons: 200
+----------------------------------------
+Merged Concept: People standing still
+Original Neurons: 201
+----------------------------------------
+Merged Concept: Humanitarian crisis scenes
+Original Neurons: 207
+----------------------------------------
+Merged Concept: People in different situations
+Original Neurons: 208
+----------------------------------------
+Merged Concept: Smuggling and Trafficking
+Original Neurons: 212
+----------------------------------------
+Merged Concept: Person using smartphone
+Original Neurons: 213
+----------------------------------------
+Merged Concept: Bodies on ground
+Original Neurons: 217
+----------------------------------------
+Merged Concept: Objects being held.
+Original Neurons: 220
+----------------------------------------
+Merged Concept: Missing person poster.
+Original Neurons: 221
+----------------------------------------
+Merged Concept: People and flag.
+Original Neurons: 229
+----------------------------------------
+Merged Concept: Political figures interacting.
+Original Neurons: 235
+----------------------------------------
+Merged Concept: Person on ladder
+Original Neurons: 236
+----------------------------------------
+Merged Concept: Military and police operations
+Original Neurons: 242
+----------------------------------------
+Merged Concept: Cattle being led.
+Original Neurons: 243
+----------------------------------------
+Merged Concept: Police interaction scene.
+Original Neurons: 244
+----------------------------------------
+Merged Concept: People in formal attire
+Original Neurons: 245
+----------------------------------------
+Merged Concept: Conflicting political expressions
+Original Neurons: 248
+----------------------------------------
+Merged Concept: Communication and Expression
+Original Neurons: 250
+----------------------------------------
+Merged Concept: Military funeral procession.
+Original Neurons: 251
+----------------------------------------
+Merged Concept: Military communication.
+Original Neurons: 253
+----------------------------------------
+Merged Concept: People making hand gestures
+Original Neurons: 254
+----------------------------------------
