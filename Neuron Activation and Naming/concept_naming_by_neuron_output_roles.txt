@@ -1,0 +1,2003 @@
+Neuron ID: 0
+  - Image: cropped_images/VOA_EN_NW_2014.10.09.2478154_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.25.3565688_2_Entity_1.jpg
+MLLM Concept Name: People using electronics.
+==================================================
+Neuron ID: 1
+  - Image: cropped_images/VOA_EN_NW_2015.10.26.3022860_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.08.3320391_0_Money_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_1_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.14.3724228_0_Money_1.jpg
+MLLM Concept Name: People in formal settings
+==================================================
+Neuron ID: 2
+  - Image: cropped_images/VOA_EN_NW_2014.12.17.2562583_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.08.2747846_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635600_5_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.01.3832748_0_Agent_2.jpg
+MLLM Concept Name: Carrying or assisting others.
+==================================================
+Neuron ID: 3
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_6.jpg
+MLLM Concept Name: People holding flags
+==================================================
+Neuron ID: 5
+  - Image: cropped_images/VOA_EN_NW_2013.04.03.1634074_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.04.3838167_1_Entity_1.jpg
+MLLM Concept Name: Political and social activism
+==================================================
+Neuron ID: 7
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.06.26.2838241_5_Entity_1.jpg
+MLLM Concept Name: I cannot identify people in images. 
+
+Crowded public event.
+==================================================
+Neuron ID: 8
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3037829_1_Vehicle_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3037829_1_Vehicle_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437456_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3616534_0_Vehicle_1.jpg
+MLLM Concept Name: Tactical law enforcement.
+==================================================
+Neuron ID: 9
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_3_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Instrument_4.jpg
+MLLM Concept Name: Military and protest.
+==================================================
+Neuron ID: 10
+  - Image: cropped_images/VOA_EN_NW_2016.04.19.3291980_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.18.3602889_2_Victim_3.jpg
+MLLM Concept Name: Protest or gathering.
+==================================================
+Neuron ID: 11
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_4_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Agent_2.jpg
+MLLM Concept Name: Law enforcement actions
+==================================================
+Neuron ID: 12
+  - Image: cropped_images/VOA_EN_NW_2015.03.05.2668808_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.18.3602889_2_Victim_2.jpg
+MLLM Concept Name: People on the ground.
+==================================================
+Neuron ID: 13
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.24.3739026_2_Vehicle_2.jpg
+MLLM Concept Name: Political tension images
+==================================================
+Neuron ID: 14
+  - Image: cropped_images/VOA_EN_NW_2014.12.25.2573211_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_3.jpg
+MLLM Concept Name: People wearing glasses
+==================================================
+Neuron ID: 15
+  - Image: cropped_images/VOA_EN_NW_2016.12.09.3630378_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.22.3686805_3_Instrument_1.jpg
+MLLM Concept Name: Protest signs.
+==================================================
+Neuron ID: 16
+  - Image: cropped_images/VOA_EN_NW_2016.04.19.3291980_3_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.01.3532811_0_Entity_1.jpg
+MLLM Concept Name: People in authority
+==================================================
+Neuron ID: 17
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_3_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_8.jpg
+MLLM Concept Name: Protest or political event.
+==================================================
+Neuron ID: 18
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.10.3411182_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527025_0_Instrument_2.jpg
+MLLM Concept Name: I don't know.
+==================================================
+Neuron ID: 19
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437456_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_3.jpg
+MLLM Concept Name: Public figure interactions.
+==================================================
+Neuron ID: 20
+  - Image: cropped_images/VOA_EN_NW_2016.02.14.3190340_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.18.3243744_0_Money_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.18.3243744_0_Recipient_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.27.3393616_5_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.31.3572766_2_Entity_1.jpg
+MLLM Concept Name: Political events and activities.
+==================================================
+Neuron ID: 21
+  - Image: cropped_images/VOA_EN_NW_2013.01.28.1592104_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.04.03.1634074_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.04.3838167_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.04.3838167_0_Entity_2.jpg
+MLLM Concept Name: Presidential interactions.
+==================================================
+Neuron ID: 22
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.09.10.2444962_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3037829_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.17.3333843_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.22.3607054_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.16.3678663_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.01.3832748_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Agent_1.jpg
+MLLM Concept Name: Various public demonstrations.
+==================================================
+Neuron ID: 24
+  - Image: cropped_images/VOA_EN_NW_2015.05.08.2760181_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.20.3242323_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_5_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_2.jpg
+MLLM Concept Name: People carrying items.
+==================================================
+Neuron ID: 25
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.09.3410778_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.15.3851683_2_Vehicle_1.jpg
+MLLM Concept Name: Group of people.
+==================================================
+Neuron ID: 26
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3038535_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.11.3412014_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.11.3412014_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.07.3800274_1_Agent_1.jpg
+MLLM Concept Name: People in distress.
+==================================================
+Neuron ID: 27
+  - Image: cropped_images/VOA_EN_NW_2017.02.03.3705362_1_Instrument_1.jpg
+MLLM Concept Name: Missile launching upward
+==================================================
+Neuron ID: 28
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.24.3739026_2_Agent_1.jpg
+MLLM Concept Name: Individuals in distress.
+==================================================
+Neuron ID: 29
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_1_Entity_1.jpg
+MLLM Concept Name: "People in events"
+==================================================
+Neuron ID: 30
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_17.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Instrument_2.jpg
+MLLM Concept Name: Protest or demonstration.
+==================================================
+Neuron ID: 31
+  - Image: cropped_images/VOA_EN_NW_2013.09.27.1758726_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.09.27.1758726_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.27.3393580_1_Place_1.jpg
+MLLM Concept Name: People using phones.
+==================================================
+Neuron ID: 32
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.03.18.1623546_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3038535_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.10.3458597_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.14.3724228_1_Giver_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.24.3823632_4_Vehicle_1.jpg
+MLLM Concept Name: Funeral or mourning
+==================================================
+Neuron ID: 33
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_0_Attacker_1.jpg
+MLLM Concept Name: Holding an object.
+==================================================
+Neuron ID: 34
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_2_Place_1.jpg
+MLLM Concept Name: Holding protest signs
+==================================================
+Neuron ID: 35
+  - Image: cropped_images/VOA_EN_NW_2015.09.25.2978237_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.16.3678663_2_Entity_2.jpg
+MLLM Concept Name: "People in public settings"
+==================================================
+Neuron ID: 36
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074855_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.18.3243744_0_Giver_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.08.3320391_0_Recipient_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.28.3829747_0_Recipient_1.jpg
+MLLM Concept Name: Human interactions and transactions
+==================================================
+Neuron ID: 37
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_1.jpg
+MLLM Concept Name: I'm sorry, I can't provide further information about these images.
+==================================================
+Neuron ID: 38
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_3.jpg
+MLLM Concept Name: I'm sorry, but I can't determine the content of the images from this description.
+==================================================
+Neuron ID: 39
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.14.3190340_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527025_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.16.3678663_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Instrument_1.jpg
+MLLM Concept Name: Protest signs and demonstrations
+==================================================
+Neuron ID: 40
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.10.3590360_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_0_Instrument_3.jpg
+MLLM Concept Name: Protests and demonstrations.
+==================================================
+Neuron ID: 41
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_1_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_1_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.07.2995399_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_0_Police_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.12.3461808_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_3_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_3_Artifact_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.09.3542777_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_2_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3737435_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Attacker_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.07.10.3936006_5_Person_1.jpg
+MLLM Concept Name: Bodies in body bags
+==================================================
+Neuron ID: 42
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.27.3305148_0_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.16.3331907_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_4_Attacker_1.jpg
+MLLM Concept Name: I'm sorry, I can't assist with that.
+==================================================
+Neuron ID: 44
+  - Image: cropped_images/VOA_EN_NW_2014.06.03.1928789_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.04.2667016_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_6.jpg
+MLLM Concept Name: Protest and authority interactions.
+==================================================
+Neuron ID: 45
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.21.2689721_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.13.3328601_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527025_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_2_Agent_1.jpg
+MLLM Concept Name: Political unrest aftermath.
+==================================================
+Neuron ID: 46
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.01.21.1587732_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.26.3022860_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_15.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589149_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.22.3607054_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_13.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_14.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589149_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.17.3729391_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.06.26.2838241_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.02.3702962_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.04.16.1894548_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589149_4_Entity_1.jpg
+MLLM Concept Name: People in suits
+==================================================
+Neuron ID: 47
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Person_2.jpg
+MLLM Concept Name: I'm sorry, but I can't determine a specific concept connecting the image based on the given information.
+==================================================
+Neuron ID: 48
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Instrument_4.jpg
+MLLM Concept Name: Protest sign.
+==================================================
+Neuron ID: 49
+  - Image: cropped_images/VOA_EN_NW_2013.01.28.1592104_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_4_Attacker_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Instrument_1.jpg
+MLLM Concept Name: "Protest and conflict."
+==================================================
+Neuron ID: 50
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527400_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_1.jpg
+MLLM Concept Name: People in various settings
+==================================================
+Neuron ID: 51
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2889903_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654650_1_Agent_2.jpg
+MLLM Concept Name: Law enforcement activities
+==================================================
+Neuron ID: 52
+  - Image: cropped_images/VOA_EN_NW_2014.06.03.1928789_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.13.3808915_2_Agent_2.jpg
+MLLM Concept Name: People in public.
+==================================================
+Neuron ID: 53
+  - Image: cropped_images/VOA_EN_NW_2016.08.10.3458597_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_4_Entity_1.jpg
+MLLM Concept Name: I'm sorry, I can't help with that.
+==================================================
+Neuron ID: 54
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_5.jpg
+MLLM Concept Name: People wearing suits.
+==================================================
+Neuron ID: 55
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437456_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_5.jpg
+MLLM Concept Name: Conflict and violence.
+==================================================
+Neuron ID: 56
+  - Image: cropped_images/VOA_EN_NW_2013.01.21.1587732_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_4_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.27.3483319_3_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_4.jpg
+MLLM Concept Name: "People in Uniforms"
+==================================================
+Neuron ID: 57
+  - Image: cropped_images/VOA_EN_NW_2014.03.02.1862314_3_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_0_Police_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.10.3370380_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.19.3424061_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_3.jpg
+MLLM Concept Name: Protest and law enforcement.
+==================================================
+Neuron ID: 58
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_3.jpg
+MLLM Concept Name: Protests and demonstrations
+==================================================
+Neuron ID: 59
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.20.2605914_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.05.2668808_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.27.3393616_0_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437456_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.09.3542777_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.18.3602889_2_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.28.3829747_0_Money_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_2.jpg
+MLLM Concept Name: Groups of people
+==================================================
+Neuron ID: 60
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_2_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_1.jpg
+MLLM Concept Name: Crowded public events.
+==================================================
+Neuron ID: 61
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_0_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.07.2995399_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_5.jpg
+MLLM Concept Name: Police and security.
+==================================================
+Neuron ID: 62
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Instrument_3.jpg
+MLLM Concept Name: I'm unable to determine the concept from the given image.
+==================================================
+Neuron ID: 63
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.21.3775715_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Person_4.jpg
+MLLM Concept Name: "People being detained"
+==================================================
+Neuron ID: 64
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_2_Entity_6.jpg
+MLLM Concept Name: Protests and Gatherings
+==================================================
+Neuron ID: 65
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.05.1784209_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.15.3376531_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.11.3412014_1_Agent_2.jpg
+MLLM Concept Name: Holding mobile devices.
+==================================================
+Neuron ID: 66
+  - Image: cropped_images/VOA_EN_NW_2015.05.08.2760181_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.09.3410778_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Instrument_1.jpg
+MLLM Concept Name: Protest or demonstration
+==================================================
+Neuron ID: 68
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.22.3686805_3_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_2_Agent_2.jpg
+MLLM Concept Name: Protest and police interaction.
+==================================================
+Neuron ID: 69
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_6.jpg
+MLLM Concept Name: People attending event
+==================================================
+Neuron ID: 70
+  - Image: cropped_images/VOA_EN_NW_2015.10.01.2987042_0_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_6.jpg
+MLLM Concept Name: "Public protest gatherings"
+==================================================
+Neuron ID: 71
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_0_Person_1.jpg
+MLLM Concept Name: Person being arrested.
+==================================================
+Neuron ID: 72
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_4_Attacker_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_4_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.24.3823632_2_Entity_2.jpg
+MLLM Concept Name: I'm sorry, I can't determine the unifying concept based on these images.
+==================================================
+Neuron ID: 73
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_6_Entity_1.jpg
+MLLM Concept Name: Sorry, I can't help with that.
+==================================================
+Neuron ID: 74
+  - Image: cropped_images/VOA_EN_NW_2014.12.13.2556485_0_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.08.3181623_2_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_4_Person_4.jpg
+MLLM Concept Name: Prisoners and confinement.
+==================================================
+Neuron ID: 75
+  - Image: cropped_images/VOA_EN_NW_2014.12.15.2551521_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.15.2551521_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_8.jpg
+MLLM Concept Name: People with umbrellas
+==================================================
+Neuron ID: 77
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_1_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3737435_1_Agent_2.jpg
+MLLM Concept Name: Images of humanitarian aid
+==================================================
+Neuron ID: 78
+  - Image: cropped_images/VOA_EN_NW_2015.08.04.2902011_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_4_Instrument_1.jpg
+MLLM Concept Name: Accessories and objects
+==================================================
+Neuron ID: 79
+  - Image: cropped_images/VOA_EN_NW_2014.05.22.1920650_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.08.2760181_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699018_2_Entity_1.jpg
+MLLM Concept Name: Conflict and aftermath.
+==================================================
+Neuron ID: 82
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_0_Agent_3.jpg
+MLLM Concept Name: Military personnel lifting.
+==================================================
+Neuron ID: 83
+  - Image: cropped_images/VOA_EN_NW_2016.02.08.3181623_2_Vehicle_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.12.3461808_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3526898_1_Vehicle_1.jpg
+MLLM Concept Name: Humanitarian aid transport
+==================================================
+Neuron ID: 84
+  - Image: cropped_images/VOA_EN_NW_2014.12.16.2560677_0_Victim_1.jpg
+MLLM Concept Name: Carrying a coffin.
+==================================================
+Neuron ID: 85
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_16.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.15.2551521_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.15.2551521_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.22.3297950_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.09.3410778_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.31.3572766_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.31.3572766_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_8_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_13.jpg
+MLLM Concept Name: People interacting together
+==================================================
+Neuron ID: 86
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_0_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.25.2978237_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635600_5_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3736556_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3736556_2_Person_1.jpg
+MLLM Concept Name: People and conflict
+==================================================
+Neuron ID: 87
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_0_Instrument_1.jpg
+MLLM Concept Name: Hands in handcuffs.
+==================================================
+Neuron ID: 89
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.20.1794343_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.04.16.1894548_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.05.3090416_0_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_8.jpg
+MLLM Concept Name: Protests and communication.
+==================================================
+Neuron ID: 90
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.28.3696450_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.02.3702962_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.17.3729391_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_3_Entity_1.jpg
+MLLM Concept Name: Person on phone
+==================================================
+Neuron ID: 92
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_2_Victim_2.jpg
+MLLM Concept Name: Protest and unrest.
+==================================================
+Neuron ID: 93
+  - Image: cropped_images/VOA_EN_NW_2016.09.08.3498453_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3737435_1_Agent_1.jpg
+MLLM Concept Name: Animals in captivity.
+==================================================
+Neuron ID: 94
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_5_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.26.3916532_2_Instrument_1.jpg
+MLLM Concept Name: Human rights protests
+==================================================
+Neuron ID: 95
+  - Image: cropped_images/VOA_EN_NW_2014.10.09.2478154_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_1_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_5.jpg
+MLLM Concept Name: Protesting and gatherings.
+==================================================
+Neuron ID: 96
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.09.3369222_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_0_Agent_2.jpg
+MLLM Concept Name: Human social interactions
+==================================================
+Neuron ID: 97
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_14.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_15.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2889903_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_1_Instrument_1.jpg
+MLLM Concept Name: Protest or demonstration.
+==================================================
+Neuron ID: 98
+  - Image: cropped_images/VOA_EN_NW_2017.01.22.3686805_4_Instrument_1.jpg
+MLLM Concept Name: Protest sign.
+==================================================
+Neuron ID: 99
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_0_Victim_2.jpg
+MLLM Concept Name: People in distress
+==================================================
+Neuron ID: 100
+  - Image: cropped_images/VOA_EN_NW_2016.05.17.3333843_0_Attacker_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_1.jpg
+MLLM Concept Name: People standing outdoors.
+==================================================
+Neuron ID: 101
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.22.3607054_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3736556_2_Agent_4.jpg
+MLLM Concept Name: People in diverse roles
+==================================================
+Neuron ID: 102
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.21.1794874_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_1.jpg
+MLLM Concept Name: I'm sorry, I can't determine the unifying concept from these images.
+==================================================
+Neuron ID: 103
+  - Image: cropped_images/VOA_EN_NW_2013.01.10.1581113_3_Place_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_4_Police_3.jpg
+MLLM Concept Name: Public demonstration scene
+==================================================
+Neuron ID: 104
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.21.2689721_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Vehicle_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_1.jpg
+MLLM Concept Name: I'm sorry, I can't determine the unifying concept for the images provided.
+==================================================
+Neuron ID: 105
+  - Image: cropped_images/VOA_EN_NW_2009.12.09.416313_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2009.12.13.416444_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2009.12.13.416444_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.08.14.1729937_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_18.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.31.1841956_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.14.2767071_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.06.26.2838241_5_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_4_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_5_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.20.3338580_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.10.3411182_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.14.3724228_0_Money_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_13.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_9.jpg
+MLLM Concept Name: Bodies in shrouds.
+==================================================
+Neuron ID: 106
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_13.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_0_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.07.2405842_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.25.2573211_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.20.2605914_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.17.3106664_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184811_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_13.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_6.jpg
+MLLM Concept Name: People in professional settings.
+==================================================
+Neuron ID: 107
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.06.3133182_0_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.21.3775715_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Agent_1.jpg
+MLLM Concept Name: People in suits
+==================================================
+Neuron ID: 108
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.08.3498453_0_Vehicle_1.jpg
+MLLM Concept Name: Carrying large objects
+==================================================
+Neuron ID: 109
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_4.jpg
+MLLM Concept Name: Carrying heavy objects
+==================================================
+Neuron ID: 110
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.28.3614228_3_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635600_0_Target_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_0_Instrument_1.jpg
+MLLM Concept Name: Conflict and destruction.
+==================================================
+Neuron ID: 111
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.08.3842885_1_Agent_1.jpg
+MLLM Concept Name: "Protest and conflict"
+==================================================
+Neuron ID: 112
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_4_Entity_3.jpg
+MLLM Concept Name: People in suits
+==================================================
+Neuron ID: 113
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_2.jpg
+MLLM Concept Name: "People in various roles"
+==================================================
+Neuron ID: 114
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.13.3549797_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589149_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_6.jpg
+MLLM Concept Name: People in suits
+==================================================
+Neuron ID: 115
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.08.3842885_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Agent_2.jpg
+MLLM Concept Name: People being detained.
+==================================================
+Neuron ID: 116
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.06.1823838_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.22.1920650_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.07.2995399_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Place_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.17.3333843_0_Attacker_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.04.3403532_3_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.10.3458597_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.10.3458597_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_3_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_3_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.13.3549797_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.13.3549797_3_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Vehicle_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.16.3769606_2_Victim_1.jpg
+MLLM Concept Name: I'm sorry, I can't assist with that.
+==================================================
+Neuron ID: 117
+  - Image: cropped_images/VOA_EN_NW_2009.12.13.416444_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2009.12.13.416444_1_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2009.12.13.416444_1_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.03.3705362_3_Target_1.jpg
+MLLM Concept Name: I don't know.
+==================================================
+Neuron ID: 119
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_2_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.17.2562583_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3526898_0_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.15.3851683_4_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_2_Instrument_1.jpg
+MLLM Concept Name: Handling deceased bodies.
+==================================================
+Neuron ID: 120
+  - Image: cropped_images/VOA_EN_NW_2016.01.13.3142975_0_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_4_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_4_Person_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_10.jpg
+MLLM Concept Name: Standing people restrained.
+==================================================
+Neuron ID: 121
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437456_2_Person_1.jpg
+MLLM Concept Name: I'm sorry, I can't help with that.
+==================================================
+Neuron ID: 122
+  - Image: cropped_images/VOA_EN_NW_2013.11.10.1787498_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.20.1794343_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.03.24.1877778_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.05.3797975_4_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.15.3902402_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.15.3902402_3_Person_1.jpg
+MLLM Concept Name: People using communication devices
+==================================================
+Neuron ID: 123
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_0_Police_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.18.3602889_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_5.jpg
+MLLM Concept Name: Protest and advocacy.
+==================================================
+Neuron ID: 124
+  - Image: cropped_images/VOA_EN_NW_2013.01.10.1581113_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.06.3133182_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.06.3133182_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.09.3630378_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_0_Instrument_1.jpg
+MLLM Concept Name: "Political protests signs"
+==================================================
+Neuron ID: 125
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.31.3572766_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3616534_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_4.jpg
+MLLM Concept Name: Meeting world leaders
+==================================================
+Neuron ID: 126
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Vehicle_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.07.10.3936006_2_Target_1.jpg
+MLLM Concept Name: War and destruction.
+==================================================
+Neuron ID: 127
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_2.jpg
+MLLM Concept Name: Meeting or conference.
+==================================================
+Neuron ID: 128
+  - Image: cropped_images/VOA_EN_NW_2012.05.26.1105689_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3038535_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_4_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635600_0_Target_1.jpg
+MLLM Concept Name: Conflict and Aftermath
+==================================================
+Neuron ID: 129
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_4.jpg
+MLLM Concept Name: Funeral or memorial ceremony.
+==================================================
+Neuron ID: 130
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.22.3297950_1_Agent_1.jpg
+MLLM Concept Name: People with equipment
+==================================================
+Neuron ID: 131
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.15.3376757_2_Vehicle_1.jpg
+MLLM Concept Name: Carrying cardboard boxes.
+==================================================
+Neuron ID: 132
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_1_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_12.jpg
+MLLM Concept Name: People in discussion
+==================================================
+Neuron ID: 134
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Instrument_5.jpg
+MLLM Concept Name: Person at protest.
+==================================================
+Neuron ID: 135
+  - Image: cropped_images/VOA_EN_NW_2014.03.02.1862314_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.11.09.2508360_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074855_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_7.jpg
+MLLM Concept Name: Protest and police presence.
+==================================================
+Neuron ID: 137
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.08.1696918_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.03.02.1862314_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_0_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.09.10.2444962_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.20.2605914_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.21.2689721_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.21.2689721_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.02.2845998_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2889903_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184811_0_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.14.3190340_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.21.3385836_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.19.3424061_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_9_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.16.3678417_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.17.3729391_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.17.3729391_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.05.3797975_4_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.13.3808915_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_5.jpg
+MLLM Concept Name: Funeral processions
+==================================================
+Neuron ID: 138
+  - Image: cropped_images/VOA_EN_NW_2013.11.15.1791049_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.02.2942501_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527400_3_Person_1.jpg
+MLLM Concept Name: Being seized or arrested
+==================================================
+Neuron ID: 139
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Attacker_3.jpg
+MLLM Concept Name: Protest and conflict.
+==================================================
+Neuron ID: 140
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.11.3412014_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_8.jpg
+MLLM Concept Name: Protest and unrest.
+==================================================
+Neuron ID: 141
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_6.jpg
+MLLM Concept Name: People in meeting.
+==================================================
+Neuron ID: 142
+  - Image: cropped_images/VOA_EN_NW_2014.12.13.2556485_0_Person_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699085_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.04.3838167_1_Instrument_1.jpg
+MLLM Concept Name: Talking on phone.
+==================================================
+Neuron ID: 143
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Instrument_2.jpg
+MLLM Concept Name: Person holding gun.
+==================================================
+Neuron ID: 145
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_5_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Instrument_4.jpg
+MLLM Concept Name: Protest and activism.
+==================================================
+Neuron ID: 146
+  - Image: cropped_images/VOA_EN_NW_2013.01.10.1581113_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_4_Target_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.04.3493324_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699085_0_Instrument_1.jpg
+MLLM Concept Name: Political unrest images
+==================================================
+Neuron ID: 147
+  - Image: cropped_images/VOA_EN_NW_2015.07.16.2865144_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.11.2959960_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.08.3181623_2_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_5_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_2_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.13.3283669_5_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Vehicle_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.24.3739026_2_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.15.3851683_3_Vehicle_1.jpg
+MLLM Concept Name: Humanitarian aid efforts
+==================================================
+Neuron ID: 148
+  - Image: cropped_images/VOA_EN_NW_2015.09.05.2949130_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.05.2949130_0_Artifact_1.jpg
+MLLM Concept Name: Child being carried.
+==================================================
+Neuron ID: 149
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.30.3351608_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.25.3565688_2_Instrument_1.jpg
+MLLM Concept Name: Military funeral ceremony.
+==================================================
+Neuron ID: 150
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.27.3653223_0_Instrument_1.jpg
+MLLM Concept Name: Protest and communication
+==================================================
+Neuron ID: 152
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_0_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_6.jpg
+MLLM Concept Name: Handling cardboard boxes.
+==================================================
+Neuron ID: 154
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_5_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_5_Place_1.jpg
+MLLM Concept Name: Holding protest signs
+==================================================
+Neuron ID: 155
+  - Image: cropped_images/VOA_EN_NW_2013.07.08.1696918_3_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.15.1791049_0_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527025_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Vehicle_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_2_Agent_1.jpg
+MLLM Concept Name: I'm sorry, I can't provide details about the images or offer the specific phrase.
+==================================================
+Neuron ID: 156
+  - Image: cropped_images/VOA_EN_NW_2009.12.09.416313_1_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.02.2942501_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Agent_2.jpg
+MLLM Concept Name: Arrest and Detention
+==================================================
+Neuron ID: 157
+  - Image: cropped_images/VOA_EN_NW_2009.12.09.416313_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2009.12.09.416313_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_3_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.15.1791049_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.05.3037829_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.10.3458597_2_Entity_2.jpg
+MLLM Concept Name: Funeral procession images
+==================================================
+Neuron ID: 158
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_2_Entity_4.jpg
+MLLM Concept Name: People in protest.
+==================================================
+Neuron ID: 159
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Instrument_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.03.24.1877778_0_Entity_1.jpg
+MLLM Concept Name: "People in suits"
+==================================================
+Neuron ID: 160
+  - Image: cropped_images/VOA_EN_NW_2015.06.26.2838241_5_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_1_Entity_4.jpg
+MLLM Concept Name: Press interview setting.
+==================================================
+Neuron ID: 161
+  - Image: cropped_images/VOA_EN_NW_2013.01.28.1592104_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.09.09.1746134_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.14.3285847_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.04.3493324_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.22.3686805_4_Instrument_2.jpg
+MLLM Concept Name: Social and political events
+==================================================
+Neuron ID: 162
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.22.3686805_3_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.13.3808915_2_Agent_1.jpg
+MLLM Concept Name: Political protest gathering.
+==================================================
+Neuron ID: 163
+  - Image: cropped_images/VOA_EN_NW_2016.07.19.3424061_3_Instrument_1.jpg
+MLLM Concept Name: Turkish national flag.
+==================================================
+Neuron ID: 164
+  - Image: cropped_images/VOA_EN_NW_2015.03.04.2667016_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.16.3331907_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.19.3676842_0_Instrument_3.jpg
+MLLM Concept Name: Diverse human experiences
+==================================================
+Neuron ID: 165
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.14.3417836_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3736556_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_0_Target_1.jpg
+MLLM Concept Name: Law enforcement personnel
+==================================================
+Neuron ID: 167
+  - Image: cropped_images/VOA_EN_NW_2013.11.15.1791049_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.11.15.1791049_0_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Police_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_1_Entity_5.jpg
+MLLM Concept Name: Protest and authority figures.
+==================================================
+Neuron ID: 168
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_2_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.08.09.1726740_0_Money_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.08.09.1726740_0_Money_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.08.09.1726740_0_Recipient_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.17.3106664_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.20.3242323_1_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_10.jpg
+MLLM Concept Name: People holding signs
+==================================================
+Neuron ID: 169
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_1_Person_1.jpg
+MLLM Concept Name: Pinned person face-down.
+==================================================
+Neuron ID: 172
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_14.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_15.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.17.2562583_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.05.2749920_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654650_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654650_0_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.26.3916532_2_Victim_1.jpg
+MLLM Concept Name: I'm sorry, I can't help with that.
+==================================================
+Neuron ID: 173
+  - Image: cropped_images/VOA_EN_NW_2015.01.20.2605914_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_4_Instrument_1.jpg
+MLLM Concept Name: Public political expression
+==================================================
+Neuron ID: 174
+  - Image: cropped_images/VOA_EN_NW_2013.01.21.1587732_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_0_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_5.jpg
+MLLM Concept Name: People in different roles.
+==================================================
+Neuron ID: 175
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_9.jpg
+MLLM Concept Name: Sorry, I can't help with that.
+==================================================
+Neuron ID: 176
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_5_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_2_Person_1.jpg
+MLLM Concept Name: Public protest actions
+==================================================
+Neuron ID: 177
+  - Image: cropped_images/VOA_EN_NW_2016.04.19.3291980_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699085_3_Instrument_1.jpg
+MLLM Concept Name: "Political activities"
+==================================================
+Neuron ID: 179
+  - Image: cropped_images/VOA_EN_NW_2015.08.04.2902011_2_Entity_2.jpg
+MLLM Concept Name: Person seated outdoors.
+==================================================
+Neuron ID: 180
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_2_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_3_Entity_2.jpg
+MLLM Concept Name: "Human interactions"
+==================================================
+Neuron ID: 181
+  - Image: cropped_images/VOA_EN_NW_2014.03.02.1862314_3_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184811_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_2_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.01.3832748_0_Person_1.jpg
+MLLM Concept Name: Police interactions
+==================================================
+Neuron ID: 182
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.10.3590360_5_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.15.3902402_3_Agent_1.jpg
+MLLM Concept Name: Protests and demonstrations
+==================================================
+Neuron ID: 183
+  - Image: cropped_images/VOA_EN_NW_2016.02.15.3191284_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_3_Agent_1.jpg
+MLLM Concept Name: Police in action
+==================================================
+Neuron ID: 184
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_2_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2697067_3_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527400_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Attacker_2.jpg
+MLLM Concept Name: Person in distress.
+==================================================
+Neuron ID: 185
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_1_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.17.3333843_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.12.3461808_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_3_Artifact_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.25.3825261_1_Victim_6.jpg
+MLLM Concept Name: Civil unrest and conflict
+==================================================
+Neuron ID: 186
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.17.3194684_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Agent_1.jpg
+MLLM Concept Name: Military and Uniformed Presence
+==================================================
+Neuron ID: 187
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_16.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_1_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.01.3532811_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_2_Artifact_1.jpg
+MLLM Concept Name: Pro-Palestine solidarity.
+==================================================
+Neuron ID: 189
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.14.3190340_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.24.3300395_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_4.jpg
+MLLM Concept Name: Conflicted human interactions.
+==================================================
+Neuron ID: 191
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_12.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Entity_2.jpg
+MLLM Concept Name: People in gatherings
+==================================================
+Neuron ID: 193
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.02.3491404_5_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.05.3798460_2_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_2.jpg
+MLLM Concept Name: People in public settings.
+==================================================
+Neuron ID: 194
+  - Image: cropped_images/VOA_EN_NW_2013.05.23.1666803_2_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.28.2793713_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.25.2978237_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.06.3133182_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.20.3242323_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.21.3247676_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.01.3702375_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.15.3726266_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.07.3800274_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_4.jpg
+MLLM Concept Name: Law enforcement activities
+==================================================
+Neuron ID: 195
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.20.3242323_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_2_Instrument_2.jpg
+MLLM Concept Name: Protest and political symbolism.
+==================================================
+Neuron ID: 196
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_0_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.17.3106664_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.15.3191284_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.20.3242323_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.05.3798460_2_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_4_Police_4.jpg
+MLLM Concept Name: Law enforcement activity
+==================================================
+Neuron ID: 197
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074855_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.09.3542777_1_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Person_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_3.jpg
+MLLM Concept Name: Protests and arrests.
+==================================================
+Neuron ID: 198
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_2_Victim_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.01.22.1835368_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.07.2995399_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.21.3519438_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Vehicle_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_4.jpg
+MLLM Concept Name: Protest or arrest situations.
+==================================================
+Neuron ID: 199
+  - Image: cropped_images/VOA_EN_NW_2017.03.19.3772413_0_Victim_3.jpg
+MLLM Concept Name: Body covered with blankets.
+==================================================
+Neuron ID: 200
+  - Image: cropped_images/VOA_EN_NW_2013.09.27.1758726_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_4_Entity_2.jpg
+MLLM Concept Name: People giving speeches.
+==================================================
+Neuron ID: 201
+  - Image: cropped_images/VOA_EN_NW_2015.03.27.2696792_0_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.18.3012400_3_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.21.3519438_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.14.3724228_1_Recipient_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.27.3783190_3_Person_1.jpg
+MLLM Concept Name: "People standing still"
+==================================================
+Neuron ID: 203
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_0_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.07.3800274_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_1_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.24.3823632_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.07.10.3936006_5_Instrument_1.jpg
+MLLM Concept Name: Protests and demonstrations.
+==================================================
+Neuron ID: 204
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Instrument_2.jpg
+MLLM Concept Name: I'm sorry, I can't determine the unifying concept from the image provided.
+==================================================
+Neuron ID: 205
+  - Image: cropped_images/VOA_EN_NW_2014.08.07.2405842_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.20.2605914_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.09.3369222_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.09.3410778_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3615580_0_Victim_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.07.3800274_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.14.3850909_0_Artifact_2.jpg
+MLLM Concept Name: I'm sorry, I can't help with that.
+==================================================
+Neuron ID: 206
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635600_5_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654650_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_4_Instrument_1.jpg
+MLLM Concept Name: Law enforcement operations
+==================================================
+Neuron ID: 207
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_1_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_3_Victim_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.08.3093406_1_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_3_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.20.3643261_2_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Person_2.jpg
+MLLM Concept Name: "Humanitarian crisis scenes"
+==================================================
+Neuron ID: 208
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_0_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.03.02.1862314_3_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.05.05.2749920_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.10.3590360_2_Entity_3.jpg
+MLLM Concept Name: People in different situations
+==================================================
+Neuron ID: 209
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699018_2_Instrument_1.jpg
+MLLM Concept Name: I'm unable to discern a unifying concept from these images.
+==================================================
+Neuron ID: 211
+  - Image: cropped_images/VOA_EN_NW_2013.05.02.1653029_0_Instrument_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Instrument_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.09.3410778_2_Entity_3.jpg
+MLLM Concept Name: People at public event
+==================================================
+Neuron ID: 212
+  - Image: cropped_images/VOA_EN_NW_2014.12.29.2577251_3_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_1_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.01.2987042_0_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.07.3135549_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.15.3376757_2_Artifact_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.08.3498453_2_Vehicle_1.jpg
+MLLM Concept Name: "Smuggling and Trafficking"
+==================================================
+Neuron ID: 213
+  - Image: cropped_images/VOA_EN_NW_2013.08.14.1729937_2_Entity_1.jpg
+MLLM Concept Name: Person using smartphone
+==================================================
+Neuron ID: 214
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_0_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_5_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.16.3331907_0_Agent_3.jpg
+MLLM Concept Name: People in uniforms
+==================================================
+Neuron ID: 215
+  - Image: cropped_images/VOA_EN_NW_2014.05.22.1920650_3_Target_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.17.2562583_3_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.11.3460137_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.14.3724228_1_Money_1.jpg
+MLLM Concept Name: I'm sorry, I can't analyze or interpret these images.
+==================================================
+Neuron ID: 217
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_0_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.09.13.1749095_2_Victim_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.08.2908562_3_Instrument_1.jpg
+MLLM Concept Name: Bodies on ground
+==================================================
+Neuron ID: 218
+  - Image: cropped_images/VOA_EN_NW_2016.06.26.3392569_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654650_1_Person_1.jpg
+MLLM Concept Name: People in various situations.
+==================================================
+Neuron ID: 219
+  - Image: cropped_images/VOA_EN_NW_2013.01.21.1587732_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.07.08.1696918_2_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.12.31.1820694_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.12.31.1820694_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.07.14.1957332_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.02.2542349_2_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.19.2685042_2_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_10.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.19.3197746_4_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.30.3309655_2_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.16.3678663_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.15.3767889_3_Person_1.jpg
+MLLM Concept Name: I'm sorry, I can't help with that.
+==================================================
+Neuron ID: 220
+  - Image: cropped_images/VOA_EN_NW_2016.06.10.3370380_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Instrument_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3616534_0_Artifact_1.jpg
+MLLM Concept Name: Objects being held.
+==================================================
+Neuron ID: 221
+  - Image: cropped_images/VOA_EN_NW_2016.08.27.3483319_3_Victim_2.jpg
+MLLM Concept Name: Missing person poster.
+==================================================
+Neuron ID: 222
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.01.3264272_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.16.3331907_0_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.17.3469525_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.08.19.3472017_2_Artifact_1.jpg
+MLLM Concept Name: "Military and security personnel"
+==================================================
+Neuron ID: 223
+  - Image: cropped_images/VOA_EN_NW_2013.01.10.1581113_3_Place_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779954_0_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.01.3214677_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.15.3376531_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.06.3583381_4_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.22.3734870_5_Person_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_5.jpg
+MLLM Concept Name: People in distress
+==================================================
+Neuron ID: 224
+  - Image: cropped_images/VOA_EN_NW_2015.09.02.2942501_2_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.23.3251117_4_Entity_6.jpg
+MLLM Concept Name: Protest demonstration.
+==================================================
+Neuron ID: 225
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.22.1920650_1_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Vehicle_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_1_Place_1.jpg
+MLLM Concept Name: Conflict and protest
+==================================================
+Neuron ID: 226
+  - Image: cropped_images/VOA_EN_NW_2017.01.20.3685521_4_Entity_1.jpg
+MLLM Concept Name: Protest or demonstration.
+==================================================
+Neuron ID: 227
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_0_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_2_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.28.3437601_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.28.3696450_0_Instrument_1.jpg
+MLLM Concept Name: Human interactions occurring.
+==================================================
+Neuron ID: 228
+  - Image: cropped_images/VOA_EN_NW_2013.07.27.1711271_0_Victim_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_13.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.12.23.3115897_0_Entity_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.22.3297950_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.22.3297950_1_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.20.3338580_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.02.3358563_1_Agent_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_7.jpg
+MLLM Concept Name: People in different activities.
+==================================================
+Neuron ID: 229
+  - Image: cropped_images/VOA_EN_NW_2015.05.14.2767071_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.17.3194684_4_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Person_6.jpg
+MLLM Concept Name: People and flag.
+==================================================
+Neuron ID: 230
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.10.2713895_0_Entity_8.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.12.3327048_4_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.10.3590360_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.17.3640413_2_Entity_2.jpg
+MLLM Concept Name: Protest and activism.
+==================================================
+Neuron ID: 231
+  - Image: cropped_images/VOA_EN_NW_2013.01.28.1592104_1_Victim_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2013.10.30.1779904_3_Victim_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.12.29.2577251_3_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.26.3022860_1_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_3_Artifact_7.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589149_3_Entity_1.jpg
+MLLM Concept Name: "I don't know."
+==================================================
+Neuron ID: 232
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.01.30.3699085_0_Entity_1.jpg
+MLLM Concept Name: Public protest signs
+==================================================
+Neuron ID: 233
+  - Image: cropped_images/VOA_EN_NW_2012.12.10.1562068_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_0_Entity_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.02.10.3184933_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.11.3325807_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.23.3431608_5_Entity_3.jpg
+MLLM Concept Name: People in suits
+==================================================
+Neuron ID: 234
+  - Image: cropped_images/VOA_EN_NW_2013.09.09.1746134_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_4_Entity_2.jpg
+MLLM Concept Name: People interacting socially
+==================================================
+Neuron ID: 235
+  - Image: cropped_images/VOA_EN_NW_2015.11.26.3074696_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_5_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Vehicle_3.jpg
+MLLM Concept Name: Political figures interacting.
+==================================================
+Neuron ID: 236
+  - Image: cropped_images/VOA_EN_NW_2016.09.08.3498453_0_Artifact_1.jpg
+MLLM Concept Name: Person on ladder
+==================================================
+Neuron ID: 238
+  - Image: cropped_images/VOA_EN_NW_2014.11.09.2508360_0_Entity_1.jpg
+MLLM Concept Name: Person on phone
+==================================================
+Neuron ID: 239
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.04.30.2743015_2_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.13.3328601_2_Victim_1.jpg
+MLLM Concept Name: Crowded protest gathering.
+==================================================
+Neuron ID: 240
+  - Image: cropped_images/VOA_EN_NW_2014.12.13.2556485_0_Person_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.31.2888384_2_Entity_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.21.3910361_5_Instrument_1.jpg
+MLLM Concept Name: Protest or conflict.
+==================================================
+Neuron ID: 241
+  - Image: cropped_images/VOA_EN_NW_2013.11.05.1784209_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.03.21.2689721_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.07.16.2865144_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.06.15.3376531_1_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.12.3415627_2_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_0_Instrument_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_3_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.20.3818034_4_Police_2.jpg
+MLLM Concept Name: Protest and activism.
+==================================================
+Neuron ID: 242
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_1_Police_9.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.07.2405842_1_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.08.20.2422182_1_Agent_5.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.01.16.2600974_2_Agent_4.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913225_0_Agent_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.05.30.3351608_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.11.3412014_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.07.27.3436565_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.18.3556203_4_Vehicle_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.02.23.3736556_2_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.03.21.3775715_1_Agent_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.05.3798460_2_Agent_2.jpg
+MLLM Concept Name: Military and police operations
+==================================================
+Neuron ID: 243
+  - Image: cropped_images/VOA_EN_NW_2016.09.08.3498453_2_Artifact_1.jpg
+MLLM Concept Name: Cattle being led.
+==================================================
+Neuron ID: 244
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527400_3_Agent_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527400_3_Person_2.jpg
+MLLM Concept Name: Police interaction scene.
+==================================================
+Neuron ID: 245
+  - Image: cropped_images/VOA_EN_NW_2014.05.12.1912526_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2014.09.10.2444962_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.09.02.2942501_2_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.07.2995399_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_3_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_3_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.10.21.3017239_5_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_3_Attacker_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.09.27.3527595_1_Artifact_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.09.3589252_0_Entity_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.10.3590360_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_8_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_9_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.14.3635692_9_Entity_3.jpg
+MLLM Concept Name: People in formal attire
+==================================================
+Neuron ID: 246
+  - Image: cropped_images/VOA_EN_NW_2016.03.25.3254676_1_Agent_2.jpg
+MLLM Concept Name: Carrying a coffin.
+==================================================
+Neuron ID: 247
+  - Image: cropped_images/VOA_EN_NW_2013.07.08.1696918_3_Instrument_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.01.05.3132000_4_Entity_11.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.03.04.3219688_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.01.3532811_1_Victim_1.jpg
+MLLM Concept Name: Protest and conflict.
+==================================================
+Neuron ID: 248
+  - Image: cropped_images/VOA_EN_NW_2016.01.28.3166988_4_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.11.29.3616534_1_Attacker_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.28.3654540_0_Instrument_4.jpg
+MLLM Concept Name: Conflicting political expressions
+==================================================
+Neuron ID: 249
+  - Image: cropped_images/VOA_EN_NW_2014.12.13.2556485_0_Person_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2015.08.18.2922213_3_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.17.3854850_2_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.05.31.3878829_1_Agent_3.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.07.3891137_1_Entity_2.jpg
+MLLM Concept Name: I don't know.
+==================================================
+Neuron ID: 250
+  - Image: cropped_images/VOA_EN_NW_2015.08.03.2896400_0_Entity_6.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.12.27.3653223_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.06.15.3901731_2_Instrument_1.jpg
+MLLM Concept Name: Communication and Expression
+==================================================
+Neuron ID: 251
+  - Image: cropped_images/VOA_EN_NW_2015.08.11.2913549_2_Victim_1.jpg
+MLLM Concept Name: Military funeral procession.
+==================================================
+Neuron ID: 252
+  - Image: cropped_images/VOA_EN_NW_2016.03.01.3214677_3_Artifact_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2017.04.28.3829747_0_Giver_1.jpg
+MLLM Concept Name: Humanitarian aid assistance.
+==================================================
+Neuron ID: 253
+  - Image: cropped_images/VOA_EN_NW_2013.11.10.1787498_0_Entity_1.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.10.19.3557471_0_Vehicle_2.jpg
+MLLM Concept Name: Military communication.
+==================================================
+Neuron ID: 254
+  - Image: cropped_images/VOA_EN_NW_2014.05.25.1921616_2_Entity_2.jpg
+  - Image: cropped_images/VOA_EN_NW_2016.04.11.3279945_5_Entity_3.jpg
+MLLM Concept Name: People making hand gestures
+==================================================
